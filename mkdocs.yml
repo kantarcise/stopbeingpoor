@@ -16,3 +16,4 @@ theme:
 nav:
   - Home: index.md
   - Checklist for a Successful Agency: checklist_for_agency.md
+  - Glossary: glossary.md
