@@ -5,19 +5,19 @@
 
 ## The Words
 
-#### 90 Day Increments
+### 90 Day Increments
 
 Daniel banger:
 
 > Everything you want in life is gated between 90 day increments.
 
-#### Branding
+### Branding
 
 Are you positioning yourself as the expert on the X topic?
 
 Are people referring to you as the expert on the X topic?
 
-#### Claim
+### Claim
 
 Part of an offer. "I'll do this and I will make you this much"
 
@@ -25,7 +25,7 @@ Part of an offer. "I'll do this and I will make you this much"
 - You can do it yourself.
 - You get in a time machine and join Client Ascension.
 
-#### Cold Email
+### Cold Email
 
 A cold email is an unsolicited e-mail that is sent to a receiver without prior contact.
 
@@ -49,36 +49,36 @@ You can use cold email to make a demand capture offer to a demand generation off
 
 - Cold emailing with relevant indicators. (They are hiring specific type of person - they are using a specific type of technology on their website. You scrape lists like that)
 
-#### Cold Outreach
+### Cold Outreach
 
 Bigger term including Cold Emails.
 
-#### Churn
+### Churn
 
-#### Deliverable
+### Deliverable
 
 
-#### Demand Capture Offers
+### Demand Capture Offers
 
 Web Desing! You sell web design to people already looking for websites.
 
-#### Demand Generation Offers
+### Demand Generation Offers
 
 A unique twist on a Demand Capture offer. You do websites in a unique way. Example: You do websites that have monitoring software that prevents fraud for e-commerce clients.
 
 You have to position a demand capture offer to a demand generation offer as hard as possible.
 
-#### Demand Capture - Demand Generation Scale
+### Demand Capture - Demand Generation Scale
 
 You want to find out what your offer sits in this scale. For Demand Capture offers, you'll need more volume.
 
-#### Evidence: Part of an offer. Can you actually do the thing you are claiming? It's is critical to aggregate evidence and present it in a correct way.
+### Evidence: Part of an offer. Can you actually do the thing you are claiming? It's is critical to aggregate evidence and present it in a correct way.
 
-#### Funnel
+### Funnel
 
 You can just get [Clickfunnels 2.0](https://www.clickfunnels.com/) Parts are: Headline as offer, VSL, book call, automation (someone books a call you actually get noticed and you now what to say after), [typeform](https://www.typeform.com/) for assessment, [calendly](https://calendly.com/) for calendar.
 
-#### Fulfillment
+### Fulfillment
 
 How do you make sure the clients you sign consistently are able to get results, and how do you make sure your business runs smoothly?
 
@@ -118,7 +118,7 @@ Be a good person:
 
 and there is incredible opportunity here for more.
 
-#### Hiring
+### Hiring
 
 How do you hire people to help you in your business?
 
@@ -127,25 +127,25 @@ Problems:
 - Not hiring anyone.
 - Hiring the wrong people.
 
-#### Landing Page
+### Landing Page
 
 Needs a Youtube Video. Potential Client: "I watched 2 mins of this video, this guy gives value - he knows what he is talking about."
 
-#### LTV:
+### LTV:
 
-#### Market Sophistication
+### Market Sophistication
 
 Basically, how many competitors you have. Level 5, maximum amount of competitors - e-commerce email marketing. It's hyper competitive. In 2012 you can go to any e-com brand - "Hey do you need Facebook ads?" that would just sell. No one did it. At Level 1, you basically have no competitors.
 
-#### Market Sophistication Level 5
+### Market Sophistication Level 5
 
 The hardest game. Every single offer will eventually be level 5. Just sophisticate the market yourself, that's what being taught in Client Ascension. This is the best positioning you can stand.
 
-#### Offer
+### Offer
 
 You need to do one clear thing, for one clear person, with one clear outcome and one clear risk reversal with one clear evidence that you are able to do that. What you do, who you serve, what the terms are?
 
-#### Operations
+### Operations
 
 What do I hire people for? How do I pick people? How do you train people?
 
@@ -163,11 +163,11 @@ Questions:
 
 - How do you get them to go above and beyond?
 
-#### Opportunities
+### Opportunities
 
 If you understand the client needs something else as a priority other than what you offer, you can just use the opportunities channel in slack and find some people to split the revenue.
 
-#### Personal Brand
+### Personal Brand
 
 Only way to sell at Market Sophistication Level 5.
 
@@ -191,17 +191,17 @@ It's **the association**. You have to be an expert if you post a video on Youtub
 
 > "Only experts gon on podcasts, so if you are on a podcast, you have to be an expert." That's the thinking pattern.
 
-#### Response from Cold Email
+### Response from Cold Email
 
 If someone is going to reply to your cold email, they will %100 Google you.
 
-#### Risk Reversals
+### Risk Reversals
 
 Part of an offer. Money Back Guarantees. "I'll do this, and I will make you this much. If I don't get this amount than I'll give you your money back"
 
 Risk reversal is not only for clients, they are for you. You have to perform.
 
-#### Sales Process
+### Sales Process
 
 After cold emailing, if you cannot make sales, you have issues in your sales process.
 
@@ -233,31 +233,31 @@ Here is how Nick elaborates
 
 > "Customer wants copyrighter for Youtube ads. You are a leaking bucket on your VSL, showup rate on calls and your payment plans. What's the probability that I can get a home run perfect youtube ad right out of gate? It will take 200 ads to get some really good ones. So the ROI is there but you are going to have to wait a time. I would rather work with someone where I can get results in 30 days. I asked for the numbers."
 
-#### Testimonials
+### Testimonials
 
 Alex Hormozi said this. If you are running a sales team you have to show your testimonials to your sales teams, so they KNOW this works.
 
-#### Tonality
+### Tonality
 
 While you are selling you need to be extremely confident. They can feel it in your tonality.
 
-#### Top of Mind
+### Top of Mind
 
 Part of Personal Brand. You want referrals, you need to be top of mind. TO be top of mind, you post content on the internet.
 
-#### VSL
+### VSL
 
 A video sales letter (VSL) is a video that pitches a product or service to potential customers. VSL is not debatable. You can just use your phone and put subtitles. Outline could be: whats the problem this audience has, how they tried to solve it that has not worked thus far, how is your way different, what's the terms you being able to solve the problem (add social proof too). This definition sounds like the [CLOSER method](https://www.skool.com/acceleratoruniversity/what-is-alex-hormozis-closer-framework). To make a good VSL you have to have a good offer.
 
-#### VA
+### VA
 
 A virtual assistant.
 
-#### Variance
+### Variance
 
 If you are running an agency, there is always going to be variance in your results. You are going to have down months, better months.
 
 
-#### Youtube Video
+### Youtube Video
 
 You put 1 Youtube Video you are in %1. 
