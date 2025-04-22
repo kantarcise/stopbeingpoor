@@ -1,2 +1,6 @@
+site_name: Intern at Client Ascension
 theme:
   name: material
+
+nav:
+  - Home: index.md
