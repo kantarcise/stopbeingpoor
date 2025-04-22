@@ -1,4 +1,4 @@
-# Uncertainty
+# Intern at Client Ascension
 
 Daniel [explained](https://www.youtube.com/watch?v=eZWoYgLnjaM) how to embrace uncertainty beautifully.
 

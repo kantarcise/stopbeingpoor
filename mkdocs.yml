@@ -1,6 +1,17 @@
 site_name: Intern at Client Ascension
 theme:
   name: material
+  palette:
+    - scheme: default
+      primary: brown
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
 
+    - scheme: slate
+      primary: brown
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
 nav:
   - Home: index.md
