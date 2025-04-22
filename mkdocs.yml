@@ -3,15 +3,16 @@ theme:
   name: material
   palette:
     - scheme: default
-      primary: brown
+      primary: red
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
 
     - scheme: slate
-      primary: brown
+      primary: red
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
 nav:
   - Home: index.md
+  - Checklist for a Successful Agency: checklist_for_agency.md
