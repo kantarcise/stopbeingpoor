@@ -72,7 +72,9 @@ You have to position a demand capture offer to a demand generation offer as hard
 
 You want to find out what your offer sits in this scale. For Demand Capture offers, you'll need more volume.
 
-### Evidence: Part of an offer. Can you actually do the thing you are claiming? It's is critical to aggregate evidence and present it in a correct way.
+### Evidence
+
+Part of an offer. Can you actually do the thing you are claiming? It's is critical to aggregate evidence and present it in a correct way.
 
 ### Funnel
 
