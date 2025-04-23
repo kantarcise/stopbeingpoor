@@ -24,3 +24,14 @@ nav:
   - Fulfillment: fulfillment.md
   - Hiring: hiring.md
   - Personal Brand: personal_brand.md
+
+plugins:
+  - glightbox
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
