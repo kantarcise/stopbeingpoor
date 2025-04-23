@@ -110,9 +110,29 @@ Web Desing! You sell web design to people already looking for websites.
 
 ### Demand Generation Offers
 
-A unique twist on a Demand Capture offer. You do websites in a unique way. Example: You do websites that have monitoring software that prevents fraud for e-commerce clients.
+A unique twist on a Demand Capture offer. You do websites in a unique way.
+
+Example: You do websites that have monitoring software that prevents fraud for e-commerce clients.
 
 You have to position a demand capture offer to a demand generation offer as hard as possible.
+
+Here are more examples in raw format:
+
+- Getting People More Leads with Ads
+
+- Converting more free trial users with email marketing.
+
+- Helping people build a personal brand on Twitter.
+
+- LinkedIn automated outreach
+
+- UGC ad creatives
+
+- Influencer Marketing
+
+- Short Form Content
+
+- Cold Call, Cold Email, Webinars, Any Kind of Ad, Anything typically that produces more traffic
 
 ### Demand Capture - Demand Generation Scale
 
@@ -206,6 +226,12 @@ The hardest game. Every single offer will eventually be level 5.
 Just sophisticate the market yourself, that's what being taught in Client Ascension.
 
 This is the best positioning you can stand.
+
+### Marketing
+
+From this [banger video](https://www.youtube.com/watch?v=mehSj3hik8k).
+
+Marketing is being able to anticipate the question that somebody is going to have before they ask it.
 
 ### Offer
 

@@ -20,7 +20,7 @@ What you do, who you serve, what the terms are?
 
 ### Offer Formulation
 
-Offer Formulation: Getting Clients & Signing More Deals for SMMA, Marketing Agency, B2B companies - 2 Jan 2023 - [Link](https://www.youtube.com/watch?v=opE6MRW9Ceg) - I wrote all these notes while listening but the [doc is here too](https://gamma.app/docs/How-to-Create-an-Offer-that-Clients-Buy-Examples-Formulation-ldh3tzo3ui98hr7?mode=doc).
+[Offer Formulation: Getting Clients & Signing More Deals for SMMA, Marketing Agency, B2B companies](https://www.youtube.com/watch?v=opE6MRW9Ceg) - 2 Jan 2023 - I wrote all these notes while listening but the [doc is here too](https://gamma.app/docs/How-to-Create-an-Offer-that-Clients-Buy-Examples-Formulation-ldh3tzo3ui98hr7?mode=doc).
 
 Descending importance:
 
@@ -118,21 +118,23 @@ The Ascension Scaling System.
 
 - We make it easy for them by:
 
-- Writing cold email scripts
+    - Writing cold email scripts
 
-- Giving them the software for free
+    - Giving them the software for free
 
-- Giving them 3000 leads to send their cold emails to
+    - Giving them 3000 leads to send their cold emails to
 
-- Giving them Tweet templates & engagement
+    - Giving them Tweet templates & engagement
 
-- Twitter message scripts
+    - Twitter message scripts
 
-- Linkedin message scripts
+    - Linkedin message scripts
 
-- Turning their offer to high ticket offer
+    - Turning their offer to high ticket offer
 
-- Guaranteeing they add an Minimum $10k/mo in MRR or they don't pay.
+    - Guaranteeing they add an Minimum $10k/mo in MRR or they don't pay.
+
+That's a strong offer if I ever seen one.
 
 #### Pricing / Terms
 
@@ -181,9 +183,9 @@ Here is an example
 
     Here is a pricing mistake.
 
-    Offer: 60 short form pieces of content edited and 4 long form Youtube Videos Edited.
+    **Offer**: 60 short form pieces of content edited and 4 long form Youtube Videos Edited.
 
-    Price: $2000
+    **Price**: $2000
 
     This wouldn't be so bad if it was just the 60 pieces of short form content. But with the 4 long from Youtube Videos thrown in this becomes an unsustainable disaster. 
 
@@ -219,11 +221,11 @@ Simultaneously, your pricing should be reasonable based on the value you can pro
 
 Here is the equation:
 
-> Relative Perception + Value Add
+> Pricing = Relative Perception + Value Add
 
-Relative Perception: "You are a video editor. What do video editors normally get paid?"
+**Relative Perception**: "You are a video editor. What do video editors normally get paid?"
 
-Value Add = "This guy has this incredibly unique system that he uses that sounds really promising. That's definitely worth something."
+**Value Add** = "This guy has this incredibly unique system that he uses that sounds really promising. That's definitely worth something."
 
 The **better unique mechanism** you have, the **higher you can charge**. See the [ROI Calculator](https://internatclientascension.kantarcise.com/offers/#roi-calculator).
 
@@ -240,11 +242,12 @@ Types of risk reversals:
 3. If it doesn't work you don't pay
 4. If it doesn't work we'll work with you until it does.
 
-You cannot do 1. Just do 2 or 3.
+You cannot do 1. Just do 2 or 3 when you get to that stage!
 
 ### Offer Positioning
 
-Offer Positioning: How to Get More Clients for your Agency or B2B Business - 12 December 2022 - [Link](https://www.youtube.com/watch?v=4uai8ZqWMmc)
+[Offer Positioning: How to Get More Clients for your Agency or B2B Business](https://www.youtube.com/watch?v=4uai8ZqWMmc)
+ - 12 December 2022
 
 Start off by getting these questions answered from your prospects:
 
@@ -285,7 +288,7 @@ People care about **Speed** and **Certainty**.
 
 ### Make Money Online
 
-How To ACTUALLY Make Money Online - No BS Guide (Everything Else Is Garbage) - 8 November 2022 - [Link](https://www.youtube.com/watch?v=deAzlMzvhRU)
+[How To ACTUALLY Make Money Online - No BS Guide (Everything Else Is Garbage)](https://www.youtube.com/watch?v=deAzlMzvhRU) - 8 November 2022
 
 In order to acquire money you need to have somebody give it to you.
 
@@ -475,4 +478,48 @@ This is currently around $400 - $800 per video.
 
 ### ROI Calculator
 
-The ROI Calculator: Sign More Clients Using Pure Logic (B2B, SMMA, & Marketing Agencies) - 29 December 2022 - [Link](https://www.youtube.com/watch?v=FepWs1qV3xg)
+[The ROI Calculator: Sign More Clients Using Pure Logic (B2B, SMMA, & Marketing Agencies)]((https://www.youtube.com/watch?v=FepWs1qV3xg)) - 29 December 2022
+
+TODO.
+
+### Marketing Agencies
+
+[Every Marketing Agency You Can Start](https://www.youtube.com/watch?v=o3mlv73nknA) - 1 August 2023
+
+Talks about Offer Decay.
+
+TODO.
+
+
+### Scale to 100k/mo
+
+[How to Scale a Marketing Agency to $100k/mo (FREE COURSE)](https://www.youtube.com/watch?v=1T8CmTiA-Ks) - 4 March 2025
+
+One of the latest videos in the channel.
+
+TODO.
+
+Table of contents as follows:
+
+#### Offers
+
+Making an Irresistible Offer That Sells to Cold Traffic.
+
+Summary:
+
+- Market Demand - Offer is something the market already wants to buy.
+- Concrete Results - Offer delivers concrete, specific results.
+- Clear Value Proposition - Offer focuses on one clear value proposition for front-end acquisition.
+- Appropriate Pricing - Offer is priced appropriately for your authority level.
+- Guarantee Structure - Offer has the right guarantee structure in relation to your authority level.
+- New Opportunities - Offer makes new opportunities rather than replacing existing functions.
+
+#### Marketing Channels
+
+#### Leveraging AI
+
+#### Building Systems
+
+#### Building Market Authority
+
+#### Action Steps
