@@ -15,3 +15,464 @@ It's an "offer" when the facilitation of it can lead to an end goal.
 You need to do one clear thing, for one clear person, with one clear outcome and one clear risk reversal with one clear evidence that you are able to do that.
 
 What you do, who you serve, what the terms are?
+
+## Offers from Videos
+
+### Offer Formulation
+
+Offer Formulation: Getting Clients & Signing More Deals for SMMA, Marketing Agency, B2B companies - 2 Jan 2023 - [Link](https://www.youtube.com/watch?v=opE6MRW9Ceg) - I wrote all these notes while listening but the [doc is here too](https://gamma.app/docs/How-to-Create-an-Offer-that-Clients-Buy-Examples-Formulation-ldh3tzo3ui98hr7?mode=doc).
+
+Descending importance:
+
+<figure markdown="span">
+  ![Formulation](https://raw.githubusercontent.com/kantarcise/learningdsainpython/refs/heads/main/docs/images/offers/formulation.png)
+  <figcaption>Formulation</figcaption>
+</figure>
+
+- **Specific Problem**
+
+- **Unique Mechanism**
+
+- **Pricing / Terms**
+
+- **Risk Reversal**
+
+!!! tip
+
+    Solve a problem **big enough**. That's the most important part here. See [offer positioning](https://internatclientascension.kantarcise.com/offers/#offer-positioning)
+
+#### Specific Problem
+
+You can get away with not solving a specific problem and a unique mechanism like this:
+
+- "I'll front the cost of your facebook advertising. I'll write the copy, make the ads and use my own ad account. You give me 20% of the deals that close"
+
+This will NOT work:
+
+- "I charge $3000 to manage your Facebook ads"
+
+Instead, let's just find the specific problem. 😎
+
+Examples:
+
+- [Hyros](https://hyros.com/) - Ad attribution with pixels is horrible and doesn't work. Fixes this with %98 accuracy. (Current headline: *"Track more sales. Feed to AI. Scale further. HYROS is a patented AI attribution & AI system that on average increases ad scale by 20% across over 3000+ clients*)
+
+- [Cole Gordon](https://closers.io/): You're not getting enough calls from your opt ins. Places appointment setter in your business to call the leads. (Current headline: *We help businesses find proven salespeople, ramp them into KPI, and systematize management so they can work on their business, not in it.*)
+
+So,  how to find specific problems?
+
+**Answer**: ***Source it from the niche you have in your head (in an actually human way)***
+
+Let's say the niche you've chosen is SaaS companies who just raised some money.
+
+In Email - Twitter - Linkedin - Instagram:
+
+> Hey {{name}}, I'm thinking about starting up an agency or a service company of some sort, and thought of SaaS companies as a niche.
+
+> What problems do you guys actually have? I don't want to sit here and make something up, I want to solve a real problem.
+
+You are talking to a human.
+
+The more individualization the more response rates.
+
+#### Unique Mechanism
+
+You need to turn the "thing" you are selling into a system.
+
+This is your "special way" you do something. If you frame your "special way" as ACTUALLY special, and display you are capable of delivering abnormally good results, you can charge more money.
+
+**Example**: An email copywriter:
+
+**Question**: "What makes you good at at email marketing?" 
+
+**His Answer**:
+
+- Coaching/Info product owners make a huge mistake with their email list.
+
+- All they do is pitch pitch pitch "book a call book a call book a call "
+
+- Nobody shows any personality. Any cold traffic that comes in will immediately unsubscribe from email list. You burn the lead forever.
+
+- You need to play the long game. Not everybody knows who you are and you have to show them your personality on the email list.
+
+- But most people don't know how to write copy correctly, let alone have the time to sit down and write it.
+
+- I get on interviews with my clients. Almost like a therapist, I ask them questions and dig deep. I hypnotize myself into becoming them. And I write emails that show their personality and are completely indistinguishable from them actually writing.
+
+You see: "High Income Skill" -> "Unique System"
+
+**Example**: Client Ascension Provides the service for people to turn their offer into a unique system.
+
+The Ascension Scaling System.
+
+<figure markdown="span">
+  ![The Client Ascension Way](https://raw.githubusercontent.com/kantarcise/learningdsainpython/refs/heads/main/docs/images/offers/ca_pipeline.png)
+  <figcaption>The Client Ascension Way</figcaption>
+</figure>
+
+!!! warning 
+
+    This might be updated now.
+
+- People think they need to spend a lot of money or get investment money to have a successful business. They think there is no way you can hit $50000 without the help of VC's or access to industry secrets.
+
+- We make it easy for them by:
+
+- Writing cold email scripts
+
+- Giving them the software for free
+
+- Giving them 3000 leads to send their cold emails to
+
+- Giving them Tweet templates & engagement
+
+- Twitter message scripts
+
+- Linkedin message scripts
+
+- Turning their offer to high ticket offer
+
+- Guaranteeing they add an Minimum $10k/mo in MRR or they don't pay.
+
+#### Pricing / Terms
+
+How much you charge.
+
+**Performative Offer**:
+
+- Achieve specific quantifiable results
+- Ad agencies
+
+**Productized Service**:
+
+- Based solely on deliverables
+- Quantifiable results not dependent on you
+
+For detailed explanation on this, see [Make Money Online](https://internatclientascension.kantarcise.com/offers/#make-money-online).
+
+
+You want **sophisticated buyers**. The more you charge the easier it is.
+
+!!! tip
+
+    If you are talking to a large company it's strange to not charge large amount of money.
+
+    The association is that you do not know what you are doing.
+
+    Specific problem and the unique mechanism. The pricing becomes semi inconsequential.
+
+If you are a beginner, you have no idea what to charge.
+
+You are going to have a hard time operating a sales call. (see video [ROI Calculator](https://internatclientascension.kantarcise.com/offers/#roi-calculator))
+
+You should almost always charge a performance basis.
+
+This is not just for the clients it's **also for you**.
+
+**High Ticket vs Low Ticket**
+
+This might seem astronomically far away, but it's not.
+
+Even if you are doing the thing, there is still an amount of effort that must be exerted to get the client the deliverable.
+
+Here is an example 
+
+!!! example
+
+    Here is a pricing mistake.
+
+    Offer: 60 short form pieces of content edited and 4 long form Youtube Videos Edited.
+
+    Price: $2000
+
+    This wouldn't be so bad if it was just the 60 pieces of short form content. But with the 4 long from Youtube Videos thrown in this becomes an unsustainable disaster. 
+
+    There is no way this guy could ever sign another client at that pricing again.
+
+    It would be logistically impossible to grow this company. The profit margin would be so thin. It would be so much work with so little pay.
+
+Here is how the future might look with this mistake:
+
+!!! warning
+
+    When you do not charge enough money:
+
+    - You don't have free cashflow to invest back into the business (your business is how you actually survive, eat and pay rent)
+
+    - You don't have time to market and get more clients
+
+    - You are miserable working so much, so you don't want to get more clients in the first place.
+
+    - You burn out and your business goes to $0.
+
+    - You think you are a failure but it was really just one mistake. You didn't charge enough money.
+
+Don't let your business fail because you are too afraid to say a higher price on the phone.
+
+Simultaneously, your pricing should be reasonable based on the value you can provide.
+
+**Pricing a Performative Offer**:
+
+- Should be around 5x return on investment (profit) if direct ROI
+
+**Pricing a Productized Service**
+
+Here is the equation:
+
+> Relative Perception + Value Add
+
+Relative Perception: "You are a video editor. What do video editors normally get paid?"
+
+Value Add = "This guy has this incredibly unique system that he uses that sounds really promising. That's definitely worth something."
+
+The **better unique mechanism** you have, the **higher you can charge**. See the [ROI Calculator](https://internatclientascension.kantarcise.com/offers/#roi-calculator).
+
+#### Risk Reversal
+
+Risk Reversal is an **amplifier**.
+
+It only comes after you have a specific problem and a unique mechanism. 
+
+Types of risk reversals:
+
+1. You don't pay until it works
+2. You pay as it works (performance based agencies)
+3. If it doesn't work you don't pay
+4. If it doesn't work we'll work with you until it does.
+
+You cannot do 1. Just do 2 or 3.
+
+### Offer Positioning
+
+Offer Positioning: How to Get More Clients for your Agency or B2B Business - 12 December 2022 - [Link](https://www.youtube.com/watch?v=4uai8ZqWMmc)
+
+Start off by getting these questions answered from your prospects:
+
+1. What did they try, and what didn't work?
+
+2. Did they buy a course?
+
+3. Did they try the thing the thing you're selling and it didn't work?
+
+4. Who's the exact person buying it?
+
+5. What are they scared of?
+
+6. What is going to happen to them if they don't solve this specific problem?
+
+Get it from the people who you are selling to.
+
+Here is a banger example from CA:
+
+Start with: ***"We Train Security Guards to be more aware"***
+
+End with: ***"Security Company Owners: We show you how to keep your insurance rates low, keep your brand reputation high, and keep your employees longer."***
+
+Another example from Daniel:
+
+> I start off by asking people why they joined. They typically answer like this:
+
+- Ads: they didn't work, and they wasted $30k on it
+- They bought coaching products that didn't work
+- They already tried cold email and couldn't get it to work
+- Scared of relying on outside agencies to keep their business alive
+- Scared of having to go back to a 9-5 job
+- Scared of needing to raise VC money to have a successful business
+
+CA Offer: ***"B2B Companies, Marketing Agencies, Consultants, and Freelancers: We show you how to get clients with cold email without wasting thousands of dollars on ads or relying on outside agencies to keep your business alive"***
+
+People care about **Speed** and **Certainty**.
+
+### Make Money Online
+
+How To ACTUALLY Make Money Online - No BS Guide (Everything Else Is Garbage) - 8 November 2022 - [Link](https://www.youtube.com/watch?v=deAzlMzvhRU)
+
+In order to acquire money you need to have somebody give it to you.
+
+So you need to offer somebody something that they value more the $x amount of money
+
+#### 3 Things to Sell
+
+There’s 3 things you can sell:
+
+1. Make more money: Increase sales - Decrease time spent
+2. Become healthier
+3. Have more s*x
+
+We'll talk about the first one. Because that allows us to enter a different realm than what you’re thinking: BUSINESS TO BUSINESS (B2B).
+
+It means you’re a business selling a service to another business - of which it is either going to make them more sales or decrease the amount of time they’re spending in their business.
+
+It’s also going to be a service business - which means you will be exchanging your time as opposed to a physical product which requires capital
+
+#### 2 Types of B2B
+
+There are two types of B2B Service Businesses You Should Run - You should only do one of these two:
+
+**Productized Service** - you do the same thing every time for every person, performative results not dependent on you
+
+**Performative Based Agency** - highly complex done-for-you service where your results are tied to performance.
+
+You need to pay very close attention to this whole spiel I’m about to go through because it’s very important: ***"Beginners should start with productized services because of low complexity and lack of competence necessary"***
+
+Experts should charge a lot of money because they’ve proven themselves capable of delivering abnormal results
+
+You cannot become the person capable of delivering abnormal results without reps - and a productized service business will allow you to execute those reps and become capable of delivering abnormal results.
+
+#### Examples of Productized Service
+
+- Tik Tok style video captioning (go look on the Shorts on my YouTube channel on Daniel's page)
+
+- Making ad creatives for people (static images or videos)
+
+    - You’re not running the ads, you’re just making the creatives. Actual ad itself.
+
+- Ghostwriting social media posts
+
+    - LinkedIn posts
+
+    - Twitter threads
+
+- Design agency
+
+    - Unlimited design packages where you allow people to make submissions
+
+- YouTube video editing
+
+    - Daniel pays an editor to do all of the little animations and cutting and thumbnail designs for these videos.
+
+    - Two types of people to prospect:
+
+        - Those already running a channel (meaning your lead pool is people who presently have YouTube videos - look for people in the business niche who have unedited videos. Then find their other social media channels like Twitter and IG and message them. If they don’t respond, keep messaging. ***Keep messaging until you get a firm yes or no***)
+
+        - Those not currently running a channel (meaning your lead pool is people in the business niche on LinkedIn or Twitter and your angle is CONVINCING them to use YouTube i.e. “I can make it extremely easy for you to post videos I just need raw footage of screenshares with your face on it and I’ll take care of everything else’)
+
+Influencer Marketing
+
+    - You facilitate the purchasing of influencer posts by Tik Tok influencers and ecommerce brands. UGC ads. Charge roughly 2x-3x what the influencer would otherwise post.
+
+#### Examples of Performative Based Agencies
+
+At this point you've been running your productized service business for about 9-12 months and all of the growth of such business is completely back-loaded towards the end.
+
+So you are now hitting a breaking point of becoming extremely competent in the peripheral things you did not know existed before.
+
+***Example***:
+
+You did influencer marketing (you were facilitating the purchase of UGC influencer posts on TikTok for ecommerce brands)
+
+You've done 500 of these at this point and you've acquired a couple things:
+
+1. You've noticed trends about how to make the ads work very well - a specific sequence & formula to increase the probability of them popping up.
+2. You've acquired a bank of 300+ creators who regularly will make posts for you (you've developed a relationship with them - you now have an asset).
+3. Your clients wanted to experiment with TikTok ads so you started spending ad money for them on the TikTok ads manager in addition to the influencer posts.
+
+!!! tip
+
+    You NOW have the capability, expertise and assets necessary to offer a performative based agency offer where you work with large brands for a lot of money, and that might look like the following:
+
+Price: $10,000/mo + %10 of revenue generated on TikTok
+
+Deliverables: 60 posts per month, minimum ad spend $50,000/mo
+
+You make a business $1,000,000 per month on TikTok congratulations you are making $110,000/mo.
+
+!!! warning
+
+    You CANNOT offer this service until you know how to do it. 
+
+    Such is the nature of why you start with a productized service business to develop the **capability**, **assets** and **expertise** in the first place.
+
+#### Timeline
+
+Now, here is your timeline:
+
+**Day 0-30 Research**:
+
+- Watch all of the YouTube videos Daniel presently have available on my channel.
+- Pick a productized Service.
+- Look up videos on that particular service and watch 30 hours
+- Go buy some courses on Udemy
+- Practice doing it for free, unprompted to the target market.
+
+**Day 30-35 Your Place on Internet**:
+
+- Make a landing page on cardd.co (19 dollar per year)
+- Film a video of yourself on Loom & a google Doc explaining what your service is and why it can help them
+- Embed a calendy link below it (booking calls)
+
+**Day 35-95 Outreach**:
+
+- Take your unpromted work and give it to the people who you did it for
+- Find their emails and cold email them.
+- Follow [Twitter Masterclass](https://www.youtube.com/watch?v=aSdn-lLZ-og) video to an absolute T (do exactly what Daniel says)
+- Your marketing strategy is doing work **completely unprompted** and giving it to the person
+
+But that doesn't scale. (LOL).
+
+Why are you worrying about scale when you are at $0?
+
+At $0 only thing you have is Time.
+
+You have to start with payment of time.
+
+#### Examples of Execution
+
+**Productized Service Biz 1**: TikTok style video captioning (Shorts Video Production)
+
+- Daniel purchased this because somebody who follows him on Twitter found a podcast he was on that was posted on Youtube.
+- He then sent a video of that he edited of Daniel in DM's and told Daniel he could post it.
+- Daniel did, got a ton of engagement
+- He then sent two more, and asked I Daniel wanted to be his client
+- Daniel said yes
+
+**Productized Service Biz 2**: Making Ad Creatives for Brands
+
+- Target is Ecommerce Brands or Software Companies.
+- Saw a guy run this up to $30k/mo in 30 days (he used to run different businesses so there was competence) by doing the following:
+- Made a giant thread of "30 days of ads" where he would post static image ad design for brands, then tag the founders and the brands. It was done in the same thread.
+- Made TikTok videos of him actively designing ads inside Figma (this was smart).
+
+**Productized Service Biz 3**: Ghost Writing Social Media Posts
+
+- All the guys Daniel seen successfully do this have done it through inbound leads (this means the leads come to you)
+- If you are going to get ghostwriting clients to help people grow on Twitter (or LinkedIn) - you need a lot of followers.
+- [Dakota Robertson](https://www.dakotarobertson.net/) is an example of this.
+- He has been doing it so long he basically designed a system to always be viral (and he is the Twitter coach in Client Ascension)
+- Again, follow the Twitter Masterclass of Daniel.
+
+**Productized Service Biz 4**: Design Agency
+
+- Daniels brother does this
+- Makes nice visuals on Twitter and Instagram
+- People come to him organically and have him design posts for their profiles
+- Follow the Twitter Masterclass.
+
+**Productized Service Biz 5**: Youtube Video Editing
+
+- Daniel found his editor because he tweeted that he was going to start on Youtube
+- He got a message from the guy telling him he's an editor and he sent links to his work
+- If you don't already have work done, follow this:
+
+1. Find people in business niche with unedited videos who ALREADY have videos on Youtube. Find them on Twitter, Instagram or email.
+2. Send them a message like "Hey {name}, Just watched your video on Youtube about X and loved what you said about y. Wanted to send over a message because I think your channel could pop off with proper editing, keyword research and thumbnails. Are you going to make more videos soon? (I'd be happy to edit your first for free)" (If they do not respond, follow up. Follow up until you get a yes or no)
+3. When they post the edited video you make, come bacj to them after a couple days with bunch of more video ideas you source from VidIQ (keyword research)
+
+This is currently around $400 - $800 per video.
+
+**Productized Service Biz 6**: Influencer Marketing
+
+- Target is ecom brands
+- Service is getting them ads made by TikTok influencers
+- Cold email a bunch of ecommerce brands (you can get their emails from something like contactecom.com or storeleads.com) 
+- Email script like "Hey {name}, quick question, are you guys looking for UGC ads from TikTok influencers? I can get 10-20 videos made for {{x product}}"
+- Charge brands anywhere between $100-$400 per video.
+- Find UGC influencer on Twitter by going into Twitter Search Bar and simply typing "UGC" - there is a big community there.
+
+#### Action Items
+
+- Consume information with care.
+
+### ROI Calculator
+
+The ROI Calculator: Sign More Clients Using Pure Logic (B2B, SMMA, & Marketing Agencies) - 29 December 2022 - [Link](https://www.youtube.com/watch?v=FepWs1qV3xg)
