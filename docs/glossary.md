@@ -16,6 +16,18 @@ Daniel banger:
 
 - Are people referring to you as the expert on the X topic?
 
+### Broker
+
+Facilitating a transaction between 2 people.
+
+For example there are Real Estate Brokers and Real Estate Agents which work for brokers.
+
+### Churn
+
+Literally understand from example - [Dillon Case Study](https://www.clientascension.io/case-studies/dillon-andrews):
+
+> Dillon experienced client churn when he initially scaled to 10 clients, losing half of them due to inefficiencies in his fulfillment process. He realized that without a solid system in place, further growth would be unsustainable.
+
 ### Claim
 
 Part of an offer.
@@ -60,11 +72,15 @@ You can use cold email to make a demand capture offer to a demand generation off
 
 Bigger term including Cold Emails.
 
-### Churn
+### Courses
 
-Literally understand from example - [Dillon Case Study](https://www.clientascension.io/case-studies/dillon-andrews):
+From Daniel on this [banger video](https://youtu.be/deAzlMzvhRU?t=712):
 
-> Dillon experienced client churn when he initially scaled to 10 clients, losing half of them due to inefficiencies in his fulfillment process. He realized that without a solid system in place, further growth would be unsustainable.
+You have been psyoped into thinking that all courses are scam.
+
+Every single person I know who makes an insane amount of money purchases courses and mentorships and spends more than he would otherwise think it's necessary.
+
+Always. I do this all the time. I buy courses all the time.
 
 ### Deliverable
 
@@ -251,9 +267,23 @@ It's **the association**. You have to be an expert if you post a video on Youtub
 
 > "Only experts gon on podcasts, so if you are on a podcast, you have to be an expert." That's the thinking pattern.
 
+### Pitch
+
+This is from [Cole Gordon VSL](https://closers.io/).
+
+The pitch is how the offer is communicated over the phone to the prospect in a way that is unique, different and superior than the rest of the marketplace.
+
 ### Response from Cold Email
 
 If someone is going to reply to your cold email, they will %100 Google you.
+
+### Risk Reduction Offer
+
+This is [the video](https://www.youtube.com/watch?v=5OKnv1XEhOc).
+
+When you are selling to cold traffic, a lot of them just aren't down to go for a high ticket commitment and immediately have a subscription type thing.
+
+If you simply allow people the anility to pay one time for a trial period, which is just like a setup for your system, they are way more prone to taking that offer and it's absolutely cooking.
 
 ### Risk Reversals
 
@@ -314,6 +344,12 @@ You want referrals, you need to be top of mind.
 To be top of mind, you post content on the internet.
 
 It's that simple.
+
+### UGC
+
+User Generated Content. 
+
+Brands want this type of content to run it as ads or post it in their main profile to get organic reach and get more traffic.
 
 ### VSL
 
