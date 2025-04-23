@@ -2,6 +2,8 @@
 
 Glossary is an alphabetical list of words relating to a specific subject, text, or dialect, with explanations; a brief dictionary.
 
+This glossary is mainly made from this Video - [A Step-by-Step, A-Z Checklist for Building a Successful Agency to $50k/mo+ (Cold Email & Marketing)](https://www.youtube.com/watch?v=BZ5V6rrxInk).
+
 ## Important Words
 
 ### 90 Day Increments

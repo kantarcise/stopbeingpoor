@@ -15,7 +15,6 @@ theme:
         name: Switch to light mode
 nav:
   - Home: index.md
-  - Checklist for a Successful Agency: checklist_for_agency.md
   - Glossary: glossary.md
   - Offers: offers.md
   - Funnel: funnel.md
