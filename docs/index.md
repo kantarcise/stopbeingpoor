@@ -1,5 +1,7 @@
 # Intern at Client Ascension
 
+![Client Ascension](https://raw.githubusercontent.com/kantarcise/stopbeingpoor/refs/heads/main/docs/images/client_ascension.png){ align=right }
+
 Daniel [explained](https://www.youtube.com/watch?v=eZWoYgLnjaM) how to embrace uncertainty beautifully.
 
 While he was in collage he used note cards and write his questions down.
