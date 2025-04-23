@@ -25,7 +25,7 @@ Offer Formulation: Getting Clients & Signing More Deals for SMMA, Marketing Agen
 Descending importance:
 
 <figure markdown="span">
-  ![Formulation](https://raw.githubusercontent.com/kantarcise/learningdsainpython/refs/heads/main/docs/images/offers/formulation.png)
+  ![Formulation](https://raw.githubusercontent.com/kantarcise/stopbeingpoor/refs/heads/main/docs/images/offers/formulation.png)
   <figcaption>Formulation</figcaption>
 </figure>
 
@@ -106,7 +106,7 @@ You see: "High Income Skill" -> "Unique System"
 The Ascension Scaling System.
 
 <figure markdown="span">
-  ![The Client Ascension Way](https://raw.githubusercontent.com/kantarcise/learningdsainpython/refs/heads/main/docs/images/offers/ca_pipeline.png)
+  ![The Client Ascension Way](https://raw.githubusercontent.com/kantarcise/stopbeingpoor/refs/heads/main/docs/images/offers/ca_pipeline.png)
   <figcaption>The Client Ascension Way</figcaption>
 </figure>
 
