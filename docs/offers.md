@@ -1,6 +1,6 @@
 # Offers
 
-## Offers from the Glossary
+## Definition
 
 From this [banger tweet](https://x.com/blackhatwizardd/status/1849157663398965449).
 
@@ -16,9 +16,7 @@ You need to do one clear thing, for one clear person, with one clear outcome and
 
 What you do, who you serve, what the terms are?
 
-## Offers from Videos
-
-### Offer Formulation
+## Offer Formulation
 
 [Offer Formulation: Getting Clients & Signing More Deals for SMMA, Marketing Agency, B2B companies](https://www.youtube.com/watch?v=opE6MRW9Ceg) - 2 Jan 2023 - I wrote all these notes while listening but the [doc is here too](https://gamma.app/docs/How-to-Create-an-Offer-that-Clients-Buy-Examples-Formulation-ldh3tzo3ui98hr7?mode=doc).
 
@@ -41,7 +39,7 @@ Descending importance:
 
     Solve a problem **big enough**. That's the most important part here. See [offer positioning](https://internatclientascension.kantarcise.com/offers/#offer-positioning)
 
-#### Specific Problem
+### Specific Problem
 
 You can get away with not solving a specific problem and a unique mechanism like this:
 
@@ -75,7 +73,7 @@ You are talking to a human.
 
 The more individualization the more response rates.
 
-#### Unique Mechanism
+### Unique Mechanism
 
 You need to turn the "thing" you are selling into a system.
 
@@ -136,7 +134,7 @@ The Ascension Scaling System.
 
 That's a strong offer if I ever seen one.
 
-#### Pricing / Terms
+### Pricing / Terms
 
 How much you charge.
 
@@ -229,7 +227,7 @@ Here is the equation:
 
 The **better unique mechanism** you have, the **higher you can charge**. See the [ROI Calculator](https://internatclientascension.kantarcise.com/offers/#roi-calculator).
 
-#### Risk Reversal
+### Risk Reversal
 
 Risk Reversal is an **amplifier**.
 
@@ -244,7 +242,7 @@ Types of risk reversals:
 
 You cannot do 1. Just do 2 or 3 when you get to that stage!
 
-### Offer Positioning
+## Offer Positioning
 
 [Offer Positioning: How to Get More Clients for your Agency or B2B Business](https://www.youtube.com/watch?v=4uai8ZqWMmc)
  - 12 December 2022
@@ -286,7 +284,7 @@ CA Offer: ***"B2B Companies, Marketing Agencies, Consultants, and Freelancers: W
 
 People care about **Speed** and **Certainty**.
 
-### Make Money Online
+## Make Money Online
 
 [How To ACTUALLY Make Money Online - No BS Guide (Everything Else Is Garbage)](https://www.youtube.com/watch?v=deAzlMzvhRU) - 8 November 2022
 
@@ -294,7 +292,7 @@ In order to acquire money you need to have somebody give it to you.
 
 So you need to offer somebody something that they value more the $x amount of money
 
-#### 3 Things to Sell
+### 3 Things to Sell
 
 There’s 3 things you can sell:
 
@@ -308,7 +306,7 @@ It means you’re a business selling a service to another business - of which it
 
 It’s also going to be a service business - which means you will be exchanging your time as opposed to a physical product which requires capital
 
-#### 2 Types of B2B
+### 2 Types of B2B
 
 There are two types of B2B Service Businesses You Should Run - You should only do one of these two:
 
@@ -354,7 +352,7 @@ Influencer Marketing
 
     - You facilitate the purchasing of influencer posts by Tik Tok influencers and ecommerce brands. UGC ads. Charge roughly 2x-3x what the influencer would otherwise post.
 
-#### Examples of Performative Based Agencies
+### Examples of Performative Based Agencies
 
 At this point you've been running your productized service business for about 9-12 months and all of the growth of such business is completely back-loaded towards the end.
 
@@ -386,7 +384,7 @@ You make a business $1,000,000 per month on TikTok congratulations you are makin
 
     Such is the nature of why you start with a productized service business to develop the **capability**, **assets** and **expertise** in the first place.
 
-#### Timeline
+### Timeline
 
 Now, here is your timeline:
 
@@ -419,7 +417,7 @@ At $0 only thing you have is Time.
 
 You have to start with payment of time.
 
-#### Examples of Execution
+### Examples of Execution
 
 **Productized Service Biz 1**: TikTok style video captioning (Shorts Video Production)
 
@@ -472,17 +470,17 @@ This is currently around $400 - $800 per video.
 - Charge brands anywhere between $100-$400 per video.
 - Find UGC influencer on Twitter by going into Twitter Search Bar and simply typing "UGC" - there is a big community there.
 
-#### Action Items
+### Action Items
 
 - Consume information with care.
 
-### ROI Calculator
+## ROI Calculator
 
 [The ROI Calculator: Sign More Clients Using Pure Logic (B2B, SMMA, & Marketing Agencies)]((https://www.youtube.com/watch?v=FepWs1qV3xg)) - 29 December 2022
 
 TODO.
 
-### Marketing Agencies
+## Marketing Agencies
 
 [Every Marketing Agency You Can Start](https://www.youtube.com/watch?v=o3mlv73nknA) - 1 August 2023
 
@@ -491,35 +489,305 @@ Talks about Offer Decay.
 TODO.
 
 
-### Scale to 100k/mo
+## Scale to 100k/mo
 
 [How to Scale a Marketing Agency to $100k/mo (FREE COURSE)](https://www.youtube.com/watch?v=1T8CmTiA-Ks) - 4 March 2025
 
-One of the latest videos in the channel.
-
-TODO.
+One of the latest videos in the channel. Done for you.
 
 Table of contents as follows:
 
-#### Offers
+### Offers
 
-Making an Irresistible Offer That Sells to Cold Traffic.
+#### Market Demand
 
-Summary:
+Making an Irresistible Offer That Sells to **Cold Traffic**.
 
-- Market Demand - Offer is something the market already wants to buy.
-- Concrete Results - Offer delivers concrete, specific results.
-- Clear Value Proposition - Offer focuses on one clear value proposition for front-end acquisition.
-- Appropriate Pricing - Offer is priced appropriately for your authority level.
-- Guarantee Structure - Offer has the right guarantee structure in relation to your authority level.
-- New Opportunities - Offer makes new opportunities rather than replacing existing functions.
+You have to make an offer that sells to cold traffic. Not warm.
 
-#### Marketing Channels
+!!! tip
 
-#### Leveraging AI
+    Did you get that part?
+    
+    Cold Traffic do not buy:
 
-#### Building Systems
+    - Measurement implementation for e-commerce brands
 
-#### Building Market Authority
+    they are buying:
 
-#### Action Steps
+    - Implementation of a webinar funnel so that they could make money. Not data analytics.
+
+#### Concrete Results
+
+!!! example
+
+    "We'll build you a quiz funnel for your cold traffic ads that will double your qualified leads."
+
+    is a specific and result-focused offer.
+
+    "We provide comprehensive digital marketing services"
+
+    is NOT.
+
+Daniel restructured an offer to:
+
+!!! example
+
+    "13 quote ready remodeling projects booked into your calender in the next 90 days using AI-powered SEO and free ad management"
+
+    Notice the specificity - 13 projects, 90 days, using specific tech.
+
+#### Clear Value Proposition
+
+Trying to make a complex service that bundles 5-10 different services together can be overwhelming for the client.
+
+!!! example
+
+    One guy was trying to sell tech management, growth marketing, lead intake all bundled together.
+
+    Cold email will never respond to - "Do you need someone to manage your technology?"
+
+    Instead of that, identify one offer that will get people to raise their hand and book a call.
+
+    For most cold traffic that would be:
+
+    - AI-focused offers. (they are novel)
+
+    - Growth marketing with quantifiable claim
+
+    - Something with a unique guarantee
+
+The rest of the services can be sold **AFTER** - NOT BEFORE - **AFTER** you've required the customer.
+
+!!! tip
+
+    This is what Daniel does in ListKit. People come in for cold email and they are cross sold to other services.
+
+!!! note "banger"
+
+    People have different things as what they want and need.
+
+    They might actually **need** tech management and lead intake etc.
+
+    What they want, is more customers.
+
+    So what they need does not matter in this perspective.
+
+    Banger incoming:
+
+    ***Once you sell them what they want, you can sell them what they need later.***
+
+
+You get cold traffic in the door with a cold traffic offer - and then LATER ON sell them what they actually need.
+
+!!! tip
+
+    Everyone NEEDS to go to the gym and eat healthy food, but they want Ozempic.
+
+    There is a reason broccoli farmers aren't billionaires and makers of Ozempic are.
+
+#### Appropriate Pricing
+
+If you do not have a ton of case studies yet, you cannot charge premium prices to cold traffic.
+
+It won't convert. You need to match your pricing to your perceived authority in the market.
+
+!!! tip
+
+    Here is a banger.
+
+    A student in CA who was trying to sell a $10k package with a 90-day guarantee but only had 7% close rate.
+
+    A 7% close rate is a massive indicator that you are overpriced.
+    
+    Your pricing should be at a level that you exactly close between 18-30% of your calls.
+
+    If it's any lower, you are charging too much money in relation to your level of authority.
+
+You need to be realistic about what your level of authority is.
+
+Daniel advised this student to lower his price temporarily until he builds more case studies.
+
+This is not forever. It's a strategic move to get more clients in the door, build case studies then raise your prices as your authority increases.
+
+#### Guarantee Structure
+
+With less authority, you need a stronger guarantee.
+
+If you are just starting out, you might have to start with a performance based model or a strong money back guarantee.
+
+As authority increases you can shift to less risky structures for you.
+
+!!! tip
+
+    Remember, guarantee is there to compensate for lack of case studies.
+
+    If you have 50 amazing testimonials, you don't need as strong of a guarantee.
+
+- Less Authority: Stronger Guarantee Required
+
+- More Authority: Less Requirement for a Guarantee
+
+#### New Opportunities
+
+It's tough to sell "I can do your current marketing better than you can."
+
+They have to admit that they are doing poorly, and you have to be dramatically better to justify the cost.
+
+This typically also results in situations where you are trying to pitch people who actively believe they're better than you.
+
+For instance, Daniel gets ton of people pitching me to write emails to his list or come up with his YouTube content.
+
+99% of the time this comes from somebody who doesn't even have their own their YouTube channel and their own email list.
+
+!!! warning
+
+    In this case, all the evidence points to Daniel being better than them.
+    
+    And paying them money to do if for Daniel would actively result in Daniel getting worse results.
+
+Instead, focus on solving new problems or making new opportunities.
+
+"I will build a quiz funnel for cold traffic is making a new revenue stream, not replacing an existing one. Much easier to sell."
+
+***You ideally want to make something new for them!***
+
+!!! example
+
+    You sell YouTube Management or Content Marketing.
+
+    ❌ Bad Offer: Targeting People Who Already Do Well on Youtube
+
+    ✅ Better Offer: Targeting People Who Already Do Well on Another Platform but DO NOT use Youtube
+
+It's always easier to get somebody to Start something new as opposed to selling them something that IMPROVES something they already do.
+
+!!! tip
+
+    All of this content in Offers is a **Requirement** for anything else in the rest of the course.
+
+
+#### The Summary For Offers**:
+
+- **Market Demand** - Offer is something the market already wants to buy.
+- **Concrete Results** - Offer delivers concrete, specific results.
+- **Clear Value Proposition** - Offer focuses on one clear value proposition for front-end acquisition.
+- **Appropriate Pricing** - Offer is priced appropriately for your authority level.
+- **Guarantee Structure** - Offer has the right guarantee structure in relation to your authority level.
+- **New Opportunities** - Offer makes new opportunities rather than replacing existing functions.
+
+If you get this right, you have laid the foundations to scale.
+
+### Marketing Channels
+
+Once you have an offer that converts the next question is: 
+
+"How do you get it in front of the right people?"
+
+The answer changes depending on where you are in your growth journey.
+
+Here are the stages:
+
+#### Stage 1
+
+This is where you are at $0-$10k per month.
+
+Your primary goal is to get your first 5-10 client and build case studies.
+
+You have a limited time and no marketing budget.
+
+!!! tip
+
+    Let's make this clear.
+
+    FIRST: Get Case Studies
+
+    SECOND: Make Money
+
+    If you try to put making money BEFORE getting case studies, you end up with less money.
+
+
+Here is what works best:
+
+- **Manual Outreach** - Dream 100 strategics where you're identifying perfect-fit prospects and doing personalized outreach.
+
+- **Cold Email** - Despite what you might hear, cold email works, and when done right, with the right offer to the right target audience.
+
+All deliverability & spam problems are a result of people actively marking you as spam.
+
+If you have a good offer and send it to a relevant audience, they simply do not mark you as spam and therefore your results are therefore better.
+
+This fundamentally does not work without a good offer.
+
+- **Linkedin**
+
+Both content and direct outreach can work here, but make sure you are posting consistently (5x per week) and doing targeted outreach to people who engage.
+
+Keep them simple:
+
+!!! example
+
+    Hey {{name}}, are you interested in AI Cold Callers?
+
+#### Stage 2
+
+I am not here yet. 
+
+So:
+
+TODO
+
+#### Stage 3
+
+Not here yet.
+
+TODO.
+
+
+### Leveraging AI
+
+TODO
+
+#### First
+
+- Making Content and Repurposing:
+
+You can literally find content ideas with the prompt:
+
+"I'm working with a client runs X business and wants to start Youtube Content. Generate 20 video ideas targeting high-intent keywords their audience would be searching for."
+
+- Extract Core Lessons from Existing Content
+
+Upload transcripts of sales calls, consulting calls, client or networking calls.
+
+Ask it to extract the core lessons and principles from the conversations. Then direct it to format these lessons & principles into content for Linkedin or Twitter or Email list.
+
+- Youtube Video Repurposing
+
+Input a Youtube video link to get the transcript.
+
+Upload to LLM. Give it a prompt like this:
+
+"You've been given a transcript from one of my recent Youtube videos. I want you to make 10 tweets based on these lessons from this Youtube Video. The tweets should be written to independently perform well."
+
+#### Second
+
+Sales Script and Email Generation.
+
+You can literally take top performing content with a transcriber,
+
+### Building Systems
+
+### Building Market Authority
+
+### Action Steps
+
+If you are at $0-$10k a month:
+
+- Make a winning offer: Focus on making one front-end offer that actually sells to cold traffic.
+
+- Manual Outreach - Implement manual outreach through Dream 100 and cold email
+
+- Content Creation - Start making content that establishes your expertise
+
+- Build Case Studies - Focus on getting 5-10 solid case studies.

@@ -70,6 +70,14 @@ You can use cold email to make a demand capture offer to a demand generation off
 
 - Cold emailing with relevant indicators. (They are hiring specific type of person - they are using a specific type of technology on their website. You scrape lists like that)
 
+### Cold Traffic
+
+Cold traffic is someone that is not familiar with you, your brand, your solution, or product/service.
+
+Cold Traffic is the new blood of the business.
+
+It is a critical part of your marketing system because it involved reaching out to people in your target market.
+
 ### Cold Outreach
 
 Bigger term including Cold Emails.
@@ -404,6 +412,15 @@ If you are running an agency, there is always going to be variance in your resul
 You are going to have down months, better months.
 
 So you need fulfillment to compensate with variance. (See : [Fulfillment](https://internatclientascension.kantarcise.com/glossary/#fulfillment) - Client Likes You)
+
+### Warm Traffic
+
+Warm traffic consists of people who already know about you, your brand, products or services.
+
+They may have visited your site before.
+
+They've read your content.
+
 
 ### Youtube Video
 
