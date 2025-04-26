@@ -23,3 +23,52 @@ Daniel banger:
 It's **the association**. You have to be an expert if you post a video on Youtube because every other expert does post a video on Youtube.  
 
 > "Only experts gon on podcasts, so if you are on a podcast, you have to be an expert." That's the thinking pattern.
+
+## Risk & Reward
+
+[Risk & Reward: How to Bet on Yourself](https://www.youtube.com/watch?v=MfPiG96S0zI) - 28 December 2023
+
+Let's understand the game.
+
+Your entrepreneurial business is a capital return machine.
+
+Take money, take mental frameworks and models and make sure your venture is able to have the highest return on capital possible.
+
+3 ways to get clients
+
+- **Content** is %100 time.
+
+- **Cold outreach** is little bit of capital and mostly time.
+
+- **Ads** are mostly just capital. 
+
+but this is also true:
+
+- **Content** compounds through followers and authenticity.
+
+- **Cold outreach** is linear.
+
+- **Ads** compound through monopolized attention.
+
+You can only scale content and cold outreach to a local maximums.
+
+### You cannot be able to substantially scale without taking on more capital risk.
+
+Producing content and cold outreach is really comfortable for starters because your perception of time is low.
+
+### You only have so much capital, it's a finite resource. Therefore it must be allocated to the most efficient vehicle possible.
+
+Use is wisely.
+
+### Scrolling on Social
+
+Let's say there is BIllion DAU - each user can get 100 ads in average
+
+It's a 100 Billion pieces of real estate per day. It is fixed.
+
+On social, you are the product, your attention is being sold.
+
+So attention monopolies work with getting the most real estate possible.
+
+Understand this: Compounding effect of purchasing assets also works on attention monopolies.
+

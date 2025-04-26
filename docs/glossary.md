@@ -152,6 +152,16 @@ Part of an offer. Can you actually do the thing you are claiming?
 
 It's is critical to aggregate evidence and present it in a correct way.
 
+### Free Cash Flow
+
+From this [banger video](https://youtu.be/MfPiG96S0zI?t=327).
+
+Free cash flow shows how much cash a company has left over after paying for expenses, making it an indicator of financial health.
+
+Daniel approach:
+
+Revenue - business expenses - living expenses.
+
 ### Funnel
 
 You can just get [Clickfunnels 2.0](https://www.clickfunnels.com/).
@@ -309,6 +319,10 @@ This is from [Cole Gordon VSL](https://closers.io/).
 
 The pitch is how the offer is communicated over the phone to the prospect in a way that is unique, different and superior than the rest of the marketplace.
 
+### Q/Q
+
+Quarter over quarter (Q/Q) is a measure of an investment or a company's growth from one quarter to the next.
+
 ### Response from Cold Email
 
 If someone is going to reply to your cold email, they will %100 Google you.
@@ -421,6 +435,9 @@ They may have visited your site before.
 
 They've read your content.
 
+### Year-Over-Year - Y/Y
+
+Year-over-year compares a company's financial performance in one period with its numbers for the same period one year earlier.
 
 ### Youtube Video
 
