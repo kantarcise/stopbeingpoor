@@ -162,6 +162,16 @@ Daniel approach:
 
 Revenue - business expenses - living expenses.
 
+### Follow Up
+
+Here [is the video](https://youtu.be/deAzlMzvhRU?t=1157).
+
+After you've sent some free work, if you do not get a response, follow up.
+
+Follow up again and again.
+
+Keep following up until you get a yes or no.
+
 ### Funnel
 
 You can just get [Clickfunnels 2.0](https://www.clickfunnels.com/).
