@@ -72,3 +72,94 @@ So attention monopolies work with getting the most real estate possible.
 
 Understand this: Compounding effect of purchasing assets also works on attention monopolies.
 
+## Daniel's Story
+
+!!! tip
+
+    This is Video #1 on [Daniel's channel](https://www.youtube.com/@danielfazio).
+
+[How I Made $2,500,000 By 25 | My Story](https://www.youtube.com/watch?v=W16bvJvcTLk) - 15 July 2022
+
+### Part 1 Pre Cold Email Wizard.
+
+#### Amazon FBA
+
+Daniel started with Amazon FBA.
+
+30-40 Youtube videos with pen an paper, just like what I'm doing right now!
+
+At the right time he was selling the right thing!
+
+Nothing was the same after.
+
+He needed a way to make money without using capital.
+
+#### Marketing Agency
+
+You just find businesses, that's the %90 of your job.
+
+Cold emails from Gmail, no domain.
+
+15% of the ad spend on Facebook ads with:
+
+    - Special cards to get drink deals on special days. This worked really well.
+
+[You need to be minimally viably competent on basically every single thing.](https://youtu.be/W16bvJvcTLk?t=308)
+
+Daniel met some marketing agency people driving Maseratis.
+
+As an actually intelligent person would do, Daniel:
+
+- Look at their page.
+- Figure out their service
+- Find out what they are charging
+
+And said:
+
+> I know for a fact that I can run the client acquisition better than these people.
+
+And he did.
+
+#### Instagram Agency
+
+This doesn't work anymore, but it was basically follow on follow.
+
+You would follow then unfollow people.
+
+- $97/mo for 500 followers per month
+
+- $147/mo for 1000 followers per month
+
+He emailed 300-400 of fitness coaches at 10 mil followers, **offering work for free** just to have results on my landing page.
+
+He got 5 people.
+
+Here is the fact.
+
+Daniel was manually going through Instagram hashtags and sending out personalized emails 3 hours per day every single day.
+
+That business got to $12k/mo in 4 months.
+
+Instagram got an algorithm update and destroys the entire business overnight.
+
+#### Lead Gen Agency
+
+> I built this Instagram agency using cold email, I am just going to sell what got me here, cold email as a service.
+
+Getting on phone with some real agencies.
+
+Daniel was selling $2k/mo packages and guaranteeing 10 phone calls. It was working pretty well.
+
+Starting to learn CRM's. How to be better at sales calls. High ticket deals can take more than 1 call. Conversion windows.
+
+All the big boy stuff.
+
+[I like to gather attention. I like to generate the phone call, I don't like to execute the phone call in the sales system.](https://youtu.be/W16bvJvcTLk?t=563)
+
+Low priced course on how to execute cold email campaigns.
+
+"I will put the purchases through a follow up sequence and sign them as clients, they are already going to be presold by the time they get to the phone."
+
+### Part 2 Cold Email Wizard.
+
+TODO.
