@@ -12,6 +12,18 @@ Daniel banger:
 
 > [Everything you want in life is gated between 90 day increments.](https://youtu.be/BZ5V6rrxInk?t=1754)
 
+### Auto DM
+
+On X, you can simply be smart.
+
+On your calendar with [Hypefury](https://hypefury.com/?via=daniel41) or [Tweet Hunter](https://tweethunter.io/?via=daniel-fazio), you just setup an Auto DM.
+
+Meaning you promise to deliver something to people that likes and or retweets something.
+
+And the tool automatically sends a DM to people who actually does that thing, which is your promise. A link to something valuable.
+
+If you are smart, this could be an opt in, you get your email list going.
+
 ### Branding
 
 - Are you positioning yourself as the expert on the X topic?
@@ -82,6 +94,22 @@ It is a critical part of your marketing system because it involved reaching out 
 
 Bigger term including Cold Emails.
 
+### Conversion Windows
+
+From [Client Ascension blog](https://www.clientascension.io/blogs/how-to-get-your-first-10-customers).
+
+One final, crucial point: not everyone is ready to buy right now.
+
+People have different timelines, priorities, and challenges. Don't get discouraged if leads don't convert immediately.
+
+Focus on nurturing those leads and providing value.
+
+Stay top-of-mind through consistent content and engagement.
+
+When their "***conversion window***" opens, you'll be the first person they think of.
+
+Building a successful business takes time and effort. But by focusing on these four pillars – claims, proof, competency, and consistency – you'll set yourself up for long-term success.
+
 ### Courses
 
 From Daniel on this [banger video](https://youtu.be/deAzlMzvhRU?t=712):
@@ -91,6 +119,14 @@ You have been psyoped into thinking that all courses are scam.
 Every single person I know who makes an insane amount of money purchases courses and mentorships and spends more than he would otherwise think it's necessary.
 
 Always. I do this all the time. I buy courses all the time.
+
+### CRM
+
+CRM stands for customer relationship management, which is a system for managing all of your company’s interactions with current and potential customers.
+
+The goal is simple: improve relationships to grow your business.
+
+CRM technology helps companies stay connected to customers, streamline processes, and improve profitability.
 
 ### Deliverable
 
@@ -218,6 +254,12 @@ Be a good person:
 
 and there is incredible opportunity here for more.
 
+### High-Ticket Sales
+
+A high-ticket offer provides high value for your customers—at a high price.
+
+What high-ticket item look like varies wildly based on the goods and services you provide, but for many makers, it’s through courses, coaching, community-building, or productized services.
+
 ### Hiring
 
 How do you hire people to help you in your business?
@@ -298,6 +340,14 @@ Questions:
 ### Opportunities
 
 If you understand the client needs something else as a priority other than what you offer, you can just use the opportunities channel in slack and find some people to split the revenue.
+
+### Parasocial Relationships
+
+[Banger video here](https://youtu.be/aSdn-lLZ-og?t=339)
+
+When people like you, but you don't even know they exist.
+
+Parasocial relationships are one-sided relationships, where one person extends emotional energy, interest and time, and the other party, the persona, is completely unaware of the other's existence.
 
 ### Personal Brand
 
