@@ -25,7 +25,7 @@ Every point someone is going to buy something different.
 Here is something similar [from this website](https://predictableprofits.com/ascending-your-way-to-bigger-profits/):
 
 <figure markdown="span">
-  ![Ascension Model](https://raw.githubusercontent.com/kantarcise/stopbeingpoor/refs/heads/main/docs/images/offers/engagement_tweets_one.png)
+  ![Ascension Model](https://raw.githubusercontent.com/kantarcise/stopbeingpoor/refs/heads/main/docs/images/glossary/AscensionModelExample.png)
   <figcaption>Ascension Model</figcaption>
 </figure>
 
