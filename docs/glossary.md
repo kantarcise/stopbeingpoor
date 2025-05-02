@@ -12,6 +12,31 @@ Daniel banger:
 
 > [Everything you want in life is gated between 90 day increments.](https://youtu.be/BZ5V6rrxInk?t=1754)
 
+### Ascension Model
+
+Daniel talks about [the model here](https://youtu.be/_ubUWUIHN0I?t=114).
+
+Help people at every level and know that they will get to the next level.
+
+Sell everything.
+
+Every point someone is going to buy something different.
+
+Here is something similar [from this website](https://predictableprofits.com/ascending-your-way-to-bigger-profits/):
+
+<figure markdown="span">
+  ![Ascension Model](https://raw.githubusercontent.com/kantarcise/stopbeingpoor/refs/heads/main/docs/images/offers/engagement_tweets_one.png)
+  <figcaption>Ascension Model</figcaption>
+</figure>
+
+Smart.
+
+### Association
+
+You need one word associations.
+
+What do you do. You become "that_word" guy.
+
 ### Auto DM
 
 On X, you can simply be smart.
@@ -53,6 +78,18 @@ Your offer can simply state to the customer with 3 options, here is a part of th
 - You can not do this.
 - You can do it yourself.
 - You get in a time machine and join Client Ascension.
+
+### Cold Calls
+
+From [this banger](https://www.youtube.com/watch?v=RR5rxXycrV8).
+
+Everyone knows cold calling works, but it’s hard to hire, train, and retain SDRs.
+
+Cold calls let you uncover objections you’d never find in email.
+
+You can navigate it in a call.
+
+If someone gets a call from us selling cold calls, it proves the method works.
 
 ### Cold Email
 
@@ -109,6 +146,12 @@ Stay top-of-mind through consistent content and engagement.
 When their "***conversion window***" opens, you'll be the first person they think of.
 
 Building a successful business takes time and effort. But by focusing on these four pillars – claims, proof, competency, and consistency – you'll set yourself up for long-term success.
+
+### Copywriter
+
+Copywriting is the art of producing text for promotional, marketing, instructional, or advertising purposes.
+
+The goal of this content is typically to persuade, inspire, entertain, educate, or inform a reader in order to increase brand awareness or authority, sell a product, describe a course of action, or to convince a person or group of people to take a specific step. 
 
 ### Courses
 
@@ -254,6 +297,28 @@ Be a good person:
 
 and there is incredible opportunity here for more.
 
+Here is [a banger video](https://youtu.be/hvJoq6PjLzs?t=926) from Dylan Rich to show how a customer is fulfilled on a sales process.
+
+The good sales performance was:
+
+- Sales guy did extra work
+
+- After the initial sells call, he shot a video to describe how the platform worked
+
+- He made a sample lead list (which what they are selling) in terms of Dylan's needs / wants 
+
+- He gave Dylan a sample dataset for Dylan's team to go cold call.
+
+- He went above and beyond.
+
+The bad sales performance:
+
+- Attitude
+
+- No connection
+
+- Just going through motions
+
 ### High-Ticket Sales
 
 A high-ticket offer provides high value for your customers—at a high price.
@@ -268,6 +333,20 @@ Problems:
 
 - Not hiring anyone.
 - Hiring the wrong people.
+
+### Instant Gratification
+
+I believed in doing the right things consistently.
+
+I didn’t focus on a number, just discipline and [detachment from instant gratification](https://youtu.be/RR5rxXycrV8?t=271).
+
+Chop the wood.
+
+### Internet Money
+
+No longer on sale.
+
+Daniel sent daily emails and asked for replies for the completion of watching videos from the members.
 
 ### Landing Page
 
@@ -373,6 +452,16 @@ It's **the association**. You have to be an expert if you post a video on Youtub
 
 > "Only experts gon on podcasts, so if you are on a podcast, you have to be an expert." That's the thinking pattern.
 
+Another [banger video](https://youtu.be/RR5rxXycrV8?t=936)
+
+People fear committing to a personal brand.
+
+Ironically, it gives flexibility to pivot.
+
+Because you are building a group of people who trust what you will say.
+
+There is no down side. It just takes resources.
+
 ### Pitch
 
 This is from [Cole Gordon VSL](https://closers.io/).
@@ -386,6 +475,14 @@ Quarter over quarter (Q/Q) is a measure of an investment or a company's growth f
 ### Response from Cold Email
 
 If someone is going to reply to your cold email, they will %100 Google you.
+
+### Referrals
+
+[Banger video](https://youtu.be/RR5rxXycrV8?t=689).
+
+They might not need my cold calling service.
+
+But they definitely know someone who does.
 
 ### Risk Reduction Offer
 
@@ -434,6 +531,12 @@ Here is how Daniel explains:
 Here is how Nick elaborates:
 
 > "Customer wants copyrighter for Youtube ads. But they are a leaking bucket on VSL, showup rate on calls and payment plans. What's the probability that I can get a home run perfect youtube ad right out of gate? It will take 200 ads to get some really good ones. So the ROI is there but you are going to have to wait a time. I would rather work with someone where I can get results in 30 days." This is basically the **setting** stage. 
+
+### SDR
+
+A sales development representative (SDR) is a sales professional who manages all top-of-the-funnel activities in the sales cycle. 
+
+Top-of-the-funnel activities include everything that happens before a prospect is ready to make a purchase — from gathering prospect data and educating prospects to qualifying leads and booking meetings.
 
 ### Testimonials
 
@@ -502,3 +605,9 @@ Year-over-year compares a company's financial performance in one period with its
 ### Youtube Video
 
 You put 1 Youtube Video you are in %1. 
+
+### Win - Win - Win
+
+[Everyone wins.](https://youtu.be/RR5rxXycrV8?t=120)
+
+We help the companies, we help the remote workers, we help ourselves.

@@ -791,3 +791,113 @@ If you are at $0-$10k a month:
 - Content Creation - Start making content that establishes your expertise
 
 - Build Case Studies - Focus on getting 5-10 solid case studies.
+
+## The Beginner Business
+
+!!! tip
+
+    This is Video #5 on [Daniel's channel](https://www.youtube.com/@danielfazio).
+
+[The #1 Online Business To Start As A Beginner NOW (before it's too late)](https://www.youtube.com/watch?v=OAUnfCv2N3U) - 8 September 2022
+
+Let’s be honest—there’s no business on Earth that requires *no time*. You will have to put in effort. But this path can be *easier*.
+
+### Product Business vs. Service Business
+
+Let’s understand the difference between a **product business** and a **service business**:
+
+#### Product Business
+
+* Think: eCommerce store
+* You need inventory (capital upfront)
+* You need ad spend for traffic
+* **Low capital efficiency, low margin**
+
+**Example:**
+
+* Sale: \$100
+* Cost of product: -\$30
+* Cost of ads: -\$30
+* **Profit: \$40**
+
+#### Service Business
+
+* Think: Social media marketing agency
+* Requires **time** instead of **capital** for fulfillment
+* Still requires outreach—but you can replace ad spend with *outbound marketing* (DMs, cold emails, cold calls)
+
+So, if you don’t have a lot of money but *do* have time → **start a service business**.
+
+### Market Sophistication Levels
+
+As more people offer a particular service, it gets harder to get clients. Here’s how market sophistication levels work:
+
+**Level 1**: Nobody is doing it, everybody wants it
+**Level 2**: Claims have to be higher, more proof needed
+**Level 3**: Courses emerge, exaggerated claims, offshoots form
+**Level 4**: Cold war—faster, cheaper, more
+**Level 5**: Storytelling—people buy from *you*, not just the service
+
+So we want a service business that’s currently at **Market Sophistication Level 1**.
+
+### The Best Service to Sell in 2023
+
+**Short-form content making for businesses**
+
+Why?
+
+* It’s a service business (requires time, not much capital)
+* It’s currently at level 1 (easy to sell, many businesses want it)
+* You can do outbound outreach (DMs, cold emails)
+
+Businesses you can target:
+
+* Course creators
+* Coaches
+* Software founders
+* Agencies
+* Even local businesses (e.g., TikTok for restaurants in Singapore)
+
+---
+
+### What You'll Need
+
+1. **Learn video editing**
+
+   * Use YouTube tutorials (Premiere Pro, CapCut, etc.)
+   * Study viral videos.
+   * Take notes. Deconstruct hooks, pacing, and design.
+
+2. **Practice the craft**
+
+   * Make your own content
+   * Offer free editing to a few businesses for experience
+
+3. **Build assets**
+
+   * Landing page with explainer video
+   * Twitter & LinkedIn profile
+
+4. **Outreach**
+
+   * Direct message business owners daily
+   * Cold email if you're comfortable
+
+5. **Improve your craft as you go**
+
+   * Learn copywriting
+   * Understand email follow-ups
+   * Study landing page optimization
+
+People who'll buy short form content:
+
+- Courses
+- Software COmpanies
+- Coaching
+- Agencies
+
+This is a really good business to start right now. You have 8–10 months before short-form content starts reaching levels 2 and 3 in market saturation.
+
+🎥 I’ll link a full video guide to marketing on Twitter next—combine it with this offer, and you’ll be dangerous.
+
+That’s it for today. Farewell, my friends!
