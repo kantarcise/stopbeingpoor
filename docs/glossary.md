@@ -12,6 +12,14 @@ Daniel banger:
 
 > [Everything you want in life is gated between 90 day increments.](https://youtu.be/BZ5V6rrxInk?t=1754)
 
+### A/B Tests
+
+You do volume, that's a requirement.
+
+But as you do volume, you purposefully improve what you are doing.
+
+[You have 5 different mails](https://youtu.be/_ubUWUIHN0I?t=859), you send 1000. You see that 4 of them doesn't work. You cut them down.
+
 ### Ascension Model
 
 Daniel talks about [the model here](https://youtu.be/_ubUWUIHN0I?t=114).
@@ -147,6 +155,18 @@ When their "***conversion window***" opens, you'll be the first person they thin
 
 Building a successful business takes time and effort. But by focusing on these four pillars – claims, proof, competency, and consistency – you'll set yourself up for long-term success.
 
+### Convince Themselves
+
+When you have [interviews on Youtube](https://youtu.be/8KDXT_shpwc?t=911) - social proof.
+
+Your prospects will have the ability to develop parasocial relationships with you.
+
+On their OWN TIME.
+
+You have 35 interviews.
+
+Your prospects gradually convince themselves that they like you. Continuously, overtime.
+
 ### Copywriter
 
 Copywriting is the art of producing text for promotional, marketing, instructional, or advertising purposes.
@@ -170,6 +190,20 @@ CRM stands for customer relationship management, which is a system for managing 
 The goal is simple: improve relationships to grow your business.
 
 CRM technology helps companies stay connected to customers, streamline processes, and improve profitability.
+
+### Default Option
+
+This is what you are trying to be. From [this banger](https://youtu.be/8KDXT_shpwc?t=567):
+
+You are not trying to convert people now.
+
+You're trying to permanently exist and be the default option for when they do.
+
+Who wins?
+
+- Someone with 300 podcast episodes, 72 Youtube videos and case studies.
+
+- Some random person.
 
 ### Deliverable
 
@@ -319,6 +353,16 @@ The bad sales performance:
 
 - Just going through motions
 
+### Goodwill
+
+You can invest your knowledge [in terms of goodwill](https://youtu.be/Wed3AJSq_cQ?t=351).
+
+Just like how you invest your capital into stock market and get a return.
+
+You can invest goodwill as well.
+
+Goodwill at scale.
+
 ### High-Ticket Sales
 
 A high-ticket offer provides high value for your customers—at a high price.
@@ -382,6 +426,34 @@ From this [banger video](https://www.youtube.com/watch?v=mehSj3hik8k).
 
 Marketing is being able to anticipate the question that somebody is going to have before they ask it.
 
+### Non Refundable
+
+I think Daniel likes running this.
+
+It is to make sure the client actually follows the program.
+
+Make something non refundable if they do not complete everything on a list. Here is [the video](https://youtu.be/_ubUWUIHN0I?t=428).
+
+### Objections
+
+Email your list [more](https://youtu.be/8KDXT_shpwc?t=801).
+
+> If you ram enough social proof all objections go out the window.
+
+Here is what the lead will think.
+
+> "There is no conceivable way the objection I have made in my mind is feasible if this many people are getting this sheer quantity of results."
+
+!!! tip
+
+  This is what happens.
+
+  37 case studies.
+
+  97 screenshots.
+
+  Just stack.
+
 ### Offer
 
 From this [banger tweet](https://x.com/blackhatwizardd/status/1849157663398965449).
@@ -397,6 +469,14 @@ It's an "offer" when the facilitation of it can lead to an end goal.
 You need to do one clear thing, for one clear person, with one clear outcome and one clear risk reversal with one clear evidence that you are able to do that.
 
 What you do, who you serve, what the terms are?
+
+Daniel [banger definition](https://youtu.be/_ubUWUIHN0I?t=925).
+
+Something people want to purchase.
+
+Argument in convincing reason to which why somebody should work with you specifically.
+
+There are ways to do this. You do not have to be the expert and simply say, "I did this, if you want I can teach you".
 
 ### Operations
 
@@ -532,11 +612,31 @@ Here is how Nick elaborates:
 
 > "Customer wants copyrighter for Youtube ads. But they are a leaking bucket on VSL, showup rate on calls and payment plans. What's the probability that I can get a home run perfect youtube ad right out of gate? It will take 200 ads to get some really good ones. So the ROI is there but you are going to have to wait a time. I would rather work with someone where I can get results in 30 days." This is basically the **setting** stage. 
 
+### Scale
+
+[What's the secret to growing on some platform?](https://youtu.be/Wed3AJSq_cQ?t=385)
+
+> Have valuable things to say and give away the sauce. Simply, have the sauce.
+
 ### SDR
 
 A sales development representative (SDR) is a sales professional who manages all top-of-the-funnel activities in the sales cycle. 
 
 Top-of-the-funnel activities include everything that happens before a prospect is ready to make a purchase — from gathering prospect data and educating prospects to qualifying leads and booking meetings.
+
+### SOP
+
+A standard operating procedure is a set of step-by-step instructions for performing a routine activity.
+
+You make SOPs based on different roles in your team. Daniel loves this - [When they are there it is so nice](https://youtu.be/_ubUWUIHN0I?t=635).
+
+SOPs should be followed the same way every time to guarantee that the organization remains consistent and in compliance with business standards.
+
+SOPs provide the policies, processes and standards needed for an organization to succeed.
+
+They reduce errors, increase efficiency and enhance profitability.
+
+They also make a safe work environment and produce guidelines for how to resolve issues and overcome obstacles.
 
 ### Testimonials
 
@@ -611,3 +711,11 @@ You put 1 Youtube Video you are in %1.
 [Everyone wins.](https://youtu.be/RR5rxXycrV8?t=120)
 
 We help the companies, we help the remote workers, we help ourselves.
+
+### Wins
+
+Client Ascension has a "wins" channel in slack, where people share wins.
+
+It's just momentum shared.
+
+A dream for people who are looking for better friends.

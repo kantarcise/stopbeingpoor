@@ -728,7 +728,7 @@ Another successful, chaotic, productive day at Client Ascension.
 
 !!! tip
 
-    This is Video #6 on [Daniel's channel](https://www.youtube.com/@danielfazio).
+    This is Video #7 on [Daniel's channel](https://www.youtube.com/@danielfazio).
 
 [How Brook Made $55,000 in Two Months (Agency Owner Interview)](https://www.youtube.com/watch?v=_ubUWUIHN0I) - 14 October 2022
 
@@ -747,6 +747,12 @@ Another successful, chaotic, productive day at Client Ascension.
 
 ### Business Model
 
+* **Coaching Program:**
+
+  * Helps people build a store from scratch.
+  * Goal: get them successful enough to transition into the agency.
+  * Fully structured Ascension model: a product for every stage.
+
 * **Agency Growth Partner Offer:**
 
   * We target stores smaller than mine.
@@ -754,13 +760,7 @@ Another successful, chaotic, productive day at Client Ascension.
   * Flexible depending on the store’s needs.
   * If I can’t help, I refer within the Client Ascension network.
 
-* **Coaching Program:**
-
-  * Helps people build a store from scratch.
-  * Goal: get them successful enough to transition into the agency.
-  * Fully structured Ascension model: a product for every stage.
-
-**Daniel:** You've basically cloned the Client Ascension model. Course first, then agency.
+**Daniel:** You've basically cloned the Client Ascension model. Course first, then agency. Have something to sell at every level.
 
 ### Revenue and Growth
 
@@ -784,8 +784,6 @@ Another successful, chaotic, productive day at Client Ascension.
 
 **Brooke:** Cold email brought in all agency clients. I knew nothing about it before CA.
 
----
-
 ### Offers and Pricing
 
 * Currently testing a **performance-based pricing model**:
@@ -798,8 +796,6 @@ Another successful, chaotic, productive day at Client Ascension.
 
   * Clients delay giving ad account access or creative assets
   * Considering adding deadlines & minimum retainers for compliance
-
----
 
 ### Fulfillment and Scaling
 
@@ -817,31 +813,31 @@ Another successful, chaotic, productive day at Client Ascension.
 
 * **Future Plan:**
 
-  * Focus on coaching to attract better agency clients
+  * Focus on coaching to attract better agency clients (trust will already be there)
   * Potential private equity-style deals
-  * Build fulfillment team when agency hits \$50K/month
-
----
+  * Build fulfillment team when agency hits $50K/month
 
 ### Operational Challenges
 
-* At \$25K/month, fulfillment is overwhelming
+* At $25K/month, fulfillment is overwhelming
 * Needs SOPs, Looms, defined roles
 * Working on team-building with Andre’s help
 
+You have to really precise on what the person has to do, basically train them as if they are are your coaching student.
+
 > "Every SOP you make is a 10x ROI in two months."
 
-**Daniel:** Most people don’t pass \$50K/month because they can’t scale fulfillment.
-
----
+**Daniel:** Most people don’t pass $50K/month because they can’t scale fulfillment.
 
 ### Advice for New Agency Owners
 
 **Brooke:**
 
-* **Have a skill**—doesn’t matter what, just be good at something
-* **Volume matters**—contact thousands
-* **Analyze your performance:**
+1) **Have a skill**—doesn’t matter what, just be good at something.
+
+2) **Volume matters**—contact thousands.
+
+3) **Analyze your performance:**
 
   * A/B test scripts
   * Double down on what works
@@ -850,9 +846,8 @@ Another successful, chaotic, productive day at Client Ascension.
 > "Send 5,000 emails. 3 people will say yes."
 
 * Don’t use overused lead magnets/scripts—write your own
+* You don't just get people hopping on a call. When you get responses, what should you do?
 * Learn to manage the full sales cycle (multi-call closes, ghosting, re-engagement)
-
----
 
 ### Takeaways from Client Ascension
 
@@ -868,8 +863,316 @@ Another successful, chaotic, productive day at Client Ascension.
 
 **Brooke:** Growing up in Toronto, I didn’t have many people around me doing this. Being inside this group is next level.
 
----
-
 **Daniel:** I’m going to drop Brooke’s links below—Twitter, YouTube. Go check him out. Thanks for coming on, brother.
 
 **Brooke:** Of course brother. Happy to be here. Thanks for having me!
+
+## Client Ascension Event Planning
+
+!!! tip
+
+    This is Video #8 on [Daniel's channel](https://www.youtube.com/@danielfazio).
+
+[Planning the Client Ascension Event](https://www.youtube.com/watch?v=Wed3AJSq_cQ) - 19 October 2022
+
+> "Well, it was gonna happen anyway. Somebody was gonna say it—and it might as well be me."
+
+### Opening
+
+* Idea: record testimonial videos in front of the shop—quick, simple content generation.
+* "Calling Client Ascension is the best. It’s hot. It’s simple."
+
+### Why Build This?
+
+* People might ask: *Why did Andre build this event?*
+
+  * Yes, we're passionate about helping people.
+  * That's the only way you actually grow.
+  * But also: we want to build the largest f****** company of all time.
+  * We aggregate every person from Money Twitter—convert digital trust into real-world relationships.
+
+**The Vision:**
+
+> “We make sure people make money.”
+
+* First Twitter-born event.
+* Deliver results, value, energy.
+
+### Keynote Vibes
+
+* First keynote: Cold Email Wizard Concert.
+* Walk on stage yelling: **STOP BEING POOR.**
+* Merch idea: **Stop Being Poor** hats.
+
+### Signature Drinks Menu
+
+1. **Milky Moscow Mule**
+2. **Based Bourbon** → Old Fashioned (\$\$ = S)
+3. **Stop Being Poor** → Macallan 12 on a cube
+4. **God’s Favorite** → Vodka soda
+5. **Paid in Full** → Tequila drink
+6. **Wake Up, Win** → Vodka Red Bull
+
+> "God’s Favorite has to be vodka soda. It’s ordained."
+
+### Content Saturation?
+
+* YouTube video: *Best Business to Start in 2023* → short-form content
+* Objection: "Isn’t this going to saturate the market?"
+
+**Response:**
+
+> "It was going to happen anyway. Might as well be me."
+
+* Idea: even if 1 person sees it, takes action, makes money, it was worth it.
+* That person might help you years later.
+
+> "Inject Goodwill. That’s how I grew my Twitter—give away the sauce."
+
+### Forecast Check
+
+* Saturday: sunshine, no rain.
+* "Because God loves us. God loves Client Ascension."
+
+### Swag & Giveaways
+
+* Real estate guru parody: "New crack house!"
+* 200 cigar holders, 130 ashtrays, 2 boxes of cigars to be given out at the event.
+
+### Scaling Client Ascension
+
+* Core strategy: **be with the people all the time**
+* Hanging with Twitter friends > any casual networking
+* Even at the club, it’s:
+
+  * “How many calls booked yesterday?”
+  * "We better write some twitter threads."
+  * “What’s her close percentage?”
+
+> “Pouring tequila in a girl’s mouth, and I’m still asking about client metrics.”
+
+The comradery.
+
+## Client Ascension 2022 Mastermind 
+
+!!! tip
+
+    This is Video #9 on [Daniel's channel](https://www.youtube.com/@danielfazio).
+
+[These 3 Things Took Our Business to $220k/mo](https://www.youtube.com/watch?v=8KDXT_shpwc) - 2 November 2022
+
+### Keynote Theme: Scale to \$200K/Month
+
+**Main Concept:**
+
+* Understand the difference between **Force Multipliers** vs **Minor Improvements**.
+
+#### Force Multipliers:
+
+* Heavy needle-moving tasks
+* Repeatable
+* Lead to order-of-magnitude increases
+
+#### Minor Improvements:
+
+* Small optimizations
+* Not scalable or impactful
+* Example: changing button color or landing page style
+
+<figure markdown="span">
+  ![Force Multipliers](https://raw.githubusercontent.com/kantarcise/stopbeingpoor/refs/heads/main/docs/images/offers/force_multipliers.png)
+  <figcaption>Force Multipliers</figcaption>
+</figure>
+
+The big arrows are force multipliers, the small ones are minor improvements.
+
+You cannot grow your business without using force multipliers.
+
+### The Three Force Multipliers That Took Us From \$68K to \$220K in 3 Months
+
+#### 1. **Content: More of It**
+
+* **Frequency**: the average number of times someone sees you per day
+* The more often you're seen, the more money you make.
+* Every 90 minutes, a tweet or retweet from Daniel's account goes out.
+
+> There is no 90 minute period that elapses, my twitter account is tweeting or retweeting something.
+
+**System Overview:**
+
+* Scott films 2 hours daily → trimmed to 45 minutes → long-form YouTube
+* Presley turns into shorts → posted across platforms → cross-promoted relentlessly
+
+**Why Brand Awareness Matters?**
+
+* Market awareness > ad platform metrics
+* At any given time, only 1% of market is ready to buy
+* When the 99% finally are, you need to *already* exist in their mind
+
+> If you’re not the one they see when they’re ready, you nurtured someone else’s sale.
+
+When you cold email somebody, they go to your website. They google you. They look you up on Linkedin, X, YouTube.
+
+All of your content is ranking.
+
+You have so MUCH on there that they piece together in their mind "there in no way this guy isn't legit. He has been doing it for so long and does so much."
+
+I repeat. This should be their thinking.
+
+> "there in no way this guy isn't legit. He has been doing it for so long and does so much."
+
+Your market will sophisticate. It will happen.
+
+Claims will go higher.
+
+Until it's impossible to deliver an offer.
+
+When the market sophistication gets to level 5, people will buy from YOU instead of the THING, if you have a personal brand.
+
+- More Frequency
+- More Content
+- More Permanence
+
+You are not trying to convert people now.
+
+You're trying to permanently exist and be the default option for when they do.
+
+Who wins?
+
+- Someone with 300 podcast episodes, 72 Youtube videos and case studies.
+
+- Some random person.
+
+#### 2. **More Funnel Touchpoints**
+
+**Simple Funnel Structure:**
+
+* Opt-in → VSL → Calendly → Sales Call → Close
+
+<figure markdown="span">
+  ![Simple Funnel](https://raw.githubusercontent.com/kantarcise/stopbeingpoor/refs/heads/main/docs/images/personal_brand/basic_funnel.png)
+  <figcaption>Simple Funnel</figcaption>
+</figure>
+
+No trickery.
+
+1) Optin gets you name - email - phone.
+2) You get the phone number, you call / text em.
+3) You get the email threw them on a sequence and broadcast.
+4) You have a sales page with a VSL/Calendly on it.
+5) You got a sales call.
+
+**Setter Strategy:**
+
+!!! tip
+
+    This resulted in %30 more calls.
+
+* Collect phone numbers
+* Call 10 minutes after opt-in (twice - gives time to watch the optin)
+* Call again if unanswered, follow up via text and calls over the week
+
+They gave you their phone number.
+
+You explicitly informed them you will be contacting them.
+
+"But I feel like I'm annoying them."
+
+Who cares?
+
+**Team Separation for Coaching vs Agency:**
+
+* Coaching/Info:
+
+  * Setter → Closer
+
+* Agency:
+
+  * Cold Emailer/Cold Caller → Closer
+
+**Efficiency Rule:**
+
+> Never mix roles. Efficiency dies when people multitask fulfillment and sales.
+
+**Social Proof Types:**
+
+* **FOMO** (Fear of Missing Out): Visual experiences, livestreams, vlogs. Just FOMO'ing people into purchasing. So simple.
+* **Screenshots**: Stripe results, testimonials. Stripe screenshots + description of what happened (no other data).
+* **Interviews**: YouTube-style, parasocial relationship builders. Let people gradually convince themselves on their own time.
+* **Lifestyle Content**: Vlogs showcasing work + lifestyle mix. Daniel's first try of this resulted in 18 calls.
+
+Someone commented on Daniel's lifestyle content with "You guys just screw around all day?"
+
+The answer is "no". But that does not matter, because he had this thought but what was really happening is that showed people associated that lifestyle with Client Ascension as a gateway.
+
+Incredible 🔥
+
+What a banger this was.
+
+You want to limit the lifestyle stuff to %30 as you would be in business niche.
+
+If you put too little you are leaving some force on table, if you do too much it's look like you don't know anything.
+
+#### 3. **Hiring People**
+
+You cannot scale by yourself.
+
+If you are under $30k/mo, you are doing everything yourself.
+
+**Why You’re Stuck Below $30K:**
+
+* Working too much → no time to scale
+* Scared to give up margin → never hire
+* Break the cycle: Hire even if margin drops short-term
+
+The cycle looks like this:
+
+<figure markdown="span">
+  ![Stuck Cycle](https://raw.githubusercontent.com/kantarcise/stopbeingpoor/refs/heads/main/docs/images/personal_brand/stuck_cycle.png)
+  <figcaption>Stuck Cycle</figcaption>
+</figure>
+
+Just hire people.
+
+What if you were to just be doing these 3 instead (which is true for Daniel).
+
+<figure markdown="span">
+  ![Daniels Part](https://raw.githubusercontent.com/kantarcise/stopbeingpoor/refs/heads/main/docs/images/personal_brand/daniels_part.png)
+  <figcaption>Daniels Part</figcaption>
+</figure>
+
+People do not have obligations other than doing the precise thing in which what they are assigned.
+
+It is functionally impossible to do all of this.
+
+**Hiring Order:**
+
+1. Fulfillment → Deliverables done without you
+
+> You need to be able to sign a client and have the deliverable magically appear. This needs to happen.
+
+2. Sales → Offload calls and outreach
+
+The moment you get a sales guy, you will get more calls.
+
+- There are simply more slots to pick from.
+
+- And since you hired for fulfillment first, you have nothing else to do BUT generate calls.
+
+> When you free up your 4 hours of deep work daily, focus shifts to call generation.
+
+**Team Structure Examples:**
+
+* Coaches only coach
+* Sales reps only sell
+* Marketing team only markets
+
+**Malcolm Gladwell’s Rule:**
+
+> 10,000 hours = mastery. Apply that to one lane. You’ll dominate it.
+
+### Final Force Multiplier:
+
+> **Wake up and win.**
+
+Just wake up and win.
