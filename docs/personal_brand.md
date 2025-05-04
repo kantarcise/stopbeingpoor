@@ -631,7 +631,6 @@ Responding to all comment on your tweet automatically doubles the comment count 
 
 Here’s the full text from the image:
 
-
 ### Call to Actions
 
 The entire function of all of this is to point people somewhere.
@@ -642,9 +641,9 @@ You SHOULD not be doing this unless you're pointing somebody somewhere.
 
 2. If you haven’t have your product figured out → point them to follow you
    
-  a. “If you liked this tweet, would really appreciate a follow as I’ll be putting out more content like this regularly!”
+    a. “If you liked this tweet, would really appreciate a follow as I’ll be putting out more content like this regularly!”
   
-  b. “If you liked this thread, throw me a follow and comment your questions below! I’ll be making more threads this week and would love your inputs”
+    b. “If you liked this thread, throw me a follow and comment your questions below! I’ll be making more threads this week and would love your inputs”
 
 Do this. It works.
 
@@ -1176,3 +1175,207 @@ The moment you get a sales guy, you will get more calls.
 > **Wake up and win.**
 
 Just wake up and win.
+
+## Kyle Trouble Interview
+
+!!! tip
+
+    This is Video #12 on [Daniel's channel](https://www.youtube.com/@danielfazio).
+
+[How Kyle Hit $70,000/mo Inside Client Ascension with Cold Email & Twitter Ads](https://www.youtube.com/watch?v=XgKwfSlTCY4) - 16 November 2022
+
+### Opening
+
+**Daniel:** Kyle Trouble runs a recruitment agency. Kyle, you've been in Client Ascension for about five months now. Could you share with everybody what you were making when you started and where you are now?
+
+**Kyle:** Thanks for having me on, first and foremost. When I joined Client Ascension, I was floating somewhere around $17K to $20K/month in recurring revenue. It's a placement agency, so we’re basically paying the candidates every month. Now, with one-time fees from last month, recurring revenue is up around mid-50s, and we should hit around $60K in the coming days. With how the initial starting fee and offer is now dialed in, I think this month we’ll be close to $70K.
+
+**Daniel:** That’s so dope. No signs of stopping either.
+
+**Kyle:** None at all. Growth’s fast. Based on our last one-on-one, it feels pretty inevitable we’ll hit $100K–$150K within the next four months.
+
+**Daniel:** Could you share—without giving away too much sauce—how you're getting clients?
+
+**Kyle:** I can share most of it. It's a mix of:
+
+* Word of mouth and referrals
+* Twitter ads – running at a 5–6x ROAS
+* Cold email (with a VSL made by Steven that’s converting well)
+* A friend running ads on another platform (which I’ll keep secret for now)
+
+**Daniel:** People in Client Ascension might be the only humans getting positive ROAS on Twitter ads.
+
+**Kyle:** It's crazy. Twitter ads are cheap and targeted.
+
+**Daniel:** Unlike Facebook lead forms, you get actual quality prospects who know why they’re on the call. Plus, it’s socially integrated. People see your content, then your ad, and the domino effect kicks in. Tracking’s still abysmal though.
+
+### Breaking Points
+
+**Daniel:** Were there any breaking points or mindset shifts that made a big difference?
+
+**Kyle:** Yeah. Back in college I sold Bose headphones, was the top associate in California. Thought I could bring the same sales energy here—but Bose had brand recognition. I was just an order taker. Once I realized that difference, I stopped treating these like warm sales.
+
+Then I thought—why not make everything warmer?
+
+* Increased ad spend
+* Added a strong VSL
+* Daily email follow-ups
+
+Now, prospects show up warm. Sales calls are easier.
+
+I'm just sitting there waiting for an objection. I hired Steven to make the VSL.
+
+It went live Oct 25, and already paid for itself by Nov 10.
+
+**Daniel:** [VSL's make everything order of magnitude better](https://youtu.be/XgKwfSlTCY4?t=381).
+
+### Next Steps
+
+**Daniel:** Where do you want to take this? Build it to $500K/month or sell it?
+
+**Kyle:** I lived in Ukraine for five years. My wife and daughter are Ukrainian. I care about helping good people get good jobs—clients and candidates. But both sides can be fickle.
+
+I don’t want to do this forever. I don’t have an exit plan yet, but I’m onboarding three team members next week
+
+Just trying to:
+
+* Step on the gas
+* Exit the day-to-day
+* Maybe sell it or stay on as a consultant
+
+### Advice for B2B Owners Considering Client Ascension
+
+**Daniel:** If someone’s running a B2B business—agency, consultant, freelancer—and thinking about joining, what would you say?
+
+**Kyle:** You’ll learn the macro and the micro:
+
+**Macro:**
+
+* Try everything
+* Go all-in
+* Ramp up cold emails (I’m doing 400/day now)
+* When momentum hits, pour fuel on it
+
+**Micro:**
+
+* Sales nuances
+* Cold email refinement
+* Quick, tactical help from experts (10-minute calls that just solve the problem)
+
+The network effect is massive.
+
+Being surrounded by people who are actually doing it is invaluable.
+
+### Final Notes
+
+If you’re interested in hiring VAs, project managers, CTOs, CMOs, devs, or automation engineers—Kyle’s your guy.
+
+Links to [his website](https://hire-ua.com/) and [Twitter](https://x.com/KyleMau).
+
+Thanks for coming on, Kyle!
+
+**Kyle:** Thank you!
+
+PS: Kyle also has [this podcast](https://www.youtube.com/watch?v=IUYBpZ3czMg).
+
+## David Mendes Interview
+
+!!! tip
+
+    This is Video #13 on [Daniel's channel](https://www.youtube.com/@danielfazio).
+
+[From Sales Rep to Making $45,000/mo inside Client Ascension (Creating a High Ticket B2B Offer)](https://www.youtube.com/watch?v=BRS-qlwoCQI) - 18 November 2022
+
+### Introduction
+
+David Mendez is in Client Ascension and we're going to talk about what he does and try to give you some value here.
+
+David, tell us what you do and about how much you're making.
+
+**David:** "Yes sir. What I basically do is launch high-ticket coaching programs for people — like a done-for-you service. Right now, I'd say I'm making around $40K to $50K a month. My offer structure is a little complex because I have a performance-based type of setup.
+
+Before this, I was a sales rep selling **coaching offers** with some of the largest companies in our space. I was doing $15K to $20K a month in commissions, and it was around this time I joined Client Ascension because I wanted to do my own thing.
+
+I reached out to Daniel and insisted that he help me out. We brainstormed offer ideas and eventually landed on something that worked. I signed my first client about a month after going public and started making good money quickly."
+
+!!!  tip
+
+    He got good what he is doing.
+
+### From Sales Rep to Offer Owner
+
+**Daniel:** "You're the perfect example of someone who used **job experience** to create an offer. You were a sales guy, then translated that **knowledge** into owning your own offer — which is the step many people miss if they want to really scale.
+
+> You need to own the offer!
+
+You did it by choosing performance-based pricing because you're confident you'll drive big money. That's the move when you're good."
+
+I repeat here.
+
+> That's the move when you're good. DO this if you ARE GOOD.
+
+**David:** "Exactly. I always believed that's the best way to start a business — by working inside someone else's and learning in the trenches. Once you've earned your stripes, you synthesize that experience into something where you have an unfair advantage."
+
+### The Launch Process
+
+**Daniel:** "So tell me about your process. How do you launch coaching programs?"
+
+**David:** "Gladly. My process is based on a few principles:
+
+0. **Do you actually have an expertise?**: I partner only with people who have real expertise. I don’t want to work with people who don’t know what they’re talking about.
+
+1. **Find Out What People Want**: Either you create it or arbitrage it. After you find this information, you can meet the demand, making this out of thin air.
+
+2. **Leverage Existing Audiences**: I prefer partners who already have some kind of social presence. Because of that, their followers are already pre-interested. That gives us an asset to launch with.
+
+3. **Direct Market Feedback**: We talk directly to their audience. Not doing what everyone else is doing (which is a good way if you are an absolute beginner). We run consults, ask discovery questions, and figure out what they really want. Run discovery calls with giving some free value upfront. This puts us way ahead of people who are just guessing.
+
+4. **Build Launch Assets**: These are core content pieces that accelerate the buyer journey. Instead of weeks of exposure, we build content that compresses that into one sitting.
+
+Examples:
+
+   * Long-form sales letter (Basically free sauce as a huge content. With a note in the end, you can do this yourself or we can work together.)
+   * Power offer
+   * VSLs (case studies)
+   * Free courses or YouTube playlists
+
+TODO ON power assests.
+
+We put these assets on repeat. We auto-retweet them, repost them, and let them do the selling."
+
+### Execution with Speed
+
+"This system only works if you know what the market wants. Once we have that data, we structure everything — the offer, the funnel, the content — around it. The result: predictable conversion.
+
+And Client Ascension helped me launch this from nothing. Daniel and I built the offer together from scratch. The clarity and execution plan they gave me helped me move fast.
+
+I just needed someone who had done it before to bounce ideas off of and then go execute. That back-and-forth was extremely valuable."
+
+### Client Ascension's Impact
+
+"Client Ascension gave me clarity and accountability. I’m a doer, so when they gave me action steps, I executed. Daniel checked in and held me accountable. If something wasn’t done, he called me out.
+
+That kind of pressure and clarity is what gets results. And it’s not just about content or calls — being around high-level people in the community creates network effect leverage."
+
+### Extending Client Lifetime Value
+
+"You helped people scale. You should build sales teams for them too."
+
+"That's the logical next step. Here's how it works:
+
+1. I start by taking sales calls myself and closing.
+2. I record those calls and use them to create a repeatable process.
+3. I onboard a closer and go back-to-back with them on calls.
+4. Once they’re onboarded, I step back.
+
+You can't scale a business unless you transfer your skill into systems and people. I build the sales system from my experience and then use it to train others."
+
+### Final Thoughts
+
+"If someone is stuck at \$5K to \$10K/month trying to scale, they’re probably in a commoditized market doing what everyone else is doing. You need to be in a room with people ahead of the curve.
+
+Client Ascension is that room. This is where new ideas get created. Where trends start. Join early, gain asymmetric returns, and position yourself as the go-to person in your niche."
+
+"Thanks, David. I'm going to leave links to all of David’s stuff in the description if anyone wants to connect with him or work with him. Thanks, brother."
+
+"Absolutely. Thank you."

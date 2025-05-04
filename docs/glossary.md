@@ -580,6 +580,22 @@ Part of an offer. Money Back Guarantees.
 
 Risk reversal is not only for clients, they are for you. You have to perform.
 
+### ROAS
+
+Kyle taught me this [one here](https://youtu.be/XgKwfSlTCY4?t=98).
+
+Return on Advertising Spend (ROAS) is a marketing metric that measures a specific ad campaign and how it has impacted revenue.
+
+Tracking ROAS can inform whether digital marketing campaigns are working effectively or if there is room for optimization.
+
+### Roledex
+
+A Rolodex is an old-fashioned desktop organizational system, a contact list stored in a rotating card file.
+
+Daniel gave [an example of an asset](https://youtu.be/deAzlMzvhRU?t=549):
+
+> You now have a Roledex of people you can purchase ads from.
+
 ### Sales Process
 
 After cold emailing, if you cannot make sales, you have issues in your sales process.
@@ -677,6 +693,10 @@ Outline could be: whats the problem this audience has, how they tried to solve i
 This definition sounds like the [CLOSER method](https://www.skool.com/acceleratoruniversity/what-is-alex-hormozis-closer-framework).
 
 To make a good VSL you have to have a good offer.
+
+Another banger.
+
+[VSL's make everything order of magnitude better](https://youtu.be/XgKwfSlTCY4?t=381).
 
 ### VA
 

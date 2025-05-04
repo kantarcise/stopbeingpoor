@@ -286,13 +286,21 @@ People care about **Speed** and **Certainty**.
 
 ## Make Money Online
 
+!!! tip
+
+    This is Video #10 on [Daniel's channel](https://www.youtube.com/@danielfazio).
+
 [How To ACTUALLY Make Money Online - No BS Guide (Everything Else Is Garbage)](https://www.youtube.com/watch?v=deAzlMzvhRU) - 8 November 2022
+
+Opening with a banger quote:
+
+> Nothing happens for so long and everything happens at once.
+
+### How this Works
 
 In order to acquire money you need to have somebody give it to you.
 
-So you need to offer somebody something that they value more the $x amount of money
-
-### 3 Things to Sell
+So you need to offer somebody something that they value more the $x amount of money.
 
 There’s 3 things you can sell:
 
@@ -300,25 +308,39 @@ There’s 3 things you can sell:
 2. Become healthier
 3. Have more s*x
 
-We'll talk about the first one. Because that allows us to enter a different realm than what you’re thinking: BUSINESS TO BUSINESS (B2B).
+We'll talk about the **first one**.
 
-It means you’re a business selling a service to another business - of which it is either going to make them more sales or decrease the amount of time they’re spending in their business.
+Because that allows us to enter a different realm than what you’re thinking: BUSINESS TO BUSINESS (B2B).
 
-It’s also going to be a service business - which means you will be exchanging your time as opposed to a physical product which requires capital
+It means you’re a business selling a service to another business - of which it is either going to **make them more sales** or **decrease the amount of time** they’re spending in their business.
 
-### 2 Types of B2B
+It’s also going to be a service business - which means you will be exchanging your time as opposed to a physical product which requires capital.
 
-There are two types of B2B Service Businesses You Should Run - You should only do one of these two:
+No capital, no logistics.
 
-**Productized Service** - you do the same thing every time for every person, performative results not dependent on you
+#### 2 Types of B2B
 
-**Performative Based Agency** - highly complex done-for-you service where your results are tied to performance.
+There are two types of B2B Service Businesses you should run.
 
-You need to pay very close attention to this whole spiel I’m about to go through because it’s very important: ***"Beginners should start with productized services because of low complexity and lack of competence necessary"***
+You should only do one of these two:
 
-Experts should charge a lot of money because they’ve proven themselves capable of delivering abnormal results
+**Productized Service** - you do the same thing every time for every person, performative results not dependent on you.
+
+**Performative Based Agency** - highly complex done-for-you service where your results are tied to performance (You get paid a lot doing this).
+
+You need to pay very close attention to this whole spiel I’m about to go through because it’s very important: 
+
+***"Beginners should start with productized services because of low complexity and lack of competence necessary"***
+
+Experts should charge a lot of money because they’ve proven themselves capable of delivering abnormal results.
 
 You cannot become the person capable of delivering abnormal results without reps - and a productized service business will allow you to execute those reps and become capable of delivering abnormal results.
+
+So the sequence is - "Productized Service to Performative Based Agency".
+
+### Examples
+
+See the examples.
 
 #### Examples of Productized Service
 
@@ -344,19 +366,25 @@ You cannot become the person capable of delivering abnormal results without reps
 
     - Two types of people to prospect:
 
-        - Those already running a channel (meaning your lead pool is people who presently have YouTube videos - look for people in the business niche who have unedited videos. Then find their other social media channels like Twitter and IG and message them. If they don’t respond, keep messaging. ***Keep messaging until you get a firm yes or no***)
+        - Those already running a channel (meaning your lead pool is people who presently have YouTube videos - look for people in the business niche who have unedited videos. Then find their other social media channels like **Twitter** and IG and message them. If they don’t respond, keep messaging. ***Keep messaging until you get a firm yes or no***)
 
-        - Those not currently running a channel (meaning your lead pool is people in the business niche on LinkedIn or Twitter and your angle is CONVINCING them to use YouTube i.e. “I can make it extremely easy for you to post videos I just need raw footage of screenshares with your face on it and I’ll take care of everything else’)
+        - Those not currently running a channel (meaning your lead pool is people in the business niche on **LinkedIn** or **Twitter** and your angle is CONVINCING them to use YouTube i.e.
+        
+            - ***“I can make it extremely easy for you to post videos I just need raw footage of screenshares with your face on it and I’ll take care of everything else"***)
 
-Influencer Marketing
+- Influencer Marketing
 
-    - You facilitate the purchasing of influencer posts by Tik Tok influencers and ecommerce brands. UGC ads. Charge roughly 2x-3x what the influencer would otherwise post.
+    - You facilitate the purchasing of influencer posts by Tik Tok influencers and ecommerce brands. 
+    
+        - UGC ads. Charge roughly 2x-3x what the influencer would otherwise post.
 
-### Examples of Performative Based Agencies
+        - You are literally a broker. Facilitate a transaction.
+
+#### Examples of Performative Based Agencies
 
 At this point you've been running your productized service business for about 9-12 months and all of the growth of such business is completely back-loaded towards the end.
 
-So you are now hitting a breaking point of becoming extremely competent in the peripheral things you did not know existed before.
+So you are now hitting a breaking point of becoming extremely competent in the **peripheral things** you did not know existed before.
 
 ***Example***:
 
@@ -365,22 +393,28 @@ You did influencer marketing (you were facilitating the purchase of UGC influenc
 You've done 500 of these at this point and you've acquired a couple things:
 
 1. You've noticed trends about how to make the ads work very well - a specific sequence & formula to increase the probability of them popping up.
-2. You've acquired a bank of 300+ creators who regularly will make posts for you (you've developed a relationship with them - you now have an asset).
+
+2. You've acquired a bank of 300+ creators who regularly will make posts for you (you've developed a relationship with them - you now have **an asset**).
+
 3. Your clients wanted to experiment with TikTok ads so you started spending ad money for them on the TikTok ads manager in addition to the influencer posts.
 
 !!! tip
 
-    You NOW have the capability, expertise and assets necessary to offer a performative based agency offer where you work with large brands for a lot of money, and that might look like the following:
+    You **NOW** have the capability, expertise and assets necessary to offer a performative based agency offer where you work with large brands for a lot of money, and that might look like the following:
 
-Price: $10,000/mo + %10 of revenue generated on TikTok
+    Price: $10,000/mo + %10 of revenue generated on TikTok
 
-Deliverables: 60 posts per month, minimum ad spend $50,000/mo
+    Deliverables: 60 posts per month, minimum ad spend $50,000/mo
 
 You make a business $1,000,000 per month on TikTok congratulations you are making $110,000/mo.
 
 !!! warning
 
-    You CANNOT offer this service until you know how to do it. 
+    You CANNOT offer this service until you know how to do it.
+
+    Understand.
+
+    You CANNOT start AT THIS PLACE.
 
     Such is the nature of why you start with a productized service business to develop the **capability**, **assets** and **expertise** in the first place.
 
@@ -392,8 +426,8 @@ Now, here is your timeline:
 
 - Watch all of the YouTube videos Daniel presently have available on my channel.
 - Pick a productized Service.
-- Look up videos on that particular service and watch 30 hours
-- Go buy some courses on Udemy
+- Look up videos on that particular service and watch 30 hours.
+- Go buy some courses on Udemy.
 - Practice doing it for free, unprompted to the target market.
 
 **Day 30-35 Your Place on Internet**:
@@ -404,14 +438,18 @@ Now, here is your timeline:
 
 **Day 35-95 Outreach**:
 
-- Take your unpromted work and give it to the people who you did it for
+- Take your unprompted work and give it to the people who you did it for
 - Find their emails and cold email them.
-- Follow [Twitter Masterclass](https://www.youtube.com/watch?v=aSdn-lLZ-og) video to an absolute T (do exactly what Daniel says)
-- Your marketing strategy is doing work **completely unprompted** and giving it to the person
+- Follow [Twitter Masterclass](https://www.youtube.com/watch?v=aSdn-lLZ-og) video to an absolute T (do exactly what Daniel says).
+- Your marketing strategy is doing work **completely unprompted** and giving it to the person.
 
 But that doesn't scale. (LOL).
 
 Why are you worrying about scale when you are at $0?
+
+Repeat:
+
+> Why are you worrying about scale when you are at $0?
 
 At $0 only thing you have is Time.
 
@@ -452,22 +490,31 @@ You have to start with payment of time.
 **Productized Service Biz 5**: Youtube Video Editing
 
 - Daniel found his editor because he tweeted that he was going to start on Youtube
+
 - He got a message from the guy telling him he's an editor and he sent links to his work
+
 - If you don't already have work done, follow this:
 
-1. Find people in business niche with unedited videos who ALREADY have videos on Youtube. Find them on Twitter, Instagram or email.
-2. Send them a message like "Hey {name}, Just watched your video on Youtube about X and loved what you said about y. Wanted to send over a message because I think your channel could pop off with proper editing, keyword research and thumbnails. Are you going to make more videos soon? (I'd be happy to edit your first for free)" (If they do not respond, follow up. Follow up until you get a yes or no)
-3. When they post the edited video you make, come bacj to them after a couple days with bunch of more video ideas you source from VidIQ (keyword research)
+    1. Find people in business niche with unedited videos who ALREADY have videos on Youtube. Find them on Twitter, Instagram or email.
+
+    2. Send them a message like "Hey {name}, Just watched your video on Youtube about X and loved what you said about y. Wanted to send over a message because I think your channel could pop off with proper editing, keyword research and thumbnails. Are you going to make more videos soon? (I'd be happy to edit your first for free)" (If they do not respond, follow up. Follow up until you get a yes or no)
+
+    3. When they post the edited video you make, come back to them after a couple days with bunch of more video ideas you source from [VidIQ](https://vidiq.com/) (keyword research)
 
 This is currently around $400 - $800 per video.
 
 **Productized Service Biz 6**: Influencer Marketing
 
 - Target is ecom brands
+
 - Service is getting them ads made by TikTok influencers
+
 - Cold email a bunch of ecommerce brands (you can get their emails from something like contactecom.com or storeleads.com) 
-- Email script like "Hey {name}, quick question, are you guys looking for UGC ads from TikTok influencers? I can get 10-20 videos made for {{x product}}"
+
+- Email script like ***"Hey {name}, quick question, are you guys looking for UGC ads from TikTok influencers? I can get 10-20 videos made for {{x product}}"***
+
 - Charge brands anywhere between $100-$400 per video.
+
 - Find UGC influencer on Twitter by going into Twitter Search Bar and simply typing "UGC" - there is a big community there.
 
 ### Action Items
