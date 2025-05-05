@@ -630,7 +630,7 @@ Twitter is a feed. If you interact with a tweet it pushes it back to the top for
 Responding to all comment on your tweet automatically doubles the comment count of every post (this is true of every social media post, Daniel does this on Youtube and Instagram aswell). 
 
 Here’s the full text from the image:
-
+ 
 ### Call to Actions
 
 The entire function of all of this is to point people somewhere.
