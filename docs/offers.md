@@ -948,3 +948,106 @@ This is a really good business to start right now. You have 8–10 months before
 🎥 I’ll link a full video guide to marketing on Twitter next—combine it with this offer, and you’ll be dangerous.
 
 That’s it for today. Farewell, my friends!
+
+## Stick with a Business Model
+
+!!! tip
+
+    This is Video #16 on [Daniel's channel](https://www.youtube.com/@danielfazio).
+
+[Stick with ONE Business Model For A LONG Time - You'll Make More Money Online (Here's Why)](https://www.youtube.com/watch?v=BNtEXQ7B3RU) - 5 December 2022
+
+### The Journey from Info Products to High Ticket
+
+**[Andre](https://x.com/andrehaykaljr):** But yeah man, yeah it's been a crazy journey since we first met up in Tampa like a year ago. And so one of the questions I think would be good for the audience to hear more about is:
+
+> How do you transition from selling info products to going into high ticket, and how do you view both of those different business models if someone is just getting started?
+
+**Daniel**: You never want to sit there and just sell a course for too long, because people are going to sit here and then you're going to be labeled as just the guy who sells courses—and that's the entirety of your business.
+
+And such would have also been the nature for me had I not made software companies, right?
+
+So it's like—you had to do a bunch of different things with cold email, use a bunch of different software, so I sat here and just replicated every single software app.
+
+And then that was when I was kind of *not* labeled as just a course seller.
+
+So it's like—you do want to expand, and you can do that with a high ticket offer as well.
+
+### When to Create a Coaching Offer
+
+But in general, if you're sitting here—if you do have a course or if you have an agency and you've accomplished some specific task using some specific mechanism—you can translate that into a coaching program because you have accomplished something.
+
+And the offer looks pretty simple:
+
+> "We're going to show you how to do this using this."
+
+And that’s it.
+
+You just sell in a different format—**fulfillment format**—for what you’ve already been doing.
+
+So it's like, if you're sitting here and you're really good at Facebook ads, and you've scaled a bunch of companies (either in an agency or you own the company with Facebook ads), you can pretty easily make:
+
+> "Hey, we're going to show you how to scale your company with Facebook ads."
+
+Looks pretty simple.
+
+### Don’t Jump Into Selling Courses Too Early
+
+**[Christian](https://x.com/cbwritescopy):** Talk about that real quick—because I feel like a lot of people jump from starting out to selling a course without getting enough experience in between to be qualified to sell a course or run a coaching program.
+
+So talk about getting experience with the skill before you try to monetize it with info products.
+
+Yeah—well, what's going to happen is:
+
+Say you start an agency and maybe you get the agency to like 5K–10K a month.
+
+And yeah, I mean it’s ethical to sit here and say:
+
+> "I’m going to make a coaching program or course to show you how to make 5K or 10K a month in the agency."
+
+Yeah—you can do that.
+
+But—**if you don't take something to 50K or 100K**, then you can't ever morph into teaching people how to do that.
+
+### Mastery Through Scale: Avoiding the Hop
+
+I was talking with David Mendes about this yesterday. He's doing a really good job with his agency right now—his high ticket coaching programs—and he's working with Brooke.
+
+And I told him:
+
+> "Yo, stick with Brooke and try to just get this thing to 500K a month or a mil a month. And it might take you a year or two years—but at the end of it, you're gonna be the person capable of creating a 500K/month business or a $1M/year business."
+
+This is why you **don’t want to hop** too much.
+
+Because you go through ceilings—where you have to fundamentally change:
+
+* how you operate
+* what you know
+* and how you execute
+
+to break past the ceiling.
+
+And if you just **churn and burn business models**, you’ll always get it up to that one ceiling—and never break past it.
+
+### Become the Person Who Can Do It
+
+So you need to stick with one particular thing for a long time—so you can go past a large array of ceilings.
+
+And then, if you take one business to a million a month, you can take **basically any business** (obviously it has to be a good offer) to a million a month.
+
+Like, look at **Alex Hormozi**.
+
+He literally sits here and just acquires info product businesses—because he took an info product business to like 50M/year.
+
+So he's pretty confident in his ability to take any other info product business and also get it to 50M/year.
+
+And **that’s what you have to do**. You really gotta stick with something for a long time—so you just **become the person** capable of doing that.
+
+### The Real Goal: Actually Being Good
+
+And *that* is the whole point, right?
+
+To actually be good.
+
+And that takes a really long time.
+

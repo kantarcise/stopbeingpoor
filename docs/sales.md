@@ -171,7 +171,7 @@ If you do not have proof yet, you need to go extremely hard on content and outbo
 
 [How Dylan Scaled His Agency to $41k/mo in 7 months](https://www.youtube.com/watch?v=RR5rxXycrV8) - 5 September 2022
 
-## Interview Transcript: Dylan Rich - Cold Calling Agency Success
+### Interview Transcript: Dylan Rich - Cold Calling Agency Success
 
 **Daniel:** What's up everybody! I got Dylan Rich here. He's running a $41k/mo agency right now. You've been in Client Ascension for about seven months. I wanted to do this interview—just introduce yourself to everyone, what you do, and how things are going.
 
@@ -260,3 +260,137 @@ If you do not have proof yet, you need to go extremely hard on content and outbo
 **Dylan:** Appreciate it, man.
 
 **Daniel:** Go check out the next video—full course on getting clients and growing Twitter. Like, comment, subscribe. Peace!
+
+## Market Research
+
+!!! tip
+
+    This is Video #15 on [Daniel's channel](https://www.youtube.com/@danielfazio).
+
+[This Market Research Strategy will Guarantee You Sign More Clients & Make More Sales](https://www.youtube.com/watch?v=4DcW6yJTqxA) - 23 September 2022
+
+### Starting Out in Entrepreneurship
+
+**Andre**: I guess for you, like you've been in entrepreneurship and business what now for like the past three or four years?
+
+**Daniel**: —2018. Four years.
+
+**Andre**: Okay, yeah. So talk a little bit about like when you first started and the skill sets you built that allow you to do what you do today with Client Ascension and with your personal brand. I think that's a big force multiplier that we'll get into.
+
+### Undoing the Veil
+
+So I feel like when you're a beginner in regards to like copywriting or just selling things online, you have this kind of veil. Like I remember trying dropshipping a couple of times and I'd go watch a Facebook ad tutorial.
+
+"I'm gonna show you how to make good Facebook ads."
+
+And they’ll say some things like:
+
+> “Yeah, so in general, like advertising, you want to make a claim what your product is going to help them with—like for instance, 9 out of 10 dentists recommend this tooth powder…”
+
+But it's like… that's not really it. And I sit here thinking: “Oh yeah…” just making stupid, non-high-impact claims like that, continuously trying to sell other things.
+
+Then one day, you just kind of sit there and think: "Alright, I feel like this is all dumb. I'm just gonna do this one kind of out-there thing."
+
+I can't even describe it.
+
+You just say: “Screw everything everyone else is saying—I’m just going to try this.” And bam—it works.
+
+And you realize this whole time, advertising and cold emails and speaking to people online to get them interested was never an input-output mechanism.
+
+It was never:
+
+> “Oh, just write this in your ad and send it to more people and bam—you make something.”
+
+It literally doesn’t work like that. You’re speaking to individual **humans**.
+
+### Breaking the Assumptions with Testing
+
+So I feel like that was the first thing. Probably took me about a year and a half to break past that veil. But—oh—no, I’m speaking to actual humans here.
+
+And the other thing is testing, because you find really weird things.
+
+I’ll give you an example.
+
+My first agency was an Instagram growth agency, and I’d sit here and look at my competitors. I literally copied the business model from these two dudes I found online.
+
+Their value proposition was:
+
+> “We’ll help you get more followers.”
+
+So I thought, “You know what? I'm gonna make the claim: I’ll help you make more money on Instagram.”
+
+So I started using that claim… and the business? Not really growing.
+
+Then I switch it—I say:
+
+> “I'm gonna help you get more followers.”
+
+Immediately—more sales.
+
+And I’m like, ***“That’s so dumb.”***
+
+These people—my niche was fitness coaches and influencer-adjacent people who weren’t actually selling anything—they were just interested in followers.
+
+They literally didn’t care about making money on Instagram at all.
+
+So I realized—wow—that’s weird. I had made this assumption that was totally incorrect.
+
+### Learning What the Market Really Wants
+
+So you can’t really sit here and make assumptions.
+
+And I feel like a lot of people do this when they’re trying to come up with some business model.
+
+They hear “learn a high-income skill,” and then they learn a couple things:
+
+* how to use Zapier
+* a little bit of copywriting
+* a little bit of sales
+
+Then they try to mash these skills together and spawn some offer with a value proposition that has no evidence that it even works.
+
+What you need is to find the **precise language**—like the exact **syntax** that your prospects are using.
+
+### Real-World Application Inside Client Ascension
+
+Literally a couple days ago inside the Client Ascension sales team chat, one of our setters was showing us text message conversations. And there are people saying things like:
+
+> “Yeah, I’ve wasted so much money on Facebook ads,”
+> “I don’t want to have to rely on an outside agency to get clients.”
+
+So I took that **exact syntax** and put it on our landing page.
+
+Then I did a split test on ClickFunnels and **immediately**—way more opt-ins, way more sales calls.
+
+And I thought: wow, that’s so interesting.
+
+Then we started being really cognizant of who’s interested in sending cold emails.
+
+Originally, we had this target market of marketing agencies. Like:
+
+> “Oh, if you're a marketing agency, we'll show you how to get clients with cold email.”
+
+But it’s **not just** marketing agencies.
+
+It’s:
+
+* B2B companies
+* Consultants
+* Freelancers
+* Anybody with any kind of offer that can be sold to another business
+
+### Listen to the Market
+
+You really have to sit here and pay attention.
+
+We could’ve just kept saying:
+
+> “Oh, if you're a marketing agency, we’ll help you scale to 30K/month.”
+
+But we never would’ve gotten to $500K/month.
+
+It’s not the correct claim for the person who is otherwise interested.
+
+So you **might think** you know what you're doing—but you **really don't**—and you have to speak to people and find out the **precise language**, exactly what they’re saying.
+
+I think that’s super, super important.

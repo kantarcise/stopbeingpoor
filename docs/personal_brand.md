@@ -1335,47 +1335,228 @@ I repeat here.
 Examples:
 
    * Long-form sales letter (Basically free sauce as a huge content. With a note in the end, you can do this yourself or we can work together.)
+
+> It's not [about the information](https://youtu.be/BRS-qlwoCQI?t=712). The information already exists. They can literally take it if they want. But most people don't because we know that it's way more efficient to do it with somebody else who has already done it.
+
+> "You can do it yourself or you can do it with us".
+
+> This is your opt-in which you use your email list.
+
    * Power offer
+
+> This is who is for. This is exactly who we are going to go through. This is the goal. Here is some scarcity and here is some urgency. If you are interested book a call.
+
    * VSLs (case studies)
+
+> Once you get your first big round of customers. You build a case study VSL. "This is how this person achieved this"
+
    * Free courses or YouTube playlists
 
-TODO ON power assests.
+> Make content. Just exist.
 
-We put these assets on repeat. We auto-retweet them, repost them, and let them do the selling."
+We put these assets on repeat. We auto-retweet them, repost them, and let them do the selling.
+
+This just accelerates the conversion window for each customer.
 
 ### Execution with Speed
 
-"This system only works if you know what the market wants. Once we have that data, we structure everything — the offer, the funnel, the content — around it. The result: predictable conversion.
+**David:** "This system only works if you know what the market wants. Once we have that data, we structure everything — the offer, the funnel, the content — around it. The result: predictable conversion.
 
 And Client Ascension helped me launch this from nothing. Daniel and I built the offer together from scratch. The clarity and execution plan they gave me helped me move fast.
 
+> Most valuable thing was to having access to someone who has done these. The synthesis and the positioning of the offer.
+
 I just needed someone who had done it before to bounce ideas off of and then go execute. That back-and-forth was extremely valuable."
+
+> Having specific executables on a specific timeline.
+
+> [If I could get this massive case study, everything else just happens inevitably.](https://youtu.be/BRS-qlwoCQI?t=1138)
+
+Daniel will [force you to move](https://youtu.be/BRS-qlwoCQI?t=1166).
 
 ### Client Ascension's Impact
 
-"Client Ascension gave me clarity and accountability. I’m a doer, so when they gave me action steps, I executed. Daniel checked in and held me accountable. If something wasn’t done, he called me out.
+**David:** "Client Ascension gave me clarity and accountability. I’m a doer, so when they gave me action steps, I executed. Daniel checked in and held me accountable. If something wasn’t done, he called me out."
 
-That kind of pressure and clarity is what gets results. And it’s not just about content or calls — being around high-level people in the community creates network effect leverage."
+That kind of pressure and clarity is what gets results.
+
+And it’s not just about content or calls — being around high-level people in the community creates network effect leverage.
 
 ### Extending Client Lifetime Value
 
-"You helped people scale. You should build sales teams for them too."
+**Daniel:** "You helped people scale. You should build sales teams for them too."
 
-"That's the logical next step. Here's how it works:
+That's the logical next step. Here's how it works:
 
 1. I start by taking sales calls myself and closing.
 2. I record those calls and use them to create a repeatable process.
 3. I onboard a closer and go back-to-back with them on calls.
 4. Once they’re onboarded, I step back.
 
-You can't scale a business unless you transfer your skill into systems and people. I build the sales system from my experience and then use it to train others."
+You can't scale a business unless you transfer your skill into systems and people.
+
+I build the sales system from my experience and then use it to train others.
+
+!!! tip
+
+    You get your sales guys after you have to have a good opportunity vehicle. If you don't have this they will churn.
+
+    You want them to stay for the long run.
+
+    They will make more money and you too.
+
+    As soon as the opportunity vehicle is good enough, go.
 
 ### Final Thoughts
 
-"If someone is stuck at \$5K to \$10K/month trying to scale, they’re probably in a commoditized market doing what everyone else is doing. You need to be in a room with people ahead of the curve.
+**David:** "If someone is stuck at $5K to $10K/month trying to scale, they’re probably in a commoditized market doing what everyone else is doing. You need to be in a room with people ahead of the curve.
 
-Client Ascension is that room. This is where new ideas get created. Where trends start. Join early, gain asymmetric returns, and position yourself as the go-to person in your niche."
+Client Ascension is that room. This is where new ideas generated. Where trends start.
 
-"Thanks, David. I'm going to leave links to all of David’s stuff in the description if anyone wants to connect with him or work with him. Thanks, brother."
+Join early, gain asymmetric returns, and position yourself as the go-to person in your niche."
+
+**Daniel:** "Thanks, David. I'm going to leave links to all of David’s stuff in the description if anyone wants to connect with him or work with him. Thanks, brother."
 
 "Absolutely. Thank you."
+
+## Scott Millard Interview
+
+!!! tip
+
+    This is Video #14 on [Daniel's channel](https://www.youtube.com/@danielfazio).
+
+[How Scott Hit $33,000/mo inside Client Ascension (Video Marketing Agency & Getting Clients)](https://www.youtube.com/watch?v=pHpLrRgBGP0) - 21 November 2022
+
+### Introduction and First Impressions
+
+Scott Millard joins the conversation from Tampa and talks about how Client Ascension has evolved into a strong, tight-knit community. What began as online collaboration has grown into real-life friendships, further enhanced by multiple in-person meetups.
+
+Scott highlights the camaraderie and support within the Slack channels and wind channels, explaining how important it is to have peers who are walking a similar path.
+
+Prior to joining, he felt alone in his entrepreneurial journey, but the group changed that.
+
+### Scott's Background and Starting Point
+
+At the end of the previous year, Scott was working a low-paying job at a social media startup, making just $3K/month.
+
+Feeling undervalued and stuck, he quit and spent two months earning no income.
+
+Eventually, he began selling videos online, even though he didn’t fully understand the concept of an "offer" at the time.
+
+He joined Twitter, found Client Ascension, and made $5K/month, which was the minimum requirement to join the program.
+
+He recalls living in his childhood bedroom with no money and describes those days as being in **the trenches**.
+
+### Growth After Joining Client Ascension
+
+After joining Client Ascension, Scott experienced a 10x increase in his monthly income within six months.
+
+He went from not knowing what a cold email or sales offer was to learning how to construct a high-ROI offer, close sales calls, and streamline fulfillment.
+
+One notable milestone was hiring his first full-time employee, whom he now pays the same salary he used to earn himself.
+
+He credits the structured support of Client Ascension, including SOP guidance from coaches like Andre, as instrumental in navigating this transition.
+
+> You can use what people are experiencing and using (inside Client Ascension) as the solutions of their problems.
+
+### Systematic Growth and Business Clarity
+
+Scott recalls a 1-on-1 conversation with Daniel where he was "bullied" into hiring his first employee because he was working too much and not spending time growing the business.
+
+Once he made the hire, time was freed up to focus on higher-leverage activities.
+
+This decision made scaling to $50K/month realistic, and Scott began understanding the mechanics behind sustainable business growth.
+
+### From Living at Home to Location Freedom
+
+Scott reflects on the emotional toll of moving back in with his parents and how that affected his confidence.
+
+Now, he has location freedom, can provide for his family, and experiences the empowering feeling of being able to generate income independently.
+
+Client Ascension helped give him direction, clarity, and a tactical blueprint to scale his business.
+
+He learned how to execute cold emails, run Twitter ads, and automate parts of his business, all within a short time.
+
+> You don't run out of things to do.
+
+### Momentum and Consistent Progression
+
+He outlines his monthly income progression: 3K, 5K, 7K, 10K, 15K, 20K, 25K, and most recently 33K.
+
+What once felt impossible now seems inevitable.
+
+The concept of "price floors" in revenue and gradually raising those floors each month has proven to be highly effective.
+
+He notes that scaling is clean and systematic inside Client Ascension, and it ensures the business remains stable and service quality isn’t sacrificed.
+
+> Daniel says, it's just clean scaling.
+
+### Unique Value of Client Ascension
+
+Scott compares Client Ascension to other communities and explains why it stands out:
+
+* Individualized guidance and 1-on-1 coaching
+* Clear timelines, tasks, and deliverables
+* Systems to optimize acquisition and fulfillment
+* Tactical support for cold email, Twitter ads, LinkedIn, and more
+
+He emphasizes how rare it is to find a group of people who are all actually succeeding and pushing each other to do better.
+
+### Access to High-Level Mentorship
+
+Scott mentions learning from people inside the program who are making $100K+ and even $200K+ per month.
+
+He particularly references Oliver, who runs a large-scale cold email operation.
+
+These interactions provide a unique opportunity for peer learning and real-world insights.
+
+### Projected Growth and New Offers
+
+In the next six months, Scott is aiming to consistently hit $50K/month and achieve $500K in annual revenue.
+
+He is actively working on a new high-ticket offer that can be sold both on the front-end and to existing clients.
+
+Scott explains how Client Ascension helped him raise his prices, identify better prospects, and develop higher-margin offers.
+
+!!! example
+
+    How do people actually get to 50k/mo - 100k/mo - 200k/mo ?
+
+    Scott says they have more employees, more cold email domains and more recurrring clients.
+
+    Daniel says, they just have more time implementing the same thing you have been implementing.
+
+Selling to bigger businesses has become easier and more profitable.
+
+> Acquire more customers, make more money on existing customers.
+
+### Closing Thoughts and Final Endorsement
+
+Scott reiterates that Client Ascension made his current success possible.
+
+He highlights the community, the structured support, and the accountability systems in place.
+
+Daniel wraps up by emphasizing the integrity of the program and the focus on real results over vanity metrics.
+
+> Stop working with people who do not have the money.
+
+Scott's links and the Client Ascension opt-in page are provided for those interested in learning more or joining the community.
+
+!!! tip
+
+    Daniel says,
+
+    You can sell to larger businesses.
+
+    Stop talking to small businesses. Charge more money and only work with them.
+
+## Party in London
+
+
+!!! tip
+
+    This is Video #17 on [Daniel's channel](https://www.youtube.com/@danielfazio).
+
+[$25M Agency Owner Throws Birthday Banger in London (We Went)](https://www.youtube.com/watch?v=ba-xdx6YNoc) - 7 December 2022
+
+TODO

@@ -20,6 +20,12 @@ But as you do volume, you purposefully improve what you are doing.
 
 [You have 5 different mails](https://youtu.be/_ubUWUIHN0I?t=859), you send 1000. You see that 4 of them doesn't work. You cut them down.
 
+### Acquisition System
+
+Doing two things.
+
+> Acquire more customers, make more money on existing customers.
+
 ### Ascension Model
 
 Daniel talks about [the model here](https://youtu.be/_ubUWUIHN0I?t=114).
@@ -69,6 +75,14 @@ Facilitating a transaction between 2 people.
 
 For example there are Real Estate Brokers and Real Estate Agents which work for brokers.
 
+### Case Study
+
+Once you get your first customer. All you need is a massive case study.
+
+David [explains here.](https://youtu.be/BRS-qlwoCQI?t=1138)
+
+> If I could get this massive case study, everything else just happens inevitably.
+
 ### Churn
 
 Literally understand from example - [Dillon Case Study](https://www.clientascension.io/case-studies/dillon-andrews):
@@ -86,6 +100,18 @@ Your offer can simply state to the customer with 3 options, here is a part of th
 - You can not do this.
 - You can do it yourself.
 - You get in a time machine and join Client Ascension.
+
+### Client Ascension Goal
+
+Daniel [explains this](https://youtu.be/pHpLrRgBGP0?t=921) beautifully:
+
+> If we sat here and dirty scale, we could get to much higher MRR and not care about the students at all.
+
+> I don't want that.
+
+> I wanted to have longevity. I will do a call with every single student. Multiple calls. There are systems specifically to increase the speed with which people get results.
+
+> I need it to be clean. I need the highest possible percentage of people to see extreme success as possible.
 
 ### Cold Calls
 
@@ -403,6 +429,16 @@ Potential Client: "I watched 2 mins of this video, this guy gives value - he kno
 Lifetime Value of a Customer.
 
 The total amount of money the average customer will spend over their lifetime with you.
+
+### Market Cycle
+
+There is going to be offers.
+
+They have specific time spans. Which means they have a cycle.
+
+You can position yourself as the authority.
+
+You need to be in a room where people stay ahead of the curve.
 
 ### Market Sophistication
 
