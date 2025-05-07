@@ -165,6 +165,22 @@ It is a critical part of your marketing system because it involved reaching out 
 
 Bigger term including Cold Emails.
 
+### Consultative Sales
+
+Banger [video](https://youtu.be/FepWs1qV3xg?t=381).
+
+> "Thanks for getting on the call. You’re running a business, which likely means your goal is profit. If it’s okay, I’d like to ask a few questions to determine if this is financially viable for both of us. If I feel confident, I’ll give you an offer and possibly even a guarantee."
+
+Then ask:
+
+* What kind of business do you run (B2B or B2C)?
+* Who are you targeting?
+* Is your market reachable through cold email?
+* How much do you charge?
+* How many clients would you need to break even with our service?
+
+This is a financial conversation.
+
 ### Conversion Windows
 
 From [Client Ascension blog](https://www.clientascension.io/blogs/how-to-get-your-first-10-customers).
@@ -284,6 +300,12 @@ Here are more examples in raw format:
 ### Demand Capture - Demand Generation Scale
 
 You want to find out what your offer sits in this scale. For Demand Capture offers, you'll need more volume.
+
+### Engaged Lead
+
+[Alex video](https://www.youtube.com/watch?v=gy76mzEt_SI).
+
+A person you can contact who's shown interest in the stuff you sell.
 
 ### Evidence
 
@@ -424,6 +446,10 @@ Needs a Youtube Video.
 
 Potential Client: "I watched 2 mins of this video, this guy gives value - he knows what he is talking about."
 
+### Lead
+
+A lead is a person you can contact.
+
 ### LTV:
 
 Lifetime Value of a Customer.
@@ -461,6 +487,20 @@ This is the best positioning you can stand.
 From this [banger video](https://www.youtube.com/watch?v=mehSj3hik8k).
 
 Marketing is being able to anticipate the question that somebody is going to have before they ask it.
+
+Another approach [Marketing as a Gym](https://youtu.be/genAUzah4Yo?t=996).
+
+Marketing is like sets in the gym.
+
+A set is a month: 4 YouTube videos, 10 Twitter threads, 20 LinkedIn posts, 500 DMs, 4,000 cold emails.
+
+You want to grow?
+
+Add volume, hire help, and increase the set.
+
+Progressive overload.
+
+It’s inevitable — results come if you keep lifting.
 
 ### Non Refundable
 
@@ -690,6 +730,12 @@ They reduce errors, increase efficiency and enhance profitability.
 
 They also make a safe work environment and produce guidelines for how to resolve issues and overcome obstacles.
 
+### Speed and Certainty
+
+Banger [video about positioning](https://youtu.be/4uai8ZqWMmc?t=416).
+
+This is what people care about in offers.
+
 ### Testimonials
 
 Alex Hormozi said this.
@@ -699,6 +745,10 @@ If you are running a sales team you have to show your testimonials to your sales
 ### Tonality
 
 While you are selling you need to be extremely confident. They can feel it in your tonality.
+
+### Top Line - Bottom Line
+
+Top line is your total sales (also called **revenue**) and bottom line is the total **profit** (also known as net income or net earnings) you get after subtracting all costs from the top line.
 
 ### Top of Mind
 

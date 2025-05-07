@@ -244,8 +244,126 @@ You cannot do 1. Just do 2 or 3 when you get to that stage!
 
 ## Offer Positioning
 
+!!! tip
+
+    This is Video #19 on [Daniel's channel](https://www.youtube.com/@danielfazio).
+
 [Offer Positioning: How to Get More Clients for your Agency or B2B Business](https://www.youtube.com/watch?v=4uai8ZqWMmc)
  - 12 December 2022
+
+### Introduction
+
+There's a huge problem in the make money online space or anyone watching business tutorial videos.
+
+It starts with this idea: learn a high-income skill and then sell that skill to businesses for money.
+
+But here's the truth — nobody wants to give you access to their email list or their ads manager just so you can outsource it to a $4/hour VA.
+
+They’re scared. Scared you’ll ruin their reputation or waste tens of thousands on ads.
+
+### Understanding Fear for Better Offers
+
+Let’s pause. Those two fears are your entry point:
+
+1. Ruining their brand/reputation
+2. Wasting ad budget
+
+Use this exact language in your offer positioning.
+
+### Questions You Must Answer
+
+Ask these before selling:
+
+* What have they tried that didn’t work?
+* Did they buy a course from a fake guru?
+* Did they lose $20k on ads?
+* Who is the exact buyer?
+* What are they afraid of?
+* What will happen if they don’t solve the problem now?
+
+**Warning:** Don’t make up answers. Get the exact syntax from real prospects.
+
+### Example 1: Security Guard Training
+
+A client in Client Ascension trained security guards to be more aware.
+
+Initial offer: "We train guards to be more aware."
+
+But that’s not the real buyer. It’s the security company owner. Why would they buy?
+
+**After investigation:**
+
+* Untrained guards = more violent incidents
+* That leads to:
+
+  1. Increased insurance rates or dropped coverage
+  2. Brand damage
+  3. Higher churn = more hiring costs
+
+**Final offer:**
+
+> Started at: "We train security guards to be more aware."
+
+> Now: "Security company owners: We show you how to lower insurance rates, protect brand reputation, and reduce employee churn."
+
+### Example 2: Client Ascension’s Own Offer
+
+Every person who joins is asked:
+
+* Why did you join?
+* What motivated you to take the call?
+* What was the breaking point?
+
+These questions will help Daniel to word the offer for the people at the top of the funnel.
+
+Genius.
+
+And:
+
+* Read real sales objections
+* Collect sales team notes
+
+Use these angles to translate into marketing.
+
+**Data from prospects:**
+
+* Tried ads and lost $30k
+* Bought broken coaching products
+* Tried cold email and failed (low replies, bad conversions)
+
+**Fears:**
+
+* Relying on agencies
+* Going back to 9–5
+* Needing VC funding to stay afloat
+
+### Final Value Prop Example
+
+> "B2B companies, agencies, consultants, and freelancers: We show you how to turn 100% cold prospects into paying customers — without wasting thousands on ads or relying on outside agencies."
+
+### Injecting Speed & Certainty
+
+**Speed:**
+
+* We write your scripts
+* Give 500 leads free
+* Sending tool = free
+* Sending cold emails by week 2
+* Sales calls by week 3
+
+**Certainty:**
+
+* Guaranteed results
+* Show other clients getting results now
+
+### Call to Action
+
+Want to see how it works?
+
+1. Visit [clientascension.com](https://clientascension.com)
+2. Watch the next video: How to Make Money Online
+
+### Summary:
 
 Start off by getting these questions answered from your prospects:
 
@@ -523,9 +641,120 @@ This is currently around $400 - $800 per video.
 
 ## ROI Calculator
 
-[The ROI Calculator: Sign More Clients Using Pure Logic (B2B, SMMA, & Marketing Agencies)]((https://www.youtube.com/watch?v=FepWs1qV3xg)) - 29 December 2022
+!!! tip
 
-TODO.
+    This is Video #22 on [Daniel's channel](https://www.youtube.com/@danielfazio).
+
+[The ROI Calculator: Sign More Clients Using Pure Logic (B2B, SMMA, & Marketing Agencies)](https://www.youtube.com/watch?v=FepWs1qV3xg) - 29 December 2022
+
+A couple months ago, you took initiative to start a business.
+
+You did some market research, built a landing page, started sending cold emails or cold calls, and began booking meetings.
+
+But you're hitting a roadblock: you're getting on sales calls and struggling to convert prospects into paying clients.
+
+Let’s solve that today using the **ROI Calculator** and pure logic — a tactic most are not using.
+
+### You Are a B2B Service Company
+
+Your business likely falls into the category of a **B2B service company** — and its entire purpose is to deliver ROI for your clients.
+
+Clients aren’t buying your service just to spend money — they want **profit**.
+
+Let’s walk through two examples to understand how to pitch with ROI in mind.
+
+### Example 1: E-commerce Email Marketing Agency
+
+You charge: **$3,000/month**
+
+#### Prospect 1:
+
+* **Email list size:** 30,000
+* **Product profit margin:** 40%
+* **Estimated increase in monthly sales due to email marketing:** $32,000
+* **Profit from those sales:** $12,800 (40% of $32,000)
+* **ROI:** $12,800 / $3,000 = **4.3x**
+
+> This is a logical and profitable investment.
+
+#### Prospect 2:
+
+* **Email list size:** 5,000
+* **Profit margin:** 30%
+* **Estimated sales increase:** $5,500
+* **Profit from sales:** $1,650
+* **ROI:** $1,650 / $3,000 = **Loss**
+
+> Doesn’t make financial sense for them. They lose money.
+
+**Only two options:**
+
+1. Lower your price (not recommended)
+2. **Only pitch to larger businesses** (recommended)
+
+### Example 2: Lead Generation Agency
+
+You charge: **$400 per booked call**
+
+#### Prospect 1:
+
+* **Service price:** $300/month
+* **LTV (avg 6-month retention):** $1,800
+* **Close rate:** 20%
+* **5 booked calls → 1 sale**
+* **Total cost (5 calls):** $2,000
+* **ROI:** Negative ($1,800 LTV < $2,000 cost)
+
+#### Prospect 2:
+
+* **Service price:** $8,000/month
+* **LTV (6 months):** $48,000
+* **Close rate:** 20%
+* **5 calls → 1 sale**
+* **Cost (5 calls):** $2,000
+* **ROI:** $46,000 profit
+
+> Same pricing. Different result. Why? The **prospect’s economics**.
+
+### What This Means for You
+
+Stop lowering prices. **Start selling to businesses with more upside.**
+
+If you’re not closing calls, you’re probably pitching to the wrong people — people for whom your offer logically doesn’t make sense.
+
+Instead:
+
+* **Screen share** a Google Doc
+* Walk through **conservative ROI calculations** with them
+* If the numbers work, **offer a guarantee**
+
+You will close more.
+
+### Consultative Sales Approach (Use This Script)
+
+> "Thanks for getting on the call. You’re running a business, which likely means your goal is profit. If it’s okay, I’d like to ask a few questions to determine if this is financially viable for both of us. If I feel confident, I’ll give you an offer and possibly even a guarantee."
+
+Then ask:
+
+* What kind of business do you run (B2B or B2C)?
+* Who are you targeting?
+* Is your market reachable through cold email?
+* How much do you charge?
+* How many clients would you need to break even with our service?
+
+Now you’re having a **financial conversation**, not a **sales pitch**.
+
+### Scale?
+
+If you want to:
+
+* Charge more
+* Get more clients
+* Close more calls
+
+Go to [clientascension.com](https://clientascension.com)
+
+Or watch this next video to learn how to make more money.
 
 ## Marketing Agencies
 
@@ -1051,3 +1280,72 @@ To actually be good.
 
 And that takes a really long time.
 
+## Beginners Struggle
+
+!!! tip
+
+    This is Video #18 on [Daniel's channel](https://www.youtube.com/@danielfazio).
+
+[Why Beginners Struggle in Business & Can't Make More Money](https://www.youtube.com/watch?v=ckDu3P6T-ZI) - 9 December 2022
+
+### The Business Opportunity Trap
+
+Typically, what happens when somebody gets started in business is they'll buy a business opportunity course.
+
+A **business opportunity course** is a course that tells you what specific thing to sell to what specific kind of person.
+
+If 3,000 people buy that course and the target audience is 300,000 people, and only about 1% of that audience is ready to purchase right now, then your potential customer pool becomes incredibly limited.
+
+The sheer amount of competition makes your allotment (the process of sharing something, or the amount that you get) of opportunity small.
+
+You can imagine what happens as more people start selling the same business opportunity: **saturation**.
+
+It’s not that the opportunity is impossible, but it changes the game—you now have to **change your selling technique**.
+
+If 10,000 people are selling cold email services to marketing agencies or B2B businesses, and they're all using cold email to do it, then you're not just selling the same thing to the same target audience—you’re using the same marketing channel too.
+
+You can’t compete unless you do what others won’t and establish staying power.
+
+### The Advantage of Staying Power
+
+X amount of people are going to give up and churn.
+
+But if you stick with it, keep generating client results, make videos on it, appear on podcasts, and learn beyond what the course told you.
+
+You will surpass the people who created the business opportunity in the first place.
+
+Eventually, you become the go-to expert.
+
+It’s not about hating business opportunity courses—if you bought one, that’s fine.
+
+But there’s a delusion that buying a course will instantly get you to $10K a month.
+
+You’re not going to make $10K in your first month of business.
+
+You don’t even know how to operate a business yet.
+
+### From X to Z (and Beyond)
+
+You need **staying power**.
+
+You stick with it long enough that X leads to Y, then to Z, then to W.
+
+And over the course of a year, you accumulate knowledge. You become powerful.
+
+You become someone who knows what they’re doing.
+
+That’s how people get to $100K or $200K months. Not overnight.
+
+Many have been in business for four years or more.
+
+And sure, you might get angry at their success.
+
+But as Alex Hormozi says: maybe you should get angry at yourself for not being better.
+
+Because the truth is—they're just better than you.
+
+And the only way to change that is to become better yourself.
+
+That’s what most people don’t want to hear.
+
+But it’s the truth.

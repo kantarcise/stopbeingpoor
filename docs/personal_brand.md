@@ -1552,11 +1552,207 @@ Scott's links and the Client Ascension opt-in page are provided for those intere
 
 ## Party in London
 
-
 !!! tip
 
     This is Video #17 on [Daniel's channel](https://www.youtube.com/@danielfazio).
 
 [$25M Agency Owner Throws Birthday Banger in London (We Went)](https://www.youtube.com/watch?v=ba-xdx6YNoc) - 7 December 2022
 
-TODO
+Daniel spills some sauce in this video.
+
+### YouTube Lead Gen and SOP
+
+> So it's like 500 to 1500 passive views a day on YouTube. We've signed two clients just from YouTube exclusively so far and there's like a ton of leads that come in just from YouTube.
+
+Now, so it is **standard operating procedure** now by executive order: everybody in Client Ascension has to make YouTube videos because it's so stupidly easy.
+
+The system is so simple: you come up with the title, make a video specifically to rank for a search term, then SEO optimize it and release it. All of your Twitter content and LinkedIn content stem as output from the YouTube video.
+
+So I'm just going to very simply lay it out: how to find the titles, how to SEO optimize, and then how to translate into the other content.
+
+Then put appointment setters and people messaging you, and get them on meetings. Bam, you make a ton of money.
+
+It's that simple. 
+
+If you want to see how that works, go to clientascension.com.
+
+### Client Ascension Effectiveness
+
+We get like 300 to 500 unique people to clientascension.com basically every day. 100% do that.
+
+It works so well. That’s one of those things where you see it and it sounds so simple. Then you do it and you’re like, holy s***, that works so well.
+
+You have to do it.
+
+Exert s*** into the world.
+
+I don't know what Daniel is referring here, but it's made in [Hypefury](https://hypefury.com/).
+
+### Four Seasons and Birthday
+
+How to make Social proof as video?
+
+Opening line: 
+
+> First question literally, "Hey Kyle you have been with client ascension for five months now, can you share with everybody what you started before Client Ascension at and then where you are now?"
+
+He's going to give a specific time period and a specific increase.
+
+So now that it hits two of those, it's **speed** and **certainty**.
+
+It's "I did it this time and it did happen." Yes.
+
+Then you have a s*** ton of those.
+
+So it's just multiple replications of **speed** and **certainty**.
+
+As many as you can. That's it.
+
+Then the rest of it is you just spitting bars with them like it's a podcast.
+
+Now what's happening is they kind of want to like see if they can get something out of you, and then you drop some snippets of like really easy, useful s***.
+
+The audience hear 6-7-8 things. It gets so overwhelming.
+
+They are going to be like ***"Alright I had enough I'm booking a call!"***
+
+It takes 25-30 mins.
+
+Rest of the video is just vibes.
+
+## Michael Interview
+
+!!! tip
+
+    This is Video #20 on [Daniel's channel](https://www.youtube.com/@danielfazio).
+
+[How Michael Hit $80k/mo in Client Ascension (And How to Get Clients & Systematize Your Business)](https://www.youtube.com/watch?v=genAUzah4Yo) - 15 December 2022
+
+### Introduction
+
+**Daniel**: What's up everybody! I got Michael here. Michael is a G and he is inside Client Ascension.
+
+**Daniel**: Michael, could you let everyone know what you’re selling, what your business is, where you came in for Client Ascension, and where you are now?
+
+**Michael**: Yeah, what we do through Client Ascension is run an Amazon FBA coaching program. I’m a former CPA corporate accountant who started selling on Amazon, built a private label brand via Amazon, and used that to quit my 9-to-5 job. Then I linked up with my guy Ryan (aka the FBA investor) and we started mentoring people.
+
+We had courses and that led to our current program inside Client Ascension — the Amazon Accelerator 2.0 Program. We take students from all walks of life, most start at zero, some have current Amazon or ecommerce businesses but don’t know what’s going on. We guide them through each step: finding products, sourcing, designing high-converting listings, all the way to scaling a brand. Some do six figures within our 12-month program.
+
+Before Client Ascension, we were doing a lot of one-on-one work, didn’t really have a structured offer or program, just dudes on Twitter sharing success.
+
+People would ask us for mentorship and, like any entrepreneur, the answer was yes.
+
+But since then, we’ve refined the program and our results — and business — have improved dramatically.
+
+### Results Since Joining
+
+**Daniel**: Yeah, you showed me some of your client results, and they were really good. That’s why I had confidence in you guys. When you joined, it was a one-on-one thing, and switching to group with structure made a big difference.
+
+**Michael**: Absolutely. One doesn’t work without the other. More students building businesses = a better business for us.
+
+**Daniel**: Are you comfortable sharing revenue growth?
+
+**Michael**: Sure. We came to you in June, doing around $20–25K/month. We wanted to do group coaching and still offer one-on-one — our call links are basically always available, similar to what you do.
+
+In October, we had our best month — over $80K. November came back to about $65K.
+
+Now in December, we’re aiming for $100K. So we’re growing fast, and refining systems to maintain that hands-on, white-glove approach.
+
+### Operational Upgrades & Execution
+
+**Michael**: Operationally, Client Ascension has been huge. We always had the information, but we were scattered. Solopreneurs piecing things together inefficiently. Now we sell with conviction because we know onboarding is smooth, people are guided through the system, they book calls, and within months they’re launching products. You helped us tighten that up.
+
+**Daniel**: Yeah, most people get stuck between $20–30K/month. It’s hard to scale without systems. I like working with you because you always show up to calls with a specific problem, I give you a solution, and then it gets done. Over and over.
+
+**Michael**: We just hired a closer, so we’re no longer doing our own sales calls. That freed us up for high-quality content and running the program. Next is building a robust sales team. Our lead flow is great, and we know the program works. We just needed help with structure and growth.
+
+### Growth Systems & Execution Style
+
+**Daniel**: I remember pulling up a Google Doc and laying out a blueprint: "Do this, this, this…" You guys executed so fast. The next project is probably more closers and a Setter. We’re building systems around that — access to Setters, ops people, etc.
+
+**Michael**: Yeah, it’s been wild how quick things moved. First 60–90 days in Client Ascension we doubled. Our community and Top Line grew fast. And you’re right — your system works the same for agencies, coaches, or B2B companies. You just need to execute it.
+
+Here are the exact sentences.
+
+> Our content slaps when we have time. It's just that iteration. If we have the time and the systems, it's just going to grow. We'll get more leverage, we'll reach a lot more people for each exertion of effort.
+
+**Daniel**: It’s taken me 4.5 years to figure this out. But now someone like you can come in, follow it for 2–3 months, and boom — big results.
+
+**Michael**: Exactly. Our target market is anyone who hates their 9–5, and it’s a wide net. We tell people: just trust the system and execute. It’s the same thing over and over. You just need clarity and guidance.
+
+### Leverage & Content Strategy
+
+**Daniel**: You probably have students like you — solve one block, move to the next. When you understand how a system works, you can scale massively. Going from $20K to $80K/month in six months is wild. Next step: $250K/month.
+
+**Michael**: Yeah, and it’s about consistency and content. We’re expanding from Twitter to YouTube (Amazon FBA University), Instagram, email list. Message resonates, content lands — it’s all about iteration and reach. Systems let you scale reach.
+
+**Daniel**: Each exertion becomes higher leverage. Especially with YouTube. Just dropped seven new tutorials in the announcements channel.
+
+**Michael**: I’ll check those out. When you start a business, you work like crazy and get nothing. But results compound. Early struggle creates later leverage. I think a beginner with no clients needs 300–500 hours to get their first. But then results start compounding fast.
+
+**Daniel**: Yeah. Marketing is like sets in the gym. A set is a month: 4 YouTube videos, 10 Twitter threads, 20 LinkedIn posts, 500 DMs, 4,000 emails. You want to grow? Add volume, hire help, and increase the set. It’s inevitable — results come if you keep lifting.
+
+**Michael**: Absolutely. Guidance turns subconscious action into momentum. Dopamine aligns with real progress. Execution becomes intuitive.
+
+**Daniel**: Yeah. Thanks for coming on, brother. I’ll leave your YouTube, Twitter, and links in the description.
+
+**Michael**: Appreciate you. To anyone out there — join Client Ascension. Learn from the best. Speed is real. Price goes up soon, so jump in before the new year.
+
+## Sam Heedy Interview
+
+!!! tip
+
+    This is Video #21 on [Daniel's channel](https://www.youtube.com/@danielfazio).
+
+[How Sam Built a $55k/mo Tik Tok & Short Form Content Agency (Client Ascension Case Study)](https://www.youtube.com/watch?v=rG-0lNq6QTE) - 21 December 2022
+
+
+**Daniel:** First, Sam — Lord Commander of TikTok organic marketing and all things getting results for clients — how are we doing, good sir?
+
+**Sam:** I'm very good, thank you very much for having me.
+
+**Daniel:** Could you share with everybody what your business is and what revenue level you're at right now so they get context for this conversation?
+
+**Sam:** Perfect. I run an organic TikTok marketing agency specifically for realtors, personal brands, and restaurants. We currently have $55,000 in monthly recurring revenue, and we only work with serious people.
+
+**Daniel:** You just signed a big deal too. Can you share what that deal looked like?
+
+**Sam:** Yep. I signed a $9,500/month client for six months. It’s a huge win because I almost touched five figures per month from a single client. Previously, I had a good service but was targeting the wrong people. I was also hesitant to charge more because the results weren’t what I wanted. Over time, as we scaled and the results became undeniable, it justified the investment. Joining Client Ascension helped me systemize everything.
+
+**Sam:** Before that, I was doing all the work myself — a huge struggle. My time is better spent creating content. I'm currently in Dubai, and my team is running fulfillment while I’m here. That was my main 2022 goal: systemize and work only with aligned, high-level clients.
+
+**Daniel:** I remember you were working 12-hour days. We paused acquisition to operationalize. I know Andre helped a lot.
+
+**Sam:** Yes, just one call with Andre changed everything. It’s broken down in a way that’s easy to execute. Most agency owners get stuck on fulfillment — once you scale, maintaining quality is hard. The operation-side unlocks your ability to focus on your core zone of genius — content creation and strategy.
+
+**Daniel:** So now you're in Dubai, your business runs itself, clients are served, and you're not handcuffed to a job. That's the point — to build a system and be the CEO. And you have premium leads ready to convert.
+
+**Sam:** Yes, and they’re all high-level. We’re selling $9k+/month retainers with systematized delivery. That’s the goal.
+
+**Daniel:** You’re one of the best in the short-form content agency space. Can you talk about how you consistently get results?
+
+**Sam:** The key is understanding what your audience wants. Don’t just post content — ask them what they want to see. Who sees it matters more than view count. We've driven 9M+ organic views with no paid ads and added 30% sales to our clients' businesses.
+
+Our system is called NUIC: New, Unique, Interesting, Controversial. Content that fits this and is posted correctly will go viral.
+
+**Sam:** You need to stand for something. Say things that matter. All of my clients are like me — unafraid to take a stance. Example: in Singapore, a client got 180k views on one video — that’s like 1M+ in the U.S. due to audience size. The system, hooks, editing — we’ve got it down.
+
+**Daniel:** That **obsession with mastery** is exactly why you’re successful. Everyone follows the same line — get clients, get results, build systems, hire people. Without systematizing, no matter how many leads you have, you won’t scale.
+
+**Sam:** Finding great editors was hard — took months. But now the system works. Team members execute daily. I focus on lead generation and closing. That’s the CEO role.
+
+**Daniel:** Talk about the difference between a $3k client and a $9k client.
+
+**Sam:** It’s night and day. **I hate working with unambitious people**. If I have to convince you TikTok is useful, you’re not my client. Higher-paying clients are proactive, give feedback, and help us improve. Lower-tier clients take time away from high-value clients. I want to build something great — not run a charity. I also bought my parents a car and flew to Dubai without worrying about the cost. That’s the result of systems and mentorship.
+
+**Sam:** I now reinvest heavily in marketing. That’s key. If you're afraid to invest in growth, you're not going to last. As CEO, your job is to reinvest and stay out of the weeds. I’ve learned that the hard way.
+
+**Daniel:** I was talking with someone yesterday — that exact sentence you said, “I booked a flight and didn’t think about it,” is the goal. You want to have that freedom. But people forget that it takes intense, extended effort to get there.
+
+**Sam:** Higher-paying clients are just better. They don’t manufacture drama. If 9k is easy for them, they’re likely also execution-driven. It’s a self-filtering system. **Better clients, better results**.
+
+**Sam:** When I joined Client Ascension, I kept my mouth shut and just did what you told me. If you're not making the money you want, lower your ego. Stop pretending you know everything. Find people who’ve done what you want to do and follow them. That’s what I did.
+
+**Sam:** I specialize in content. So I found mentors for operations and systems. If you want to scale, that’s essential. You can’t do it alone. I fully recommend Client Ascension — it’s the best support system out there. And if you don’t have the money to join, make more. That’s what I did.
+
+**Daniel:** Appreciate you brother. We’ll put Sam’s links in the description. See you inside Client Ascension.
