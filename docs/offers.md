@@ -18,7 +18,13 @@ What you do, who you serve, what the terms are?
 
 ## Offer Formulation
 
-[Offer Formulation: Getting Clients & Signing More Deals for SMMA, Marketing Agency, B2B companies](https://www.youtube.com/watch?v=opE6MRW9Ceg) - 2 Jan 2023 - I wrote all these notes while listening but the [doc is here too](https://gamma.app/docs/How-to-Create-an-Offer-that-Clients-Buy-Examples-Formulation-ldh3tzo3ui98hr7?mode=doc).
+!!! tip
+
+    This is Video #23 on [Daniel's channel](https://www.youtube.com/@danielfazio).
+
+[Offer Formulation: Getting Clients & Signing More Deals for SMMA, Marketing Agency, B2B companies](https://www.youtube.com/watch?v=opE6MRW9Ceg) - 2 Jan 2023
+
+I wrote all these notes while listening but the [doc is here too](https://gamma.app/docs/How-to-Create-an-Offer-that-Clients-Buy-Examples-Formulation-ldh3tzo3ui98hr7?mode=doc).
 
 Descending importance:
 
@@ -41,6 +47,20 @@ Descending importance:
 
 ### Specific Problem
 
+1. Specific Problem (Most Important)
+
+If the problem is big enough, nothing else matters.
+
+Example: If someone has cancer with six months to live, the price, terms, or guarantees of a treatment are secondary to the possibility of solving the problem.
+
+You must find the actual pressing problem a niche is facing, not make it up.
+
+**Mistake to Avoid**:
+
+- Starting from a skill (copywriting, FB ads) and trying to reverse-engineer an offer.
+
+- Correct approach: Start from the problem, then build the unique mechanism, pricing/terms, and risk reversal.
+
 You can get away with not solving a specific problem and a unique mechanism like this:
 
 - "I'll front the cost of your facebook advertising. I'll write the copy, make the ads and use my own ad account. You give me 20% of the deals that close"
@@ -57,7 +77,7 @@ Examples:
 
 - [Cole Gordon](https://closers.io/): You're not getting enough calls from your opt ins. Places appointment setter in your business to call the leads. (Current headline: *We help businesses find proven salespeople, ramp them into KPI, and systematize management so they can work on their business, not in it.*)
 
-So,  how to find specific problems?
+So, how to find specific problems?
 
 **Answer**: ***Source it from the niche you have in your head (in an actually human way)***
 
@@ -165,9 +185,11 @@ If you are a beginner, you have no idea what to charge.
 
 You are going to have a hard time operating a sales call. (see video [ROI Calculator](https://internatclientascension.kantarcise.com/offers/#roi-calculator))
 
-You should almost always charge a performance basis.
+If you are a beginner, you can charge a performance basis. This is not just for the clients it's **also for you**.
 
-This is not just for the clients it's **also for you**.
+Daniel recommends a [60 percent margin for profits](https://youtu.be/opE6MRW9Ceg?t=738).
+
+> You need to charge enough money to people where you could outsource/hire and still profit.
 
 **High Ticket vs Low Ticket**
 
@@ -189,7 +211,7 @@ Here is an example
 
     There is no way this guy could ever sign another client at that pricing again.
 
-    It would be logistically impossible to grow this company. The profit margin would be so thin. It would be so much work with so little pay.
+    It would be **logistically impossible** to grow this company. The profit margin would be so thin. It would be so much work with so little pay.
 
 Here is how the future might look with this mistake:
 
@@ -1349,3 +1371,101 @@ And the only way to change that is to become better yourself.
 That’s what most people don’t want to hear.
 
 But it’s the truth.
+
+## Asymmetric Opportunities
+
+!!! tip
+
+    This is Video #24 on [Daniel's channel](https://www.youtube.com/@danielfazio).
+
+[Creating Offers That Sell: Selling Asymmetric Opportunities To Get More Clients (B2B Companies)](https://www.youtube.com/watch?v=7JcS3TzRNnM) - 4 January 2023
+
+Here’s your formatted transcript in a clean and structured format:
+
+---
+
+### How to Sell Asymmetric Offers That Actually Work
+
+If you're trying to sell something, you're going to make a claim like:
+
+> "I'm going to sell you this. You're going to give me money, but in return, I'm going to give you something *more valuable* than what you paid."
+
+This is called selling **asymmetric opportunities**—and it's the foundation of a functional business.
+
+> You say: "I'm really good at this. I’ll execute it for you in exchange for this amount of money. But my execution, applied to what you already have, is going to make you *way more* than what you paid me."
+
+**That’s literally how business works.**
+
+### The Client Ascension Model
+
+Client Ascension operates exactly like this:
+
+* We make a clear claim:
+
+  > “You're going to make **way more** than you invest with us.”
+
+* It works. Go to [clientascension.com](https://clientascension.com), opt in, and you’ll see:
+
+  * Screenshots
+  * Case studies
+  * Proof of people making a lot of money
+
+Here’s how it works in practice:
+
+* A B2B company joins (marketing agency, consultant, freelancer, etc.)
+
+* We help them spin up **outbound campaigns**:
+
+  * Cold emails
+  * Pre-written scripts
+  * Lead lists
+  * Software setup
+
+* We do this **faster** than anyone else.
+
+It works—*fast*.
+
+### You Must Deliver More Than They Invest
+
+Business is simple:
+
+> Deliver results **greater** than what they paid you.
+
+Some people hesitate to offer guarantees. They say:
+
+> “I want to sign clients, but I don’t want to offer a guarantee. What if I don’t hit the numbers?”
+
+But here’s the truth:
+
+* You charge $5,000.
+* You run ads. The client spends \$10,000.
+* They only make $2,000 in return.
+
+They **lost money**. You **didn’t** deserve the $5,000.
+
+That’s *not* an asymmetric offer. That’s theft.
+
+### Why We Screen Who We Work With
+
+At Client Ascension, we only work with people who have—or can develop—a functional offer.
+
+> We don’t try to hard sell people who won’t succeed. That’s not our model.
+
+What happens on our sales calls:
+
+* We *diagnose* your current offer.
+* We tell you honestly:
+
+  * ✅ “Yes, this works.”
+  * ❌ “No, this won’t work. Here’s what you need to change.”
+
+If you’re not ready, we’ll give you next steps to fix it before you join.
+
+Because if we don’t think it will work—we don’t want you inside.
+
+Here is a fun comment on this video:
+
+<figure markdown="span">
+  ![Cold Emails](https://raw.githubusercontent.com/kantarcise/stopbeingpoor/refs/heads/main/docs/images/offers/justcoldemails.png)
+  <figcaption>Cold Emails</figcaption>
+</figure>
