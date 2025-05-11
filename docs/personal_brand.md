@@ -1756,3 +1756,391 @@ Our system is called NUIC: New, Unique, Interesting, Controversial. Content that
 **Sam:** I specialize in content. So I found mentors for operations and systems. If you want to scale, that’s essential. You can’t do it alone. I fully recommend Client Ascension — it’s the best support system out there. And if you don’t have the money to join, make more. That’s what I did.
 
 **Daniel:** Appreciate you brother. We’ll put Sam’s links in the description. See you inside Client Ascension.
+
+## Collin Interview
+
+!!! tip
+
+    This is Video #25 on [Daniel's channel](https://www.youtube.com/@danielfazio).
+
+[How Collin Built a $100k/mo Google Ads Marketing Agency (Client Ascension Student Interview)](https://www.youtube.com/watch?v=miOlbBz0adc) - 9 January 2023
+
+**Daniel:** What’s up everybody! I’ve got top G Colin over here—he runs a Google Ads agency. Colin, can you introduce yourself and tell us a bit about your business?
+
+**Colin:** Yeah, so I’m Colin Schmelbeck. I run a Google Ads agency primarily for e-commerce stores. Recently, I’ve repositioned more toward training and consulting in-house brands. That shift is something *Client Ascension* really helped me with over the past 4–5 months.
+
+### 📈 The Business Now: Agency + Consulting Growth
+
+**Daniel:** How’s everything going now—with both the agency and the coaching program?
+
+**Colin:**
+
+* Agency’s steady at around **$50K/month**
+* Launched the consulting offer with *Client Ascension*
+* Hit my **first-ever $60K month** after launching consulting
+* I’d wanted to do it since March 2022, but didn’t take action until August—glad I finally did
+
+### 🤝 The In-House Client Problem & Solution
+
+**Daniel:** I remember you saying the classic agency problem: clients do well, then say, “We’re taking this in-house.”
+
+**Colin:** Always. Now, I solve that by *selling a consulting program* to help train the in-house hire they’re about to bring on.
+
+* Keeps them in the ecosystem
+* If their hire underdelivers, they come back anyway
+* I’ve had **3–4 clients return within a quarter**
+
+### 👥 Hiring & Scaling the Team
+
+**Colin:**
+
+* Hired a full-time Google Ads specialist
+* Slowly hiring for the consulting side
+* Used to use 20 Zaps—now we’re running 20,000 Zapier credits/month
+* Still learning to systemize as I go
+
+### 💡 From Stuck at $30K to $100K+/Month
+
+**Colin:**
+
+* Stuck around \$30K/month through most of 2021
+* Left my Google Ads job at Solutions 8
+* Went all in → *stayed consistent*
+* Now hitting $100K/month
+
+### ⏳ Less Fulfillment, More Strategic Thinking
+
+**Colin:**
+
+* Used to work 12+ hour days
+* Now: 3–4 hours/day max on service delivery
+* Spend the rest of my time:
+
+  * Thinking about growth
+  * Building systems
+  * Enhancing consulting offers
+
+
+### 🚀 How to Go from 0 → 50K → 100K/Month
+
+**Daniel:** If you're a marketing agency or B2B business struggling to get consistent clients, the *Client Ascension* system *does work*.
+
+* We've taken 3 of our own companies to **7 figures**
+* Helped **200+ clients generate $20M+ ARR**
+* You don't need:
+
+  * Expensive ads
+  * Outside lead gen agencies
+
+👉 [clientascension.com](https://clientascension.com) — Video walkthrough & offer details
+
+### 💸 Why Hiring Helps, Not Hurts
+
+**Daniel:** Most agency owners hesitate to hire because they want to “protect margins,” even when it's hurting their growth.
+
+**Colin:**
+
+* Been there
+* Pay my guy **$5K/month**
+* He brings **$15–20K back**
+* Hiring lets me *think* and *build* instead of doing everything
+
+### 👶 Fatherhood & Redefining Productivity
+
+**Colin:**
+
+* As a dad now, I *can’t* work 12 hours anymore
+* By 8PM, I’m done
+* Had to learn to delegate and operate differently
+
+### 🧠 Mastery: Know Who You Serve & Charge More
+
+**Daniel:** At some point, you figure out:
+
+* What *kind* of business you get the best results for
+* Their exact needs
+* And when they show up, you *close them easily*
+
+**Colin:**
+
+* I started identifying the *specific* clients I help best
+* Those are the ones I now target and charge more confidently
+
+### 💬 Consulting = Scalable, High-Leverage
+
+**Colin:**
+
+* 20 booked calls → I really want to work with **1 or 2**
+* The rest:
+
+  * Some can’t afford it
+  * Others just want to be shown how → **Consulting offer**
+
+### The Growth Path: Everyone Follows It
+
+**Daniel:** Every business eventually follows the same path:
+
+1. Raise your prices
+2. Reduce client count
+3. Offer consulting for the ones who don’t fit
+4. Scale with content + systems
+
+### Colin’s Advice to New Joiners
+
+**Colin:**
+
+> "Shorten the time from **thinking → action**. Just do the thing. Execution speed is everything."
+
+### 🧰 Fundamentals Beat Hacks
+
+**Daniel:**
+
+* Don’t focus on gimmicks (e.g. “send 200 cold emails” then complain)
+
+* Fix your:
+
+  * Landing page
+  * Offer
+  * Sales system
+  * Follow-ups
+
+* *Then* turn on traffic
+
+**Colin:**
+
+> "I joined at $40–50K/month and still hadn’t set up a CRM or positioning properly. Once I did, things moved fast."
+
+### 🎯 2023 Goals
+
+**Colin:**
+
+* Goal: **$2M/year**
+* 70–80% from **consulting**
+* Keep “done-for-you” only for brands I love
+* Focus: YouTube, Twitter, and ripping out content
+
+### 🔗 Final Thoughts
+
+**Daniel:**
+
+> "I’m dropping all of Colin’s links in the description. Follow him on Twitter, subscribe to his YouTube. If you want to grow your business or need Google Ads help—**hire this man**."
+
+**Colin:**
+
+> "Thanks again! Appreciate *Client Ascension*. It’s awesome."
+
+## Dillon Interview
+
+!!! tip
+
+    This is Video #26 on [Daniel's channel](https://www.youtube.com/@danielfazio).
+
+[How Dillon Made a $42k/mo Lead Generation Marketing Agency in 5 Months (Client Ascension Case Study)](https://www.youtube.com/watch?v=NJhjg9QLvcI) - 12 January 2023
+
+Sure! Here's the formatted transcript with section headlines and **no timestamps**:
+
+### 1. Introduction
+
+**Daniel (Host):** Yo what's up everybody, I got Dylan Andrews here. Dylan is a very good friend of mine now. Brother, could you just introduce yourself and let everybody know what you do?
+
+**Dylan:** Yeah, so I started an agency five months ago from zero. We help financial professionals—anyone in the financial space—generate leads through email. That’s it. We do it for ourselves and for them.
+
+### 2. The Backstory
+
+**Daniel:** And we’ve been friends on Twitter for a while. Normally in Client Ascension we don’t work with people who are at $0/month, because they often can’t fulfill the service. But you had some prior experience?
+
+**Dylan:** Yeah, I’ve been around since Cold Email Mastery. I used to run emails for people as a side hustle. Sold a company last year, and then I was slowly going broke. This was the quickest way to start making money again.
+
+**Daniel:**  So five months ago, you hit reset. What are you at now—$30K/month?
+
+**Dylan:** Actually around $40K–$50K. We have 15 clients. We scaled up quickly after figuring out fulfillment.
+
+### 3. Hitting the Fulfillment Wall
+
+**Daniel:** Last time we spoke, you were dealing with fulfillment burnout.
+
+**Dylan:** Exactly. We ripped it up fast, then hit the wall. I wanted to burn the whole thing down. Talked to Andre, fixed backend systems, hired a VA, built a Trello board. Now we're at 15 clients, running smoothly.
+
+**Daniel:** $10–20K/month is where founders often die without systems.
+
+**Dylan:** Even with a partner, it’s heavy. But once I got a system in place, it wasn’t that hard. Just had to talk to someone doing it.
+
+### 4. Scaling Requires Systems
+
+**Daniel:** Client Ascension has 200+ clients. Without systems, you’re dead. Our ops involve 200+ Zapier automations and 21 people.
+
+**Dylan:** Yeah, the $20–30K/month range is the danger zone. You either fall back or explode past it depending on your systems.
+
+**Daniel:** Exactly. You build a productized agency or go the growth partner route with high-touch clients and profit shares.
+
+**Dylan:** Most businesses aren’t even making money. You realize that fast once you start doing outreach. Even VC-funded ones are broke or pre-revenue.
+
+### 5. Why Most Clients Fail (It’s Not You)
+
+**Daniel:** SMMA YouTubers blame themselves for client churn, but they’re working with terrible businesses. You can’t get results for broke people.
+
+**Dylan:** Exactly. People assume “business” = money. But local businesses often make nothing. Go meet the owner—it’s not what you expect.
+
+**Daniel:**  Never sell DFY services to anyone making under $20K/month profit. You’ll lose.
+
+### 6. Proper Filtering and Lead Quality
+
+**Dylan:** We filter for companies with 10+ employees or $1M+ in revenue. Lean consultants sometimes crush it too, so we flex depending on niche.
+
+**Daniel:** I told Nick Palazz this exact thing. He wasn’t bad at sales—he was pitching broke people. Switched the list, started closing.
+
+**Dylan:** Yeah, you don’t want to be “the guy who saves the business.” That’s not your job.
+
+### 7. Selling to Buyers Who Have Money
+
+**Daniel:** Exactly. You want clients where $5K/month is insignificant. They think long-term and understand how value compounds.
+
+**Dylan:** And they barely contact you! The ones who pay the most are chill and quiet.
+
+**Daniel:** It’s always the case. High payers = best clients. They stay longer, complain less, and get better results.
+
+### 8. Charge High or Charge Low — Nothing in Between
+
+**Daniel:** There are only two ways to make a lot of money: be the cheapest, or be the most expensive. The middle is death.
+
+**Daniel:** You’re either McDonald’s or a Prime Steakhouse. Middle-class pricing doesn’t work—there’s no market.
+
+**Dylan:** Some people have millions liquid. You’re not selling to your broke cousin.
+
+**Daniel:** Facts. High earners will pay $10K/month for qualified leads. They’re used to spending to grow.
+
+### 9. The Long Game and Cold Email Reality
+
+**Dylan:** Cold email follow-ups are where 70–80% of conversions come from. **Takes months**.
+
+**Daniel:** Yes! Prospects are busy. They are running a business. The real money comes in after 30–60 days.
+
+### 10. Division of Roles
+
+**Daniel:** So where do you lean—marketing, sales, or fulfillment?
+
+**Dylan:** Marketing all day. I live for getting leads. Sales is my partner’s thing. Ops is forced labor, lol.
+
+### 11. Accepting the Suck
+
+**Daniel:** Even coaching, SaaS, or info products have ops. You don’t escape it.
+
+**Dylan:** It’s just part of the game. You either embrace the suck or stay small.
+
+**Daniel:** This is why we get paid. Otherwise, it’d be too easy.
+
+### 12. Work Hours and Focus
+
+**Dylan:** I could survive on 4–5 hours/day, but I spend the rest thinking about growth. I choose to push.
+
+### 13. Final Words
+
+**Daniel:** Respect. Alright, we’re at 43 minutes. Everyone who wants to connect with Dylan—his Twitter, YouTube, and more are in the description. He’s hilarious and sharp. Go follow him.
+
+**Dylan:** Thanks for having me, man.
+
+## Chandler Interview
+
+!!! tip
+
+    This is Video #27 on [Daniel's channel](https://www.youtube.com/@danielfazio).
+
+[How Chandler Hit $3,500,000 With His SMB Inside Client Ascension (B2B Lead Gen + Client Acquisition)](https://www.youtube.com/watch?v=cLtC6IiGUjI) - 25 January 2023
+
+### 1. Introduction
+
+**Daniel:** Yo what's up everybody, I got Chandler here. Chandler is a good friend now and obviously inside Client Ascension. He's here to share his experience and talk business.
+
+**Chandler:** I run a green energy contractor business for commercial real estate. We handle energy efficiency projects like LED lighting, plumbing, EV charging stations, and solar. We're essentially a project management and sales platform—we sub out all labor. That allowed us to do projects in Washington and New York, and everywhere in between.
+
+### 2. From $900K to $3.5M: The Power of Client Ascension
+
+I joined Client Ascension in early 2022. My business did $900K in 2021, and by the end of 2022, we hit just under $3.5M. That growth was largely due to what I learned in Client Ascension—especially the lead gen systems. While many members turn these lessons into agencies, I applied it to my SMB. We’re now a cold email machine.
+
+A lot of people complain about saturation in B2B outreach, but we operate in commercial real estate—a space where business development still means spending $25K on a trade show booth and hoping someone walks by. Instead, I’m scraping emails, sending sequences, and using the sales script and structure from Connor to close deals.
+
+### 3. Bridging Digital and Traditional Business Models
+
+**Daniel:** It’s wild how you merged traditional SMB operations with digital systems. You’re arbitraging labor in a modern way. You’re like the hybrid between old-school contracting and SaaS playbooks.
+
+**Chandler:** Exactly. We sit in a physical office—it’s our startup garage. But our backend is all digital. Many businesses doing $5M or more are still on paper. We bought this business in 2021 and layered on new-age systems. That’s where the magic is—taking outdated businesses and supercharging them.
+
+### 4. Simple Repeatable Business Development System
+
+I posted a breakdown of our lead gen system—it’s very simple.
+
+It’s just a repeatable business process.
+
+And because it’s so trainable, we can hand it off to SDRs or BDRs. That’s what makes it scalable.
+
+Right now, our only bottleneck is fulfillment—supply chain, labor shortages, and price changes. That’s the nature of real-world businesses. But it's worth it.
+
+### 5. High-Ticket Sales Are Easier
+
+**Daniel:** Isn’t it so much easier to scale when what you sell is expensive?
+
+**Chandler:** 100%. We close five- to six-figure contracts with cold email. Some people are trying to make $100K/month selling $300 retainers. I'd rather close one $100K deal.
+
+The simplicity of our system is what shocks other SMB owners.
+
+They ask how we went from $900K to $3.5M. I say, "Cold email." They’re floored.
+
+### 6. Golf, Lifestyle, and Building an Entity
+
+**Daniel:** You and Dylan just made a golf video—you’re in that place now where you’ve built a cash-flowing machine and can enjoy the benefits.
+
+**Chandler:** Yeah, it's not fully automated, but close. Once you hit that $3M/year mark with solid margins, life changes. It’s a turning point.
+
+### 7. Breaking Ops on Purpose
+
+We recently made our first sales hire. It gave me back 20 hours/week. This was a turnaround deal—I bought like seven jobs in one.
+
+But now I know exactly who to hire.
+
+My business philosophy is: **grow demand until operations break, then fix ops, then break them again.**
+
+That’s how we scale. Oscillating between breaking and fixing is how we keep leveling up.
+
+### 8. To Sell or Not to Sell?
+
+**Daniel:** Would you ever sell your business?
+
+**Chandler:** Maybe. But selling now gets me what—$6–7M? Then I’d need to redeploy that capital anyway.
+
+Plus, at 27, $6M doesn’t mean I can retire. I’d probably just use it to buy a bigger business and run the same playbook.
+
+SMBs trade at 3–5x SDE, so often you’re looking at a ~1x revenue multiple. If I sell, it’s to roll into a bigger play.
+
+### 9. Rollups, Refinancing, and Playing the Long Game
+
+There’s also the roll-up game—buying similar businesses and combining them. 
+
+That’s how some people exit for $100M+.
+
+A guy I know in Tampa started a cleaning business and rolled up others—exited for $250M and is doing it again.
+
+If you don’t sell, refinance.
+
+That’s the real estate playbook: refinance instead of selling, get cash out, and keep the asset.
+
+Same idea here—refi the business, pull tax-free capital.
+
+### 10. Compounding Knowledge and the Power of Cold Email
+
+**Daniel:** The longer you hold the asset, the more your competencies compound. What’s 3.5M today could be $50M in five years.
+
+Cold email is even compounding—you send follow-ups, and someone replies months later.
+
+Everything stacks over time.
+
+**Chandler:** Totally. The whole game is compounding: skills, relationships, systems. You sell only if you believe the party’s over.
+
+### 11. Final Words
+
+**Daniel:** Dude, thank you for coming on. $900K to $3.5M is insane. Just make sure you do $6M–$7M next year.
+
+**Chandler:** That’s what we’re forecasting.
+
+**Daniel:** I’ll drop Chandler’s links below. Go follow him. And if you’re not in Client Ascension yet... what are you doing? It works.
+
+This was one of the best videos.

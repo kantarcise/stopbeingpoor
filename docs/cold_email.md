@@ -109,3 +109,164 @@ The people who will answer cold calls and cold emails are different, so you need
 * Cold calling still underused despite massive effectiveness
 * Coaching and strategy can close the gap
 * Real success comes from full-stack outbound: email, calling, social outreach, plus optimized cold-ready offers
+
+## How To Get Sales from Cold
+
+!!! tip
+
+    This is Video #29 on [Daniel's channel](https://www.youtube.com/@danielfazio).
+
+[How To ACTUALLY Turn Cold DM’s & Cold Emails Into Sales (stop getting ghosted)](https://www.youtube.com/watch?v=a76Y8q5EBqY) - 1 February 2023
+
+Here’s your fully formatted version of the transcript with proper structure, `###` level headings, and **no timestamps**, in the same style as previous responses. Host is **Daniel**:
+
+### Why Your Cold DMs and Cold Emails Aren’t Working
+
+I want to make a quick rant on everybody sending cold DMs and cold emails.
+
+You might think you have a good offer — yet you’re wondering: **Why isn’t anyone responding? Why are my DMs and emails being ignored?**
+
+Let’s break this down and get to the real reason.
+
+### “People With Lots of Followers Don’t Check Their DMs” — Wrong
+
+People say that large accounts don’t check their DMs. That’s **not true**.
+
+I have over 111,000 followers on Twitter, and I look at **every single DM**.
+
+If I get a cold pitch, I — and everyone else — do the same thing:
+
+We **click on your profile** before responding.
+
+I repeat.
+
+> We **click on your profile** before responding.
+
+### What’s On Your Profile Determines Everything
+
+Let’s assume your cold DM says something like:
+
+> “Hey \[Name], \[compliment]. Would you be interested in \[X]?”
+
+The recipient immediately clicks on your **profile** before replying.
+
+Now ask yourself:
+
+* **Does your bio say what you do?**
+* **Is there clear social proof?**
+* **Is your offer described?**
+* **Is there a link to a landing page or website?**
+
+That’s what people look at.
+
+Your **bio** sells the **click** to your landing page.
+
+And your **landing page** — that's what does all the selling.
+
+### What Should Be On Your Landing Page
+
+Once someone clicks through, you must clearly present:
+
+* A **video sales letter (VSL)**
+* A **clear value proposition**
+* **Proof** or a **guarantee**
+* **Pain points** that you’re solving
+* **A real problem** that actually exists
+* A reason to **book or buy** right now
+
+!!! tip
+
+    This is basically an offer video now.
+
+    Once someone clicks through, you must clearly present:
+
+    - A **video sales letter (VSL)**
+    
+    - A **clear value proposition**
+    
+    - **Proof** or a **guarantee**
+    
+    - **Pain points** that you’re solving
+    
+    - **A real problem** that actually exists
+    
+    - A reason to **book or buy** right now
+
+Most of you think the **copy** in your cold message is what matters most.
+
+But it’s not. It’s **what’s behind the click** that makes or breaks it.
+
+If your landing page is well-structured and hits real pain points, people won’t even reply — they’ll **just book**. 
+
+Sometimes they’ll even **buy without saying a word**.
+
+### Don’t “Build Rapport” — Make the Offer Obvious
+
+People don’t want to chit-chat in the DMs.
+
+They don’t want your 3-message rapport-building sequence.
+
+They just want to know:
+
+* **Can you solve my problem?**
+* **Do you know what you’re doing?**
+* **Is this better than what I’ve tried before?**
+
+Your **profile** and **sales page** should answer all of those instantly.
+
+That’s what does the selling.
+
+Your **cold DM is just the traffic source** — not the conversion engine.
+
+### The Same Applies to Cold Emails
+
+Even if you **don’t include a link** in your cold email (to preserve deliverability), people will still:
+
+* See your `name@company.com`
+* Google or visit `company.com`
+
+If that domain leads to **nothing** (404 error, parked page), you’ve already lost them.
+
+But if it leads to:
+
+* A real website
+* A good VSL
+* A strong value proposition
+* Social proof
+* Evidence it works
+* A guarantee
+
+Then your cold email script doesn’t need to be perfect — because the **offer sells itself**.
+ 
+### Split Testing Scripts Won’t Save a Bad Offer
+
+You can run **50 split tests** on a cold DM script. You can test **subject lines** all day.
+
+None of that matters if:
+
+* Your **offer sucks**
+* Your **sales page sucks**
+* You **don’t know the pain points**
+* You **don’t present the value clearly**
+
+Here’s the truth:
+
+> The **same exact cold script** will perform **10x better** for the person who has a decent landing page and a proper setup than for someone who doesn’t.
+
+### If You Want Help Building a System That Works
+
+If you're a **marketing agency** or a **B2B company**, and you want help:
+
+* Building a **real client acquisition system**
+* Designing a **strong offer**
+* Setting up a **page that actually sells**
+
+We will **build one for you**. We **guarantee** that you add **a minimum of \$10K/month** in new revenue — or you don’t pay.
+
+Visit: [clientascension.com](https://clientascension.com) — link in the description.
+
+Like the video. Leave a comment. Subscribe.
+
+I love you.
+
+Goodbye.

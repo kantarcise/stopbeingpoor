@@ -45,6 +45,16 @@ Here is something similar [from this website](https://predictableprofits.com/asc
 
 Smart.
 
+### AOV
+
+The [banger video](https://youtu.be/NJhjg9QLvcI?t=1175).
+
+The Google ads agency works with specific type of ecommerce brands.
+
+> Their AOV (Average Order Value) has to be $200 or more.
+
+Otherwise the service seems like doesn't work.
+
 ### Association
 
 You need one word associations.
@@ -113,6 +123,24 @@ Daniel [explains this](https://youtu.be/pHpLrRgBGP0?t=921) beautifully:
 
 > I need it to be clean. I need the highest possible percentage of people to see extreme success as possible.
 
+### Client Expectation
+
+[Why should we sell to rich people?](https://youtu.be/NJhjg9QLvcI?t=2169)
+
+If someone is paying you 1000$, they wanna make minimum 10-15k in 10 days.
+
+That's how they are operating.
+
+They need you to save their business. They **need** you to make a 10x 15x.
+
+Someone makes a 1M-5M$/year, he pays you 10k he is really cool with getting 20.
+
+He is shocked if you make him 5x.
+
+Because the previous guys he hired did not do what they said they are going to do.
+
+He 
+
 ### Cold Calls
 
 From [this banger](https://www.youtube.com/watch?v=RR5rxXycrV8).
@@ -165,6 +193,14 @@ It is a critical part of your marketing system because it involved reaching out 
 
 Bigger term including Cold Emails.
 
+### Compounding
+
+The [banger video](https://youtu.be/cLtC6IiGUjI?t=1069).
+
+Compounding effects apply to every aspect of everything in life.
+
+You competencies is going to compound.
+
 ### Consultative Sales
 
 Banger [video](https://youtu.be/FepWs1qV3xg?t=381).
@@ -196,6 +232,16 @@ Stay top-of-mind through consistent content and engagement.
 When their "***conversion window***" opens, you'll be the first person they think of.
 
 Building a successful business takes time and effort. But by focusing on these four pillars – claims, proof, competency, and consistency – you'll set yourself up for long-term success.
+
+Another [banger here](https://youtu.be/-kwCI7-g2Nk?t=248)
+
+**Conversion Window** = the time between someone discovering your offer and finally purchasing.
+
+You need to **shorten this window** — and how do you do that?
+
+You increase **frequency**.
+
+You need to market so **hard** and **so consistently** that you become the default option in your category.
 
 ### Convince Themselves
 
@@ -301,6 +347,56 @@ Here are more examples in raw format:
 
 You want to find out what your offer sits in this scale. For Demand Capture offers, you'll need more volume.
 
+### DFY Client Selection
+
+Daniel talks [about this](https://youtu.be/NJhjg9QLvcI?t=1126):
+
+> Pricing is a filtering mechanism.
+
+> SMMA YouTubers blame themselves for client churn, but they’re working with terrible businesses. You can’t get results for broke people.
+
+> Exactly. People assume “business” = money. But local businesses often make nothing. Go meet the owner—it’s not what you expect.
+
+### EBIDTA
+
+EBITDA stands for Earnings Before Interest, Taxes, Depreciation, and Amortization.
+
+It’s a way to measure a company's profitability by focusing on the core operations, ignoring costs that might vary between companies (like debt interest or how they depreciate assets).
+
+Here is an example:
+
+!!! example
+
+    Imagine a small business that runs a coffee shop:
+
+    **Revenue**: $500,000
+
+    **Operating Costs** (salaries, rent, coffee beans, etc.): $300,000
+
+    **Depreciation of equipment**: $20,000
+
+    **Interest on loan**: $10,000
+
+    **Taxes**: $30,000
+
+    To calculate EBITDA:
+
+    Start with Net Income (say it’s $140,000)
+
+    Add back:
+
+    Interest: $10,000
+
+    Taxes: $30,000
+
+    Depreciation: $20,000
+
+    (No amortization here)
+
+    EBITDA = 140,000 + 10,000 + 30,000 + 20,000 = $200,000
+
+    So the EBITDA is $200,000, showing how much the business earns from core operations, before loans and tax strategies come into play.
+
 ### Engaged Lead
 
 [Alex video](https://www.youtube.com/watch?v=gy76mzEt_SI).
@@ -332,6 +428,14 @@ After you've sent some free work, if you do not get a response, follow up.
 Follow up again and again.
 
 Keep following up until you get a yes or no.
+
+### Frequency
+
+This [banger](https://youtu.be/-kwCI7-g2Nk?t=50).
+
+Frequency is, it’s how many separate times somebody sees your offer in a given time frame.
+
+So if someone sees your offer seven times per week, your weekly frequency is seven.
 
 ### Funnel
 
@@ -411,6 +515,20 @@ You can invest goodwill as well.
 
 Goodwill at scale.
 
+### Growth
+
+How do you grow a business?
+
+Chandler [explains](https://youtu.be/cLtC6IiGUjI?t=687):
+
+> Grow demand to the point where it starts to break operations and than repair operations to be able to sustain that demand.
+
+This is a cycle.
+
+We just keep repeating.
+
+If you do not break anything you are never going to grow.
+
 ### High-Ticket Sales
 
 A high-ticket offer provides high value for your customers—at a high price.
@@ -425,6 +543,16 @@ Problems:
 
 - Not hiring anyone.
 - Hiring the wrong people.
+
+### Internal VSL
+
+[Banger video](https://youtu.be/NJhjg9QLvcI?t=440).
+
+Business is a different game at every level.
+
+When you want to do a change in the company, you need to communicate it.
+
+When company gets big, you kinda have to do a internal VSL just to have all of the people understand what's going to happen.
 
 ### Instant Gratification
 
@@ -455,6 +583,18 @@ A lead is a person you can contact.
 Lifetime Value of a Customer.
 
 The total amount of money the average customer will spend over their lifetime with you.
+
+### Making Money
+
+Daniel from [this banger](https://youtu.be/NJhjg9QLvcI?t=1783):
+
+> There are only two ways to make a lot of money: be the cheapest, or be the most expensive. The middle is death.
+
+Just look at the socio-economics distribution of the population.
+
+Middle class is very small. You cannot charge middle class.
+
+A lot of people don't have any money. A really small amount of people have all the money.
 
 ### Market Cycle
 
@@ -509,6 +649,24 @@ I think Daniel likes running this.
 It is to make sure the client actually follows the program.
 
 Make something non refundable if they do not complete everything on a list. Here is [the video](https://youtu.be/_ubUWUIHN0I?t=428).
+
+### Not Stressed
+
+Here is [the video](https://youtu.be/NJhjg9QLvcI?t=217).
+
+Client ascension works. That means you will get clients.
+
+Now you have to actually fulfill them.
+
+> What do we do with all the people that signed up?
+
+Dillion was stressed about working so much and wanted to go back working a job.
+
+Trello board was built with Andre, got a VA.
+
+Andre [wasn't stressed out](https://youtu.be/NJhjg9QLvcI?t=315).
+
+He knew what needed to be done.
 
 ### Objections
 
@@ -715,6 +873,16 @@ Here is how Nick elaborates:
 A sales development representative (SDR) is a sales professional who manages all top-of-the-funnel activities in the sales cycle. 
 
 Top-of-the-funnel activities include everything that happens before a prospect is ready to make a purchase — from gathering prospect data and educating prospects to qualifying leads and booking meetings.
+
+### Selling a Business
+
+This [banger](https://youtu.be/cLtC6IiGUjI?t=894).
+
+Even if you sold, say you get something like 6 Million, that isn't enough money LOL.
+
+It's going to be a little more than 6 million for to get there.
+
+It's not enough money lol.
 
 ### SOP
 

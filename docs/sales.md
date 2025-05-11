@@ -394,3 +394,213 @@ It’s not the correct claim for the person who is otherwise interested.
 So you **might think** you know what you're doing—but you **really don't**—and you have to speak to people and find out the **precise language**, exactly what they’re saying.
 
 I think that’s super, super important.
+
+## 2 Obstacles for Clients
+
+!!! tip
+
+    This is Video #28 on [Daniel's channel](https://www.youtube.com/@danielfazio).
+
+[2 Reasons You're Still Struggling To Sign Clients For Your Online Business](https://www.youtube.com/watch?v=-kwCI7-g2Nk) - 30 Jan 2023
+
+### The Two Real Reasons You’re Struggling to Find Clients
+
+All right, here’s the two real reasons you're struggling to find clients for your business right now.
+
+You're sending cold emails, cold DMs, you're making posts — nobody’s converting.
+
+You have no idea why. It’s got to be something simple.
+
+It is, and I’m going to explain what it is.
+
+I was watching an interview with Grant Cardone the other day — you can say what you want about the guy, he’s a billionaire, makes over $250M a year — and he said one statement that fully encapsulated how I’ve been marketing for four years:
+
+> “Your creative ad will not beat my frequency.”
+
+### Understanding Frequency and Its Impact on Sales
+
+If you don’t know what frequency is, it’s how many separate times somebody sees your offer in a given time frame.
+
+So if someone sees your offer seven times per week, your weekly frequency is seven.
+
+And most of you have no frequency. You’re never in front of people consistently.
+
+So there are **two major problems**:
+
+1. You're not marketing at the **volume** that's actually necessary.
+2. You're not **following up** enough.
+
+This sounds obvious, but listen.
+
+### You're Not Marketing at the Volume That’s Actually Necessary
+
+Let’s say you’re selling a product or service to other businesses, likely in the $1,000–$5,000/month range — maybe a hybrid done-with-you/for-you $10K package.
+
+Let me show you how this plays out with a simple money calculator:
+
+* If 10 new people see your thing per day
+* And only 1% are interested
+* And you close 20% of calls
+
+That means to close **10 deals**, you need **50 calls**, which means **5,000 people interested**.
+
+At 10 per day, it’ll take **500 days** to close 10 deals — **a year and a half**.
+
+That’s not enough.
+
+But if you increase the volume — 20, 30, 50, 100, even 1,000 people seeing your offer per day — now we’re talking.
+
+But this is **not** about just optimizing a landing page or tweaking conversion rates.
+
+### This is NOT a Conversion Rate Problem
+
+Most of you are selling something that nobody wants to buy.
+
+The **only thing** that will make your business fundamentally work is having:
+
+* A **specific problem** you're solving
+* A **unique mechanism**
+* A **guarantee**
+* And **evidence**
+
+You build these up over time.
+
+So yes, getting more traffic is key — but **most of you aren’t doing what’s needed** to get your offer in front of enough people.
+
+### Introducing the Concept of a Conversion Window
+
+**Conversion Window** = the time between someone discovering your offer and finally purchasing.
+
+You need to **shorten this window** — and how do you do that?
+
+You increase **frequency**.
+
+You need to market so **hard** and **so consistently** that you become the default option in your category.
+
+> If someone buys the thing you sell, and they don’t buy it from you, you did the work — but someone else got the sale.
+
+You have to **exist for eternity** in front of your target audience.
+
+So what do you do?
+
+Get **more people inside your conversion windows**.
+
+### You Quit Before the Windows Elapse
+
+The reason your first, second, third, or fourth business failed?
+
+You didn’t operate long enough for conversion windows to elapse.
+
+Most people take **2–5 months** to buy.
+
+If you only run outreach for 2–4 weeks and quit — you’re not even giving it time.
+
+### Break Down the Funnel
+
+More people who know you exist:
+
+→ More who see your offer
+
+→ More who hit your landing page
+
+→ More give their email
+
+→ More get on calls
+
+→ More purchase
+
+> Simply, more people need to know you exist.
+
+So you need to **continuously** bring people in and **exist in front of them**.
+
+Most of you are forgetting leads the moment they don’t convert instantly.
+
+> 50-80 % will not be a one call close.
+
+### You're Not Following Up Enough
+
+Let’s talk about all the scenarios where people ghost:
+
+* Call booked → invoice sent → they ghost
+* Cold DM → link sent → they ghost
+* Cold email reply → info sent → they ghost
+* Comment on post → you follow up → they ghost
+* Scheduled call → canceled → they ghost
+
+Why does this happen?
+
+Because **life happens**.
+
+They're busy. Sick kid. Family issues.
+
+Business priorities. They’re not ready yet.
+
+But if you don’t stay in front of them — they will convert with **someone else**.
+
+> Permanently exist.
+
+### Warm Leads = Easy Closes
+
+If someone **responded to you**, they’re **no longer cold**.
+
+They’re warm. And warm leads are **10x easier** to close.
+
+But you don’t follow up.
+
+Meanwhile, some **corporate AE** is following up harder than you and he doesn’t even own the company. You do.
+
+You’re letting someone else [outwork you on your own equity](https://youtu.be/-kwCI7-g2Nk?t=596).
+
+Wake up.
+
+### How to Fix It
+
+* **Use a CRM**
+
+> 99% of you don't even have a CRM. You don't even use the Reminders app on your phone.
+
+* **Set follow-up reminders**
+
+> If they just ghost you, send them a message tomorrow.
+
+> No response, Message again in 7 days.
+
+> No response, Message again in 7 days.
+
+> No response, Message again in 7 days.
+
+> No response, Message again in 7 days.
+
+* **Follow up every 7 days**
+
+> It takes 30 seconds to send a followup.
+
+? If you have 100s of people, it takes 30 to 60 mins every week.
+
+You can say:
+
+* “Hey \[Name], saw you just launched X — made me think of our convo…”
+
+* “Here’s something I’ve been working on with a client you might find interesting.”
+
+Keep them warm.
+
+### Tastefully Follow Up — Forever
+
+Keep the **lead gen** on — always:
+
+* Keep sending cold emails
+* Keep posting content
+* Keep running ads
+* Keep the DM engine alive
+* Keep following up
+
+Nothing happens in week 1–4. It takes time. Let windows elapse.
+
+If you're a **marketing agency owner** or **B2B business**, we'll help you build a client acquisition system and **guarantee you add a minimum of $10K/month** in new revenue — or you don't pay.
+
+Like the video, subscribe, leave a comment.
+
+I love you.
+
+See you later.
