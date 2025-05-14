@@ -26,6 +26,14 @@ Doing two things.
 
 > Acquire more customers, make more money on existing customers.
 
+### Agency
+
+[I still don't know.](https://youtu.be/Joz4BiCstzw?t=895)
+
+Daniel simply says:
+
+> It's a service company.
+
 ### Ascension Model
 
 Daniel talks about [the model here](https://youtu.be/_ubUWUIHN0I?t=114).
@@ -84,6 +92,16 @@ If you are smart, this could be an opt in, you get your email list going.
 Facilitating a transaction between 2 people.
 
 For example there are Real Estate Brokers and Real Estate Agents which work for brokers.
+
+### Building a Business
+
+[Here is a simple truth. You cannot white label stuff.](https://youtu.be/Joz4BiCstzw?t=1161)
+
+There is no magic 4$/hour VA from some country to help you with fulfillment.
+
+You actually need to know how to fulfill.
+
+Then when you hire someone, you are the one teaching.
 
 ### Case Study
 
@@ -642,6 +660,12 @@ Progressive overload.
 
 It’s inevitable — results come if you keep lifting.
 
+### New Customers vs Retaining Customers
+
+The [website](https://hbr.org/2014/10/the-value-of-keeping-the-right-customers).
+
+Depending on which study you believe, and what industry you’re in, acquiring a new customer is anywhere from five to 25 times more expensive than retaining an existing one.
+
 ### Non Refundable
 
 I think Daniel likes running this.
@@ -711,6 +735,10 @@ Something people want to purchase.
 Argument in convincing reason to which why somebody should work with you specifically.
 
 There are ways to do this. You do not have to be the expert and simply say, "I did this, if you want I can teach you".
+
+Offer crafting, just change the wording LOL.
+
+[Tapioca in Portuguese - Cassava Pearls](https://youtu.be/Joz4BiCstzw?t=969)
 
 ### Operations
 
@@ -797,6 +825,14 @@ If someone is going to reply to your cold email, they will %100 Google you.
 They might not need my cold calling service.
 
 But they definitely know someone who does.
+
+### Retention
+
+Everyone wants more clients — but the real leverage is in **retention**.
+
+If someone pays you $7K/month and stays for a year… that’s $84K.
+
+Daily narrates of what we did as part of fulfillment.
 
 ### Risk Reduction Offer
 

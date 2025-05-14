@@ -2144,3 +2144,271 @@ Everything stacks over time.
 **Daniel:** I’ll drop Chandler’s links below. Go follow him. And if you’re not in Client Ascension yet... what are you doing? It works.
 
 This was one of the best videos.
+
+## Connor Interview
+
+!!! tip
+
+    This is Video #30 on [Daniel's channel](https://www.youtube.com/@danielfazio).
+
+[Building a $20k/mo HubSpot Consulting Agency in 180 Days (Marketing Agency, Client Ascension)](https://www.youtube.com/watch?v=WnU-NqR2DT4) - 21 February 2023
+
+Here’s your clean, structured version of the transcript — properly formatted using `###` headings, **no timestamps**, and with **Daniel as the host**:
+
+### From Zero to \$20K/Month in Six Months – Meet Connor
+
+**Daniel:** What's up everybody — I’ve got Connor here. Connor, how you doing?
+
+**Connor:** I'm excellent, how are you?
+
+**Daniel:** Good! So, you're inside Client Ascension. Could you walk everyone through where you started before joining, and where you are now?
+
+**Connor:** Yeah, absolutely. I effectively started at zero. I had been doing some consulting, but I reset everything and decided to consolidate into one offer: HubSpot marketing and sales operations. I got my first client at $7K/month about four weeks in, and they’re still with me — lifetime value on that one client is close to $70K now. Since then, I’ve signed a few more clients, and I’m now at $20K/month in revenue.
+
+### What Connor’s Agency Actually Does
+
+**Daniel:** You do HubSpot stuff, right? Can you break down what your service looks like?
+
+**Connor:** Sure. It’s HubSpot marketing and sales ops — think of it like managing the supply chain of the marketing, sales, and customer success teams. That includes things like reporting, automations, segmentation, CRM cleanup — all the back-end infrastructure that helps those teams function well.
+
+We don’t do lead-facing work like content or outbound outreach — we build the systems, templates, and automations that help teams execute more effectively.
+
+### From \$0 to Multi-Six-Figures in Half a Year
+
+**Daniel:** So you signed a $7K client, and now you’re doing $20K/month. That’s all from working with high-quality clients. Over six months, you’ve probably done somewhere around a quarter of a million dollars?
+
+**Connor:** Roughly, yeah. I hit $96K in five months, and if you add deals that have closed this year, I’d say I’m at about $160K–$170K total. So yeah, reset from zero and turned it into a multi-six-figure business pretty fast.
+
+### Learning Curve and What's Next
+
+**Daniel:** Obviously you had a learning curve. You probably had to unlearn some things and then implement what we teach. What do you think the next six months look like?
+
+**Connor:** My goal for this year is $350K in revenue — so I’m about a quarter of the way there. The aim is a 50–100% increase from last year’s revenue. Based on the pipeline right now, that’s very doable.
+
+### How Connor Is Getting Clients
+
+**Daniel:** Can you give a broad overview of how you’re acquiring customers?
+
+**Connor:** It’s a mix:
+
+* **Cold email** — learned copywriting, deliverability, and audience building inside Client Ascension.
+
+* **Client Ascension referrals** — people now call me “the HubSpot guy.” Probably netted $15K+ from just internal referrals.
+
+* **Twitter** — made a new account when I started and grew to ~1,500 followers. Got a deal or two from there.
+
+Now I’m doing content marketing — posting shorts, repurposing threads, etc. It’s working. There’s a very tangible relationship between execution and audience growth.
+
+### Creating Systems That Scale
+
+**Daniel:** The whole idea here is building **systems** around client acquisition.
+
+A lot of people at <$10K/month are just doing what they feel like doing. We turn it into:
+
+> Check this box → Check this box → Do that every day for months → Scale.
+
+**Connor:** Yeah, and that was me before. I had done consulting via LinkedIn — it was all inbound, sporadic, and correlated with how often I posted. No outbound, no system, no scale.
+
+Once I adopted an actual client acquisition system, everything changed.
+
+It’s predictable now.
+
+### Skipping the Trial-and-Error Phase
+
+**Daniel:** Most people quit too early. They try a channel, it doesn’t work immediately, and they move on. In Client Ascension, we tell you what to do — no testing period. Just execute what’s proven.
+
+**Connor:** That’s 100% true. On your own, there’s a **mental barrier** to execution.
+
+You may know what you should be doing — content, outbound, etc. — but you don’t act on it because you doubt whether it’ll work.
+
+In CA, you get proven systems **and** accountability — which is massive.
+
+### Sales Process and CRM — Where People Lose Money
+
+**Daniel:** So many people lose money simply because they don’t operate a proper **sales process**.
+
+No CRM, no pipeline management. You’re a HubSpot consultant — you see this daily.
+
+**Connor:** Yup. Without a system, you treat every lead as if it’s brand new. You’re reinventing your process every single time. That’s not scalable.
+
+**Daniel:** I’m guessing by now you’re seeing how boring client acquisition becomes. It’s just… repetitive. But it works.
+
+**Connor:** Yeah, getting clients is boring now. But that’s the point. I still get excited when a new lead comes in, but the process itself? Just consistent execution.
+
+Every time. Same discovery questions, same disqualification process. It works.
+
+### Building a Fulfillment Engine
+
+**Daniel:** Are you hiring right now?
+
+**Connor:** Yes. I worked with Kyle from HigherUA for one hire, but now I’m shifting. I’m partnering with a company that specializes in white-label fulfillment for HubSpot agencies.
+
+They’ll handle the back-end. My job is just to **keep their calendar full**.
+
+Then I’ll hire account managers to own client communication and success.
+
+**Daniel:** That’s exactly it. You’ll eventually want someone giving you **daily summaries** of what’s happening inside every client Slack or Teams thread.
+
+### Retention > Acquisition
+
+**Daniel:** Everyone wants more clients — but the real leverage is in **retention**. If someone pays you $7K/month and stays for a year… that’s $84K.
+
+**Connor:** Yep. Retaining good clients is the game. It’s 25x cheaper to **keep** a client than to acquire a new one. Just provide a good service, communicate well, and you’ll be fine.
+
+### Final Thoughts
+
+**Daniel:** Thank you so much for coming on. I’ll leave all of Connor’s links in the description. If you want help with HubSpot or want to follow his journey, go check him out.
+
+**Connor:** Appreciate it, man.
+
+## Ori Interview
+
+!!! tip
+
+    This is Video #31 on [Daniel's channel](https://www.youtube.com/@danielfazio).
+
+[Building a $20k/mo Lead Gen Agency inside Client Ascension (Cold Email for Clients)](https://www.youtube.com/watch?v=Joz4BiCstzw) - 13 March 2023
+
+### Ori's Journey – From Rock Bottom to Results
+
+**Daniel:** Yo, what's up everybody! I’ve got Ori here — Ori’s awesome and has a really good story. I want to start this with the big picture. Ori, where were you before Client Ascension, and where are you now?
+
+**Ori:** Before Client Ascension, I was closing, but I quit because I got disillusioned with the biz-op offer I was selling.
+
+It wasn’t getting results — not for me, not for clients.
+
+I even gaslit my wife into trying it. She wasn’t getting results either. I finally admitted: this doesn’t work. So I quit.
+
+When I joined Client Ascension, I was at $0/month.
+
+Now? We’re doing anywhere between $15K and $25K per month, but I don’t think in months.
+
+I think in terms of “how many books this week?” I’m just focused on momentum.
+
+### Quitting the Old Life & Facing Reality
+
+**Ori:** I’m 39. People don’t realize how hard it is to make big changes in your 30s.
+
+You get locked into patterns.
+
+Even if you’re miserable, you keep the act going for others — family, friends, high school reunions.
+
+I used to run a hospitality business doing $400–500K/year… at 8% margin. It was miserable.
+
+No one questions it though. You’re just "in it."
+
+In reality, you are just a christmas decoration for your "friends".
+
+Banger.
+
+> In reality, you are just a christmas decoration for your "friends".
+
+But after COVID hit, I realized none of it was real. I ended up working in an Amazon warehouse to survive.
+
+> Amazon Warehouse is infinite suffering.
+
+Imagine that: walking through sketchy neighborhoods, working overtime in a concrete building full of pain, just so I could keep buying Bitcoin because I thought it was going to go up.
+
+### The Turning Point
+
+Two major events shifted everything: my brother went from $20K/year to $200K/year in 9 months by finding a community and leveraging his unique brain.
+
+At the same time, my wife’s family faced health issues.
+
+That’s when I decided: I’m going all in. I started buying Bitcoin, tried Forex (big mistake), and just kept going.
+
+Eventually, someone from a Discord community asked me, "Can you sell?" That led me into high-ticket closing. It was brutal.
+
+Most closers make $4K/month working 12-hour days. I was lucky — I was making $15K–$20K/month.
+
+But even then, I knew the offers I sold didn’t work. And if you’re selling something that doesn’t get results, it messes with your head.
+
+### Discovering My Mutant Power
+
+I posted a list of hard questions for sales offers — institutional-level questions.
+
+It pissed people off. But one guy — Cody — saw my potential.
+
+Turns out, I have this mutant power: I can instinctively give exact sales answers based on personality, customer behavior, and context.
+
+I was helping closers make more money than I was.
+
+Eventually, I got placed on a top offer and closed $8K my first day.
+
+### The Agency Disaster & The Realization
+
+The agency I joined was teaching people to white-label everything — lead gen, fulfillment — using $4/hr VAs from Pakistan.
+
+No results, massive churn, and it felt gross.
+
+I learned that:
+
+- There's no magical $4/hr VA who can get your clients results.
+
+- You need to personally know how to get results before scaling.
+
+- Most people enter from scams — but that’s just how it is. You take the good and leave the bad.
+
+You (Daniel) were the first one who made the hard work mathematical and predictable.
+
+You broke it down:
+
+> Email 1,000 people → 500 open → 10% respond → 20% positive → 8 meetings → 5 show → 1 close.
+
+That clicked for me.
+
+### Offers, Reality, and Cold Email Truth
+
+I learned offer crafting from trying to sell bubble tea. We couldn’t call it tapioca — people thought it looked gross.
+
+So we called it "pomegranate cassava pearls." That’s all offers are.
+
+Packaging and language. Once you see that, you can’t unsee it.
+
+Cold email tells you your true market value.
+
+It strips away the fluff. If you don’t get responses, the market is telling you the truth. You’re not sexy. Period.
+
+### Sustainable Business > Illusions
+
+Now I run a real business. Clients get results. There’s sustainability. The market tells me we’re solving real problems.
+
+You can’t fake it. If you can’t convert cold traffic predictably, your business sucks.
+
+Doesn’t matter what your uncle or dad says. Cold email cuts through everything.
+
+Banger.
+
+> Cold email cuts through everything.
+
+### Systems, Fulfillment, and the Real Game
+
+It’s not just about sending more emails. You need:
+
+-  Offer-market fit
+
+-  Systems for fulfillment, lead gen, and sales
+
+-  Retention over acquisition
+
+Help winners win more. That’s the game. Stop trying to save everyone.
+
+### Final Thoughts & Message to 30-Somethings
+
+You can leave. You can walk away.
+
+Your job, your image, your obligations — they’re not real chains.
+
+You only think they are. People don’t actually care.
+
+Your customers don’t care. Your coworkers don’t care.
+
+If you’ve been stuck in a corporate job for 10 years and feel like you’re wasting your life — you can just leave.
+
+Right now.
+
+It’s not that serious.
+
+Money won’t solve everything, but it will give you clarity. The point is to go for it.
+
+**Daniel:** Thank you for coming on, Ori. That was incredible.
