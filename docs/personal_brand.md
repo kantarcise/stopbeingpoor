@@ -687,8 +687,8 @@ The client records a raw video, sends it to the editor. The editor edits, posts 
 ### Daniel Explains Stuff:
 
 * Client does raw video → Editor scripts, edits, posts, and makes shorts
-* **\$10K/month plan**: Client appears in videos
-* **\$20K/month plan**: Client doesn’t appear—studio handles talent
+* **$10K/month plan**: Client appears in videos
+* **$20K/month plan**: Client doesn’t appear—studio handles talent
 
   * Full white-glove package
   * "Face of brand" service
@@ -772,7 +772,7 @@ Another successful, chaotic, productive day at Client Ascension.
 
 * Collaboration with Connor:
 
-  * Rapid-fire Q\&A sessions for content.
+  * Rapid-fire Q&A sessions for content.
   * Send each other list of questions and hop on a call to answer.
   * Not podcast-style, just high-output content clips.
 
@@ -2412,3 +2412,553 @@ It’s not that serious.
 Money won’t solve everything, but it will give you clarity. The point is to go for it.
 
 **Daniel:** Thank you for coming on, Ori. That was incredible.
+
+## Long Form Recap - Online Business
+
+!!! tip
+
+    This is Video #33 on [Daniel's channel](https://www.youtube.com/@danielfazio).
+
+[Getting Clients, Guarantees, Scaling, Offers, Systems, Lead Generation, Marketing Agencies, Selling](https://www.youtube.com/watch?v=G5bpHxz5QIQ) - 30 March 2023
+
+All of a sudden, we’re live in Daniel’s penthouse. For context, it’s not actually mine—but it’s where we’re running the cookouts now.
+
+It started with just the Tampa crew, but now we’ve got Miami folks, and we’re joking about flooding the whole building with Client Ascension members.
+
+The last event cost a ridiculous $48K. The Marriott charged us $3K for bottled water, added charges for forgotten stools—just painful.
+
+Which got me thinking: why not buy a $2M house in St. Pete and host events there instead?
+
+Financially, it would save close to $250K per year.
+
+### Vision for Future Events
+
+I started looking at how $3M/month businesses structure offers.
+
+Cole Gordon, for instance, has three verticals: he trains closers, places them in companies, and runs a mastermind with four annual events for $68K/year.
+
+For Client Ascension, the same model fits.
+
+We could train commission-only cold emailers, add placement as an upgrade, and eventually, run a high-tier mastermind.
+
+Four annual meetups. One hosted at my $3M mansion.
+
+But I’m only doing that if I’m compensated because running large events is pure pain.
+
+### The Execution Gap and the Challenge of Scaling Cleanly
+
+Getting results isn’t the problem.
+
+Getting people to execute is.
+
+I REPEAT, FROM DANIEL.
+
+> Getting results isn’t the problem. Getting people to execute is.
+
+Every piece of effort in Client Ascension is geared toward getting members to just do what we give them.
+
+We literally build your prospect list, write your scripts, and give you the software.
+
+Yet, some still don’t run the campaigns. It’s wild.
+
+The difference? Payment plans. 100% of our best clients are the ones who pay upfront.
+
+They follow instructions.
+
+People on payment plans ask irrelevant questions, delay execution, and lower the energy of the group.
+
+### Why We Don’t Offer Financing
+
+We’re strict for a reason. People ask why we don’t finance access.
+
+Because if $5K is your mortgage, you shouldn’t be here.
+
+We're optimizing for high LTV clients. If you’re annoying, you don’t get in—even if you have the money.
+
+Our group is high energy. Calls are productive because members are focused.
+
+No one wants to hear basic questions like, “Is cold email saturated?” That question alone tells me you’re not ready.
+
+### The Clean Offer Evolution
+
+People get too rigid with their offers.
+
+They think their initial package is set in stone.
+
+Example: if a TikTok ads agency hears a client say, “We already have a media buyer, we just need the creatives,” and the agency turns them away, that’s dumb.
+
+Just sell them the creatives.
+
+You’re a service business. Adapt.
+
+Listen to what people want, and build around that.
+
+This simply means the following.
+
+> Have wiggle Room in Sales. Make something people want.
+
+### Scott Millard’s Offer Transformation
+
+Scott used to sell **unlimited** SaaS explainer videos for $5K/month. Nobody wanted that.
+
+We told him to switch to a fixed number of videos.
+
+He listened, adapted, and six months later, he hit $40K/month. Just that simple.
+
+To discover what people want, go through sales processes (which are always dirty).
+
+### You’re Selling Systems, Not Mechanisms
+
+People think they’re selling short-form content or Google Ads. Wrong.
+
+You’re selling a result. Over time, you learn what works. That becomes your system.
+
+If short-form doesn’t convert well, you need DM sales.
+
+VSLs. Long-form content.
+
+It’s the full stack that drives results.
+
+### Why Most People Fail: Inconsistency
+
+Most people can’t even stick to one thing for six months. That’s why they fail.
+
+It takes six months to:
+
+* Get competent.
+* Produce client results.
+* Gather testimonials.
+
+You can’t scale if you’re not patient enough to stay in the game.
+
+### Case Study Obsession
+
+If you’ve worked with 642 clients and have zero testimonials, that’s on you.
+
+Your landing page should reflect what you’ve done. If it’s not on the internet, it didn’t happen.
+
+I REPEAT FROM DANIEL:
+
+> If it’s not on the internet, it didn’t happen.
+
+Your sole job is to produce and showcase results.
+
+Case studies lead to more clients. Period.
+
+### The Shakespeare DM Doesn’t Work
+
+Writing poetic DMs isn’t what converts. It’s congruency.
+
+First of all everyone has different conversion windows. Not everyone is just ready to buy at this moment.
+
+People check your profile. If you’re tweeting about random stuff, they bounce.
+
+Have a clean profile, website, VSL, and actual results. If not, at least show what you *would* do.
+
+That one editor? He didn’t wait. He hyper-edited a clip from my VSL, unsolicited.
+
+Daniel wasn't interested at that time, but later he was looking for hyper edited Youtube videos.
+
+He searched for 10 mins in DM's to find this guy and try this out.
+
+A few weeks later, I paid him. Now he’ll make $10–20K from me alone.
+
+Daniel liked this:
+
+> The editor was explaining his work while doing certain things. He was articulating his thought process.
+
+### The Ladder of Proof
+
+There are two ways to mitigate risk for clients:
+
+* Offer a money-back guarantee.
+* Provide undeniable case studies.
+
+Client testimonials > Guarantees.
+
+The best clients don’t even want a guarantee. They want *certainty*.
+
+### Building Ubiquity
+
+Don’t ask me if YouTube or Twitter is working best.
+
+I’m everywhere. That’s why it works.
+
+Every app, every channel.
+
+If someone thinks, “I want to scale with cold email,” the first person that comes to mind should be me.
+
+> I want you to see me [30 times a week](https://youtu.be/G5bpHxz5QIQ?t=2877), because you are in a conversion window.
+
+> You are going to the [bank of your mind](https://youtu.be/G5bpHxz5QIQ?t=2909) and you are going to search: "What's the best gateway to make me do this right now. Who is the person that can help me do this as quickly as possible, right now."
+
+> You are going to think about Daniel.
+
+Frequency builds familiarity.
+
+Familiarity drives conversions.
+
+### Stop Pondering, Start Executing
+
+You’re not building your offer. You’re procrastinating.
+
+Execution is:
+
+* Connecting domains
+* Uploading the 3,000 leads we gave you
+* Copying the exact scripts
+* Clicking “Start Campaign”
+
+Do that. Not think about it. Not tweak your logo.
+
+### The Pokémon Binder Analogy
+
+Remember trading Pokémon cards?
+
+The kids who made trades were the ones asking.
+
+The ones sitting quietly with their binder got nothing.
+
+You have to ask. Then adjust if nobody wants your offer. That’s the game.
+
+### Final Advice: Get Good
+
+If you want to stop being poor, pick a skill and actually get good at it.
+
+* Master it.
+* Get results.
+* Turn results into case studies.
+* Let those drive more sales.
+
+Repeat this for a year.
+
+## Daniel Full Story
+
+!!! tip
+
+    This is Video #36 on [Daniel's channel](https://www.youtube.com/@danielfazio).
+
+[$5M/yr Entrepreneur Explains Offers, Marketing, Sales, and Scaling (B2B & Agency)](https://www.youtube.com/watch?v=aCAjbRb1ZNk) - 20 April 2023
+
+This is from Daniels POV.
+
+### Daniel Fazio's Business Journey
+
+Daniel shares his journey, beginning with a finance degree from Florida State in 2018.
+
+Just before graduation, he stumbled across a video about making $10,000/month with Amazon FBA.
+
+Treating it like a college class, he studied hard, implemented the strategy, and sent $6,000 to China to buy inventory.
+
+His first product—stainless steel beer bottle insulators—sold out quickly before Father’s Day, netting him around $7-8k in profit.
+
+### The Value of Taking Action Quickly
+
+That early win made me realize something powerful: if I could repeat this, I’d never have to work a job I hated again.
+
+I’d already done time at Publix and Apple—high-performing but micromanaged, efficient but unrewarded.
+
+I hated the lack of autonomy.
+
+I craved a world where **output equals input**.
+
+> I was working more efficient and better quality but I wasn't compensated for that.
+
+### Lessons from Amazon FBA and Capital Efficiency
+
+> Most people is going to be introduced to world of business through some business opportunity.
+
+But Amazon FBA wasn’t sustainable. It was capital-intensive and seasonal.
+
+I wanted a model that was more capital efficient. That’s when Tai Lopez’s SMMA (Social Media Marketing Agency) course showed up.
+
+I devoured it. Immediately, I started running Facebook ads for local businesses.
+
+> I amount of time between of me getting the information and executing it is near zero.
+
+One of those clients—a nightclub owner—stuck with me for years.
+
+### Dream Clients vs. Quantifiable Results
+
+That client didn’t need an ROI breakdown; he trusted me.
+
+But I realized most clients aren’t like that. They need quantifiable results.
+
+That pushed me toward more measurable offers and sharpened my understanding of value propositions.
+
+### From Courses to Cold Emailing
+
+I became obsessed with learning—buying courses and executing fast.
+
+> Russell Brunson (The Idea not directly) - Funnel Copying.
+
+One course taught Instagram automation, and I started selling Instagram growth as a service.
+
+Initially, I pitched “more money” to fitness coaches, but it fell flat.
+
+When I reframed it as “more followers,” everything changed.
+
+### Cold Email Mastery Through Manual Repetition
+
+I didn’t use automation tools at first.
+
+I manually gathered emails and wrote personalized messages.
+
+That gave me an intuitive feel for what works.
+
+So much exposure to cold email through this practice.
+
+Even when I scaled, I kept that 1:1 mindset—speaking to one human being, not blasting a thousand.
+
+### Building a $12K/month Business at 20
+
+At 20, I hit $12,000/month in revenue, with just $400 in expenses.
+
+My clients renewed month after month. I was living the MRR dream.
+
+Fulfillment took just a few hours a week.
+
+The rest of my time went to acquiring more clients.
+
+### Discovering Passion for Customer Acquisition
+
+That’s when I realized—my passion is marketing, not ops.
+
+I love acquiring customers. I also care deeply about **retention**.
+
+Keeping clients is the compounding edge. If you get that right, wealth becomes inevitable.
+
+### The Recurring Revenue Flywheel
+
+- Acquire a customer.
+
+- Get them results.
+
+- Turn those results into case studies.
+
+- Use the case studies to get more customers.
+
+- Repeat.
+
+That flywheel builds unstoppable momentum.
+
+### Revisiting Old Content for New Insights
+
+I revisited Alex Hormozi’s early YouTube videos recently and realized I’d internalized his teachings without even knowing it. 
+
+But this time, at my current stage, the advice hit deeper.
+
+Timing changes everything.
+
+### Challenges for Businesses Below $30K/month
+
+Most service businesses stuck between $5K-$30K/month box themselves into rigid offers.
+
+That’s the mistake. I learned to let the offer evolve based on what clients actually ask for.
+
+**Flexibility** closes more deals.
+
+> You cannot just sell this black box that fits you.
+
+> You can only sell what people want.
+
+### Why Cold Traffic Requires a Complete Offer
+
+Selling ads? Then make the creatives too. Nobody wants half a service.
+
+You’re not just a media buyer.
+
+Clients want someone who owns the outcome. Give it to them.
+
+### Letting Clients Shape the Offer
+
+I’ve built offers mid-call to close deals.
+
+Added services on the fly.
+
+The best “boxes” are shaped by the market, not pre-defined in your Notion doc.
+
+### Dirty Sales: Custom Solutions Win
+
+Early-stage sales are messy.
+
+> You assess the difficulty what's required for them to win. Than backtrack that, what do you want to be compensated with to execute that difficulty.
+
+> Explain the difficulty to the prospect.
+
+> Present them a price that makes economic viable sense for you.
+
+You assess effort, diagnose deeply, and price accordingly.
+
+Don’t try to cookie-cutter your way through a $3K problem.
+
+### Pricing Confidently and Avoiding Undervaluation
+
+Undercharging is fear-based. Know what your work is worth.
+
+Price with clarity. If it’s $6K, say it with your chest.
+
+### Discovery > Revenue DQ
+
+Too many founders auto-DQ prospects based on revenue.
+
+That’s stupid.
+
+Discovery gives you context—savings, risk tolerance, goals.
+
+Every call is market research.
+
+### Using Discovery for Offer Clarity
+
+Talk to 30-50 people and patterns emerge. Language. Pain points.
+
+Behaviors. That becomes the backbone of your email copy, pitch, and offer.
+
+### The Power of High-Effort Outreach
+
+I once sent a clip to a dream client every single day until he signed.
+
+Took two weeks. He’s still a client.
+
+High-value clients require high-effort outreach.
+
+### Sell to the Whole Market, Not Just the Perfect Fit
+
+A $1K deliverable today can lead to a $10K retainer next year.
+
+Play long-term games with long-term people.
+
+### Think in 3+ Year Time Horizons
+
+If you don’t think you’ll be in business in three years, you won’t be.
+
+Period.
+
+Everything I do is aimed at building a company that thrives a decade from now.
+
+### Avoid Rigid Disqualification
+
+Don’t reject people for being “too small.” Ask what they need.
+
+If you can help—even in a small way—you’re building **future revenue**.
+
+### Fulfillment, Marketing, and Client Ascension Structure
+
+> 3 Pillars. Marketing - Lead Gen, Sales, Operations and Fulfillment
+
+In Client Ascension, I handle marketing and lead gen.
+
+Dan runs the sales team.
+
+Andre leads fulfillment. We operate as three full-time machines.
+
+We pass insights back and forth. Coaching calls inform my marketing.
+
+Sales feedback refines fulfillment. The system loops.
+
+### Importance of Frequency and Multi-Channel Presence
+
+It’s never one touchpoint. It’s all of them.
+
+Twitter. YouTube. Cold emails. Podcasts.
+
+It’s about mental bandwidth.
+
+Grant Cardone said it best: “Your creative won’t beat my frequency.”
+
+### Personal Brand vs. Faceless Brands
+
+Client Ascension works because we’re not faceless.
+
+My face. Andre’s face. Christian’s face.
+
+You trust people, not logos.
+
+### Influence of Associations and Network Effect
+
+I’ve appeared in videos with [Brian Moncada](https://www.youtube.com/@BrianMoncada/videos). That association boosts my credibility.
+
+Twitter endorsements helped me hit 100K+ followers.
+
+When a high-profile person joins, others follow from FOMO.
+
+### Sales Advice: Adapt Offers and Play the Long Game
+
+If someone can’t afford your main offer, sell them something smaller.
+
+Stay in touch. The game is won by those who stay in it.
+
+### Display Competence and Do the Work Yourself
+
+If you sell editing, show edits.
+
+If you sell short-form, post clips.
+
+Be your first case study. Prove it. Don’t talk—show.
+
+Make a big document and share on Twitter. Make a youtube video out of it.
+
+> Proof that you are capable doing the thing.
+
+> You have the nuance that is required to deliver the result.
+
+[Opportunities in High Income Skills and Services](https://www.youtube.com/watch?v=aCAjbRb1ZNk&t=5311s)
+
+### Free Work That Converts
+
+Great free work converts 10-15% of the time.
+
+Bad free work converts 0%.
+
+Make it excellent. Get proof. Build your portfolio.
+
+You are your [first case study](https://youtu.be/aCAjbRb1ZNk?t=6248).
+
+One free client. Yourself.
+
+### Results Over Guarantees
+
+Big clients don’t want their money back. They want the outcome.
+
+Guarantees help early on. But results are what really sell.
+
+### Advice for Beginners
+
+If you’re starting at zero:
+
+* Do the thing yourself
+* Get results
+* Use free work to build proof
+* Lead with proof, not promises
+
+That builds confidence. That closes deals.
+
+### Long-Term Vision and Values
+
+I used to chase monthly highs. Now, I want consistency.
+
+Quarter-over-quarter growth. Sustainable systems. I’m playing a 10–20-year game.
+
+### Role of Faith and Spirituality
+
+I grew up Catholic but drifted. Lately, I’ve been reading the Bible directly.
+
+It’s wild. The stories, the patterns, the parallels to business and life—it’s all there.
+
+Everything repeats. Everything has consequences.
+
+Belief in divine order gives me peace and direction.
+
+### Final Thoughts
+
+Be excellent. Prove it. Stay consistent. Think long-term. Build trust.
+
+That’s the playbook. It’s not flashy, but it wins. Every time.
+
+Despite initial success, Amazon FBA proved capital-intensive and seasonal.
+
+That prompted Daniel to search for something more capital efficient.
+
+Enter Tai Lopez’s SMMA (Social Media Marketing Agency) course.
+
+Daniel consumed the content quickly and implemented it immediately, starting to manage Facebook ads for local businesses, including a club that became a long-term client.

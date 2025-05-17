@@ -604,3 +604,219 @@ Like the video, subscribe, leave a comment.
 I love you.
 
 See you later.
+
+## How to Sign Clients When No Results
+
+!!! tip
+
+    This is Video #34 on [Daniel's channel](https://www.youtube.com/@danielfazio).
+
+[How To Sign Clients When You HAVE No Clients (Or Results)](https://www.youtube.com/watch?v=2GaqJ-QQO3g) - 4 April 2023
+
+[Doc](https://gamma.app/public/rtvmpcd3zh6xm05) from this video.
+
+### How to Get Clients with Zero Results
+
+All right — how do you get clients when you don't currently have any clients, and you have zero results?
+
+My name is Daniel Fazio. I run Client Ascension. I’ve built software companies like Cold Email Wizard, and made $5 million by the time I was 25. We help marketing agencies and B2B companies add an additional $10K–$50K/month in profit at [clientascension.com](https://clientascension.com).
+
+Let’s get into it.
+
+### The Chicken or the Egg: Clients or Results?
+
+This is a classic "chicken or the egg" scenario. Which comes first: the client or the results?
+
+The answer: **the client comes first**.
+
+You can’t get results without a client, obviously — and you know this, because you’re smart and watching this video.
+
+Here's how it works:
+
+* Get client
+* Get results
+* Get client
+* Get results
+
+Repeat.
+
+### The Xavier Example: First Client Results
+
+Let me show you a real example. This is my guy Xavier from one of our communities. He started a short-form content agency.
+
+<figure markdown="span">
+  ![Step By Step](https://raw.githubusercontent.com/kantarcise/stopbeingpoor/refs/heads/main/docs/images/sales/xzavier_process.png)
+  <figcaption>Step By Step</figcaption>
+</figure>
+
+Here’s what he did:
+
+* Found a dating coach
+* Made 5 shorts from the coach’s existing long-form content
+* Sent one short every other day until he responded
+* Got the email, sent a personalized Loom
+* Sent two proposals (one full package, one repurposed)
+* Went back and forth via email
+* Sent the invoice — and got paid
+
+Eight days later, he posted his **first client results**: **700,000 views** — and also got his **first booked call through his landing page**.
+
+### Why the First Is Hard and the Second Is Easy
+
+This is what I want you to understand:
+
+* Signing the **first** client is *extremely hard*
+* Signing the **second** is *much easier*
+
+**What closed the gap?**
+
+Client results — specifically, the 700,000 views.
+
+If you don’t deliver results for your first client, it will always be hard. You’ll live on hard mode forever.
+
+You want to sign all the clients and make all the money, but deliver **zero results**? It won’t work.
+
+Every additional client should be easier to sign — *if* you get results.
+
+### Why Your Business Might Feel Broken
+
+This is what screws up most people in marketing. You're trying to build a sustainable, ethical business — but the market is full of people who **don't care about client results**.
+
+That creates noise and distrust.
+
+If you want to stand out and succeed, you need to be exceptional at getting your clients **real, quantifiable results**. That only happens if:
+
+* You put in the hard effort
+* You become **great** at the thing you sell
+* You document those results
+
+If you do that, you’ll win. Period.
+
+### You Can’t Sell What You Don’t Do
+
+Let’s get practical.
+
+If you're:
+
+* Selling email marketing but don’t run your own email list
+* Selling short-form content but don’t post or get views
+* Selling cold email lead gen but don’t use cold email yourself
+
+you are trying to sell something you don't believe in — or even use.
+
+**You are your first free client.**
+Zero dollars, zero resistance. Use yourself to prove your results.
+
+If you’re not doing what you’re selling, why would someone trust you to do it for them?
+
+### How to De-Risk the Purchase
+
+Most people focus on the upside. But clients are afraid of the downside.
+
+It hurts more to **lose** $100 than it feels good to **gain** $100.
+
+You need to de-risk.
+
+There are two ways to do that:
+
+1. **Guarantees**
+
+   * Performance-based
+   * Money-back
+
+2. **Perception**
+
+   * Client results (external proof)
+   * Your own results (internal proof)
+
+If you have 100K TikTok followers and you teach people how to grow on TikTok — that’s clear, credible proof, even if you haven’t done it for others yet.
+
+### The Four Reasons People Buy
+
+There are four core triggers that make people buy from you:
+
+#### 1. Claims
+
+You sell the **end state**, not the mechanism.
+
+Don’t say “I’ll run short form for you.”
+
+Say:
+
+> “I’ll add $50,000 in sales in 60 days using your email list — or you don’t pay.”
+
+- Quantifiable promise
+- End result
+- Without objection
+
+> I will close $50,000 in new business using your email list in the next 60 days without running fake scarcity, discounted promos, or hyped-up off brand emails
+
+> I will script, edit, and produce your next 8 YouTube videos and guarantee they get 3x more views (without hopping on hype trains or breaking TOS) or you don't pay
+
+#### 2. Proof
+
+This is how you convert the next subsection of the population, people who want proof that you are in fact able to deliver the result, even if you have a guarantee
+
+These are all of the ways by which you can do this:
+
+1. Interview with the client, having them explain the results they achieved with you
+
+2. Screenshots of the client's results or your results
+
+3. Selfie testimonial videos from clients explaining the results they achieved
+
+4. Independent case study walk through
+
+Tell the story:
+
+> Current state → You → Result state
+
+#### 3. Competency
+
+Some prospects want to know you’re a **master**.
+
+This is where the following forms on content come in:
+
+1. Explainer videos
+
+2. Cheat sheets
+
+3. Stories
+
+4. Walkthrough videos
+
+In B2B, showing your process doesn’t make you lose clients — it makes them want to hire you *because* they don’t have time to do it themselves.
+
+#### 4. Consistency
+
+Most people are not ready to buy *right now*.
+
+That’s normal. Maybe:
+
+* Their grandma just died
+* Their team quit
+* They’re overwhelmed
+
+This is called a **conversion window**. Stay top-of-mind.
+
+When they are ready, you’ll be the first person they think of.
+
+### Build Mental Association
+
+Be **consistent** until people associate *you* with the solution.
+
+* You talk about TikTok social funnels every week?
+* Eventually, people will think: “Social funnels = You”
+
+That’s how trust and recognition compound.
+
+### What to Do Now
+
+Your action steps:
+
+* Download the doc (link in video description)
+* Subscribe and like the video
+* Go to [clientascension.com](https://clientascension.com) if you want to add $10K–$50K/month profit to your B2B business or agency
+* If it doesn’t work, you don’t pay
+
+Love you. Goodbye.

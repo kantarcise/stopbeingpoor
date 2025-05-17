@@ -111,6 +111,12 @@ David [explains here.](https://youtu.be/BRS-qlwoCQI?t=1138)
 
 > If I could get this massive case study, everything else just happens inevitably.
 
+Another banger from [this long form](https://youtu.be/G5bpHxz5QIQ?t=1263):
+
+> You did not any results unless they are clearly and vividly displayed on the internet.
+
+> Your landing page should reflect what you’ve done. If it’s not on the internet, it didn’t happen.
+
 ### Churn
 
 Literally understand from example - [Dillon Case Study](https://www.clientascension.io/case-studies/dillon-andrews):
@@ -128,6 +134,14 @@ Your offer can simply state to the customer with 3 options, here is a part of th
 - You can not do this.
 - You can do it yourself.
 - You get in a time machine and join Client Ascension.
+
+### Client
+
+Daniel says it's going to [take 6 months](https://youtu.be/aCAjbRb1ZNk?t=6370) to get a client.
+
+The function of 6 months is not you prospecting for 6 months.
+
+It's you becoming actually good at the thing for 6 months.
 
 ### Client Ascension Goal
 
@@ -427,6 +441,12 @@ Part of an offer. Can you actually do the thing you are claiming?
 
 It's is critical to aggregate evidence and present it in a correct way.
 
+### Execution Time
+
+From [this banger.](https://youtu.be/aCAjbRb1ZNk?t=456)
+
+> I amount of time between of me getting the information and executing it is near zero.
+
 ### Free Cash Flow
 
 From this [banger video](https://youtu.be/MfPiG96S0zI?t=327).
@@ -436,6 +456,10 @@ Free cash flow shows how much cash a company has left over after paying for expe
 Daniel approach:
 
 Revenue - business expenses - living expenses.
+
+### Free Client
+
+All of you have [one free client](https://youtu.be/2GaqJ-QQO3g?t=360) that requires zero dollars and zero effort to sign: yourself.
 
 ### Follow Up
 
@@ -596,11 +620,19 @@ Potential Client: "I watched 2 mins of this video, this guy gives value - he kno
 
 A lead is a person you can contact.
 
+### Luck
+
+Listen to [this story](https://www.youtube.com/watch?v=aCAjbRb1ZNk&t=5311s) when you want to be lucky.
+
 ### LTV:
 
 Lifetime Value of a Customer.
 
 The total amount of money the average customer will spend over their lifetime with you.
+
+### Maility
+
+What is [this](https://app.maility.io/auth/register) ? 🤔
 
 ### Making Money
 
@@ -631,6 +663,8 @@ Basically, how many competitors you have.
 Level 5, maximum amount of competitors - e-commerce email marketing. It's hyper competitive. In 2012 you can go to any e-com brand - "Hey do you need Facebook ads?" that would just sell. No one did it.
 
 At Level 1, you basically have no competitors.
+
+When a market gets sophisticated, the prospects get exposed to more claims and angles.
 
 ### Market Sophistication Level 5
 
@@ -810,6 +844,36 @@ This is from [Cole Gordon VSL](https://closers.io/).
 
 The pitch is how the offer is communicated over the phone to the prospect in a way that is unique, different and superior than the rest of the marketplace.
 
+### Proof as a Beginner
+
+[This banger](https://youtu.be/386ncFwz7B0?t=515). Directly from [the document](https://gamma.app/docs/How-to-Get-Use-Social-Proof-to-Sign-More-Clients-hjynkqp49sikg42?mode=doc).
+
+You'll typically hear me say things like "it takes 6-8 months to start getting any traction in your business"
+
+The reason for this 6-8 months is SOLELY, 100%, EXCLUSIVELY due to the time delay of acquiring case studies.
+
+Your business & client acquisition will immediately & indistinguishably start moving extraordinarily faster at the exact moment you produce your first good case study.
+
+When you are a beginner, you need to take what you can get.
+
+You don't have the luxury of charging people $5,000 - $10,000 and putting them on 6 month contracts when you have precisely zero proof.
+
+So let's say you sign a client for free.
+
+Here's a huge mistake people will make when signing a free clients: they will not share their intentions.
+
+The only situation you should sign a free client as a beginner is if you have made this abundantly, 100% absolutely clear: I am only doing this for a case study. You are agreeing to share any and all metrics, numbers, and sales as a result of our working together. There is no other function of this relationship beyond me producing a case study.
+
+This is the reason "90% of businesses fail":
+
+They don't even exist long enough to produce case studies, social proof, and results.
+
+All of this will occur after month 6.
+
+After you have been making almost no money for an extremely long period of time. Building up competence. Actually becoming the person capable of delivering results.
+
+Stop giving up on the thing. Start getting case studies.
+
 ### Q/Q
 
 Quarter over quarter (Q/Q) is a measure of an investment or a company's growth from one quarter to the next.
@@ -817,6 +881,16 @@ Quarter over quarter (Q/Q) is a measure of an investment or a company's growth f
 ### Response from Cold Email
 
 If someone is going to reply to your cold email, they will %100 Google you.
+
+### Results Over Guarantees
+
+Some clients [don't care about guarantees.](https://youtu.be/G5bpHxz5QIQ?t=2438)
+
+They just want you to deliver the result that you promised.
+
+Daniel says:
+
+Quantifiable case studies and testimonials is by an order of magnitude stronger than guarantees.
 
 ### Referrals
 
@@ -833,6 +907,12 @@ Everyone wants more clients — but the real leverage is in **retention**.
 If someone pays you $7K/month and stays for a year… that’s $84K.
 
 Daily narrates of what we did as part of fulfillment.
+
+Daniel thinks [this is a puzzle](https://youtu.be/aCAjbRb1ZNk?t=1124) and not a lot of people in the planet can solve it.
+
+If you can keep your customers, it's impossible not to get rich. It's a superpower.
+
+This might be a strong point in my value proposition.
 
 ### Risk Reduction Offer
 
@@ -919,6 +999,14 @@ Even if you sold, say you get something like 6 Million, that isn't enough money 
 It's going to be a little more than 6 million for to get there.
 
 It's not enough money lol.
+
+### Selling Happens Before Selling
+
+When you exist on internet persistantly, people just think about you as the default.
+
+They are watching, lurking. Not even liking your things so you don't even know.
+
+Because if this, when someone 
 
 ### SOP
 
@@ -1008,6 +1096,14 @@ They may have visited your site before.
 
 They've read your content.
 
+### What do people want when they buy?
+
+This [banger](https://youtu.be/aCAjbRb1ZNk?t=5227).
+
+They want to purchase your experience, they don't want a course, they just want it executed right now.
+
+Leveraging your experience.
+
 ### Year-Over-Year - Y/Y
 
 Year-over-year compares a company's financial performance in one period with its numbers for the same period one year earlier.
@@ -1029,3 +1125,11 @@ Client Ascension has a "wins" channel in slack, where people share wins.
 It's just momentum shared.
 
 A dream for people who are looking for better friends.
+
+### Winning
+
+[Banger](https://youtu.be/G5bpHxz5QIQ?t=1495).
+
+Every single metric improves with testimonials and case studies.
+
+Whoever has the more result wins.

@@ -1469,3 +1469,140 @@ Here is a fun comment on this video:
   ![Cold Emails](https://raw.githubusercontent.com/kantarcise/stopbeingpoor/refs/heads/main/docs/images/offers/justcoldemails.png)
   <figcaption>Cold Emails</figcaption>
 </figure>
+
+## There is no Saturation
+
+!!! tip
+
+    This is Video #32 on [Daniel's channel](https://www.youtube.com/@danielfazio).
+
+[There Is No Business Model That’s TOO Saturated.. Let Me Explain (You can get clients for anything)](https://www.youtube.com/watch?v=71TSnjKP98w) - 28 March 2023
+
+[The document](https://gamma.app/docs/When-to-know-if-a-business-is-saturated-arorkj2jnlvru7q?mode=doc) linked in the video.
+
+### Saturation Does Not Exist
+
+Saturation doesn't actually exist the way you think.
+
+What gets saturated is copying a **marketing channel**, **offer structure**, or **pitch scripts** — not the service itself.
+
+You need to understand how to protect yourself from this false sense of saturation and focus on results-based positioning.
+
+### The Real Problem: Market Sophistication
+
+When markets evolve, they get exposed to more claims and angles.
+
+That doesn’t mean a service becomes saturated.
+
+It means the **buyer becomes more sophisticated**.
+
+Relying on "Facebook ads" or "short-form content" as your pitch doesn’t work because you’re marketing the mechanism, not the result.
+
+> **Wrong:** I’ll edit your short-form content.
+>
+> **Right:** I’ll get you 3–10 new clients per month passively using my organic content operation system.
+
+What you're selling is the **gap** between a current state and a desired state — not the mechanism.
+
+### Sell the Gap, Not the Service
+
+Buyers only care about what they get. You're not selling Google Ads — you're selling more sales.
+
+You're not selling email marketing — you're selling more clients.
+
+Use the formula:
+
+* Current State ➝ End State
+* Your system/solution is the **bridge**
+
+<figure markdown="span">
+  ![Business](https://raw.githubusercontent.com/kantarcise/stopbeingpoor/refs/heads/main/docs/images/offers/what_is_business.png)
+  <figcaption>Basically Business</figcaption>
+</figure>
+
+This becomes critical as markets mature.
+
+### At The End of the Sophistication Cycle
+
+Sophisticated buyers only purchase based on:
+
+1. **Results**
+2. **Proof**
+3. **You being the person to deliver it**
+
+So instead of staying surface-level, **go straight to the end of the cycle**:
+
+> I get results. Here’s proof. Here’s how I do it.
+
+### Four Ways to Shield Yourself from Saturation
+
+<figure markdown="span">
+  ![Separation](https://raw.githubusercontent.com/kantarcise/stopbeingpoor/refs/heads/main/docs/images/offers/when_market_gets_saturated.png)
+  <figcaption>This is how you separate</figcaption>
+</figure>
+
+#### 1. **Claims**
+
+* Promise specific end states.
+* Position yourself as the gateway to those outcomes.
+
+> This organic content marketing system will help you sign 3-10 clients per month.
+
+You see the gap right?
+
+#### 2. **Proof**
+
+* Show you’ve done it before.
+* Sophisticated buyers don’t want refunds — they want results.
+
+They want it to work.
+
+#### 3. **Competency**
+
+* Use social content to show you deeply understand micro-nuance.
+* Guides, tutorials, walkthroughs build trust.
+
+They want to see that you understand micro-nuance.
+
+They want to sit and watch you display you know these micro intricacies of making things work particularly well.
+
+Free stuff is for displaying competency.
+
+#### 4. **Consistency**
+
+* Stay in front of your audience over time.
+* **Conversion windows** vary — not everyone buys today.
+
+Do this for months, for years.
+
+### You Need Time
+
+Your timeline is off. You measure in days and weeks.
+
+But the only valid unit of progress is **quarters**.
+
+You must stay in one business for at least **6–12 months** before expecting big traction.
+
+> If you keep switching at 5K/month, you will always be the kind of person who can only hit 5K/month.
+
+You can't stack multiple 5K businesses into a real company.
+
+You need one that hits 50K.
+
+### Final Words
+
+Stop switching models. 
+
+Stop blaming saturation. 
+
+Stick with one business. 
+
+Refine your offer. 
+
+Show proof. 
+
+Build a system around it.
+
+Want help doing that? Go to clientascension.com.
+
+And subscribe to the channel if you found this useful. More breakdowns coming next.
