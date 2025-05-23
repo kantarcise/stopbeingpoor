@@ -461,6 +461,14 @@ Revenue - business expenses - living expenses.
 
 All of you have [one free client](https://youtu.be/2GaqJ-QQO3g?t=360) that requires zero dollars and zero effort to sign: yourself.
 
+### Free Work
+
+This is [a encouraging fact](https://youtu.be/aCAjbRb1ZNk?t=6121).
+
+> Every single client that we've worked for free in attempt to sign them we have signed.
+
+Daniel says this is 10-15 percent at scale.
+
 ### Follow Up
 
 Here [is the video](https://youtu.be/deAzlMzvhRU?t=1157).
@@ -874,6 +882,10 @@ After you have been making almost no money for an extremely long period of time.
 
 Stop giving up on the thing. Start getting case studies.
 
+### Prospect
+
+Potential client.
+
 ### Q/Q
 
 Quarter over quarter (Q/Q) is a measure of an investment or a company's growth from one quarter to the next.
@@ -1103,6 +1115,14 @@ This [banger](https://youtu.be/aCAjbRb1ZNk?t=5227).
 They want to purchase your experience, they don't want a course, they just want it executed right now.
 
 Leveraging your experience.
+
+### Why is Daniel Making videos?
+
+[This banger](https://youtu.be/aCAjbRb1ZNk?t=5883).
+
+I'm not making videos to entertain people.
+
+I'm making videos to convey competence, convey value and sell stuff.
 
 ### Year-Over-Year - Y/Y
 

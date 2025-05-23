@@ -808,7 +808,7 @@ Another successful, chaotic, productive day at Client Ascension.
 
 * Current agency structure:
 
-  * \$3K setup fee → used for fulfillment outsourcing
+  * $3K setup fee → used for fulfillment outsourcing
 
 * **Future Plan:**
 
@@ -2935,7 +2935,9 @@ That builds confidence. That closes deals.
 
 ### Long-Term Vision and Values
 
-I used to chase monthly highs. Now, I want consistency.
+I used to chase monthly highs.
+
+Now, I want consistency.
 
 Quarter-over-quarter growth. Sustainable systems. I’m playing a 10–20-year game.
 
@@ -2962,3 +2964,436 @@ That prompted Daniel to search for something more capital efficient.
 Enter Tai Lopez’s SMMA (Social Media Marketing Agency) course.
 
 Daniel consumed the content quickly and implemented it immediately, starting to manage Facebook ads for local businesses, including a club that became a long-term client.
+
+## Client Ascension Mastermind — April 2023 (Tampa, Florida)
+
+!!! tip
+
+    This is Video #37 on [Daniel's channel](https://www.youtube.com/@danielfazio).
+
+[Offer Anchoring, Market Sophistication, Sales, Growing Your Business (Client Ascension Mastermind)](https://www.youtube.com/watch?v=UlYO01s62JA) - 4 May 2023
+
+Here’s a cleaned-up, well-formatted version of your transcript. I've structured it into readable paragraphs, identified speaker shifts, and corrected grammar and flow for clarity—while preserving the casual, conversational tone of a live mastermind session.
+
+**Daniel Fazio:** 25 of our clients flew to Tampa for this Mastermind—and that’s what you’re about to watch: the Client Ascension Mastermind from April 2023.
+
+Two quick things before we dive in:
+
+1. If this is your second time watching a video from me, please hit the subscribe button.
+2. If you get any value from this, share it—group chats, Twitter, IG stories, wherever.
+
+It gets a little blurry at times—just treat it like a podcast. Now let’s get into it.
+
+**Christian:**
+
+We birthed some of the greatest content from this: 60 pieces of short-form content in two hours. That’s how simple it can be. But what we want from today is different—it’s not just content creation.
+
+This is a more intimate event, way different from what we did last October. It’s inspired by what Gabe and Joey did in Nashville—smaller group, deeper discussions. You can look each of us in the eye, ask what’s working, what’s not. We want a real town hall.
+
+We’ll start with 15–30 minutes of riffing—probably get a Daniel rant in there—and then we’ll go into Q\&A. Some of your questions, plus ones submitted via Slack. Let’s rip, and then we’ll go smoke cigars at Grand Cathedral.
+
+### Anchoring Offers
+
+**Andre (about offers):**
+
+Let’s start with something I’ve seen a lot: the best offers lately are *anchored* to something.
+
+Too many people pitch with generic value props that don’t land. You say “I’m a fractional CFO”—okay, but so what? If you anchor it like we did for Alex—“I scaled and exited a business, now I help you do the same”—now you have context. That’s tangible.
+
+Same with fitness offers. “I’ll coach you” is whatever. But “I’ll help you lose 20 pounds in 6 weeks”? People can visualize that. Always anchor your offer to:
+
+* A specific transformation
+* A guarantee
+* Your personal backstory
+* A measurable outcome
+
+Because vague ROI promises don’t hit. But “$40K in 3 months for XYZ brand” does.
+
+### Market Sophistication
+
+**Daniel (on market sophistication):** Market sophistication is key. In 2020, I could email “Do you use Klaviyo?” and people would reply. That doesn’t work anymore.
+
+Markets evolve. You go from:
+
+1. Novel mechanism
+2. Claims
+3. Bigger claims
+4. Risk reversal
+5. People buy *because it’s you*
+
+That’s why we build Client Ascension’s messaging with **claim, risk reversal, and overwhelming evidence**. It puts you at Level 5 from day one.
+
+For us, the pitch is: “We’ll help you scale to $10K–$50K/month profit in six months or we refund you.
+
+Here’s proof.” It works. Every time.
+
+### Storytelling in Sales
+
+**Andre (on storytelling):** At high levels of sophistication, stories sell.
+
+Every client has a unique pain point or fear. You neutralize objections by saying:
+
+“**You remind me of X.** They were in the same spot. Here’s what they did. Here’s what happened.”
+
+That’s more powerful than logic.
+
+Here is an [example on life insurance](https://youtu.be/UlYO01s62JA?t=758).
+
+Whether it’s selling life insurance or a coaching program, stories stick.
+
+We train our sales team to learn case studies not to improve belief—but to *use them* on calls.
+
+**Christian (on product):** [Product is everything](https://youtu.be/UlYO01s62JA?t=914).
+
+People say “Client Ascension is different.” Why? Because we care. We talk to clients. We listen. We iterate.
+
+Alex Hormozi Quote:
+
+> The best marketing is [word of mouth](https://youtu.be/UlYO01s62JA?t=1006).
+
+- Bible study? That came from a student’s idea.
+- Zapier concierge? Someone said they needed it—we built it.
+- Fitness Slack channel? It’ll exist next week because you asked.
+
+Product isn’t built in a vacuum. It’s built in community.
+
+Word-of-mouth happens when your product is undeniable. That’s why we work.
+
+**Andre (on shaping offers):** You don’t force clients into a box.
+
+The box gets shaped by what the market keeps asking for.
+
+If 20 prospects say “I just want the scripts” or “I don’t want DFY ads, just editing,” then listen.
+
+Don’t try to shoehorn them into your idea of value. 
+
+Let the market build your offer.
+
+That’s real productization.
+
+**Daniel (on sales):** Everyone overcomplicates guarantees.
+
+Here’s the real trick: ask the prospect.
+
+“What would make this a win for you?”
+
+If they say “100K views,” then that’s the guarantee. Done.
+
+Ask more. Sell what people actually want.
+
+**On iteration and testing:** We ran 150+ headline split tests on our opt-in page.
+
+The one that doubled conversions?
+
+> “How we build client acquisition systems for agencies and B2B companies, scale them to $10K–$50K in profit in 6 months or we refund you. No ads. No agencies. Just results.”
+
+Keep testing. The control changes everything.
+
+### Managing Employees and Culture
+
+**On culture and leadership:**
+
+Want your team to care? Show up first.
+
+- Give praise publicly.
+ 
+- Treat them as humans, not resources.
+
+- Build internal competition.
+
+- Tie incentives to retention and outcomes.
+
+- Don’t expect buy-in if you haven’t earned it.
+
+Leadership is a [full-time job](https://youtu.be/UlYO01s62JA?t=1850).
+
+People want to be in a company with a good product.
+
+Build a culture where people want to stay, not just get paid.
+
+"End of the day typeform", you have to do it first in order to expect it.
+
+[This is their job](https://youtu.be/UlYO01s62JA?t=2094), they are not going to care as much as you.
+
+[Incentivize](https://youtu.be/UlYO01s62JA?t=2133) their pay, based on the output you want.
+
+[Prioritize](https://youtu.be/UlYO01s62JA?t=2164) your people. This is what build culture.
+
+Another question—love you bro. 
+
+**Jeremy**. All right, this guy can't catch, but he's an actual genius. Talk about the smartest person in the room.
+
+So one of the guys I hired recently had a huge exit. He casually out-competed China on price, selling a commodity product in the early 2000s.
+
+Imagine this: the business you take over is selling a crappy product that costs more to make than what people want to pay for it, and you have to beat China on price.
+
+Within four years, this guy is making tens of millions, building the largest encoder manufacturer in North America. They still use his system. One problem he had was production—people didn’t care.
+
+They clocked in, clocked out. The middle managers were ineffective, product quality sucked.
+
+So he asked, "**How do I align incentives?**" He built a system to quantify value contribution.
+
+Every day, employees knew their bonuses. He fired all his middle managers.
+
+Productivity and accountability skyrocketed. Labor-to-profit ratio jumped from 4% to 27%.
+
+He beat every competitor on efficiency—he literally outperformed Chinese companies.
+
+**Hormozi’s Hiring Example:** He says, "When hiring an executive assistant, I don’t give you a job description. Tell me how you’ll make my life better. How will you hold yourself accountable?"
+
+**Speaker 3:** When I hired VAs, I tested them. I let them think I wasn’t measuring. Then I filtered out those who didn’t hold themselves accountable. Ideal scenario—you scale without micromanagement.
+
+Meetings are a massive time suck. Enterprises with high profit margins often don’t have them.
+
+As the company scales, it needs to be more data-driven.
+
+Focus on the key value drivers and tie incentives to them.
+
+Understand what **motivates** people:
+
+- **Me:** Education. Skills > Profits.
+
+- **Genius engineer:** Wants cool problems, not money.
+
+- **Others:** Motivated by family, or genuine connection.
+
+You get 50% more output just by asking someone how they’re doing.
+
+**Sales Teams & Scoreboards:** Salespeople are driven by competition.
+
+Public scorecards make them act like CEOs.
+
+Another tactic: give them a small equity stake.
+
+Ownership changes everything.
+
+One company made every employee an owner—the culture was insane. Pure ownership.
+
+**Christian:** That was just one question! We’ve got another hour left. You got a question?
+
+### High Value Unscalable Actions
+
+**Audience:** Yes. I was going to ask each of you: What’s the most valuable, least scalable thing you do?
+
+**Andre:** Sales calls. I still take 1-on-1s. We re-added them to our offer. People want to talk to the guru—they don’t want a program where they never meet the face behind it.
+
+**Dan:** Same here. I realized I sucked at managing a sales team. So I invested in learning—events, training, masterminds. My close rate is high, but it’s not scalable.
+
+**Christian:** I can’t spend quality time with all 300 people in our program. I choose 5 out of 20 DMs to go deep with—send 5-minute audio notes. I focus on depth over volume.
+
+**Speaker 4:** For me: writing cold emails and figuring out how to use AI to make them better. It’s frustrating, but it matters. The output isn’t perfect—but it compounds.
+
+**Speaker 5:**  Cold emails, optimizing with AI—it’s unscalable but makes you scalable.
+
+### High Leverage Actions in Our Business
+
+**Matt Lucero (audience):** Open-ended: What’s something you wish you started earlier that would’ve changed your trajectory?
+
+**Dan:** YouTube. Twitter is fast torque, but doesn’t scale.
+
+YouTube scales forever. One video can convert someone in an hour. It stacks.
+
+**Andre:** For me: product.
+
+If I didn’t have Andre focused on marketing, I wouldn’t have been able to focus on product.
+
+Find a partner who complements your strengths.
+
+Patience is underrated—don’t rush.
+
+Show up every day.
+
+Inputs over outputs.
+
+Stop taking shortcuts. I was in entrepreneurship since 16.
+
+Didn’t make money until 2–3 years ago.
+
+Christion met Andre through a Forex course.
+
+The shortcuts actually delayed success.
+
+**Speaker 6:** Business is worship.
+
+When you stop forcing things and start doing the work for the love of it, people feel that.
+
+The energy is different. Stop doing it just for results—do it because you love it.
+
+**Andre:** Yeah. I learned that from you. Game-changing.
+
+**Christian:** Sales: Wish I watched more call recordings.
+
+And knew my numbers—show rate, close rate.
+
+People drop the script once they get a few wins, and stop learning.
+
+**Final Speaker:** Stop ghostwriting. Build your own Twitter.
+
+Don’t force anything. Give value without asking.
+
+DMs should be human, not salesy. People will come to you.
+
+**Daniel:** It’s easy to forget—some of you might have 1K followers, others 100K.
+
+Doesn’t matter. People feel the energy. Focus on the work, the rest follows.
+
+> "Oh it’s easy for you because you have all those followers."
+
+Reality: I started from zero. 28,000 tweets. Took years.
+
+One day it just clicked. Didn’t feel fast at all.
+
+Andre: Inputs over outputs. Show up. Do the work. Let go of the outcome.
+
+[Celebrate consistent inputs](https://youtu.be/UlYO01s62JA?t=3709), not short-term results.
+
+Don’t sell what you don’t live.
+
+If you’re an email marketer, actually care about ecommerce. Be about what you sell.
+
+Repetition builds brand.
+
+When you’re [tired of saying something](https://youtu.be/UlYO01s62JA?t=3801), it’s probably the first time someone’s actually hearing it.
+
+> "People need to be reminded more than they need to be taught."
+
+[Track what matters](https://youtu.be/UlYO01s62JA?t=3853).
+
+Cash flow. Sleep. Sun. Food. Emails.
+
+What gets tracked improves.
+
+Your personal brand has no competition. No one can be you.
+
+Video is hard to fake, easy to trust.
+
+Even blogging about [cloud computing](https://youtu.be/UlYO01s62JA?t=3934) taught valuable lessons.
+
+Go all in—even if it feels meaningless.
+
+[Locking up the phone](https://youtu.be/UlYO01s62JA?t=3952) = tripled productivity.
+
+Know what works for YOU. No one-size-fits-all productivity system.
+
+### How to Focus on Everything At Once
+
+Staying good at everything: Find a sparring partner.
+
+Do [mock calls](https://youtu.be/UlYO01s62JA?t=4048). Mastermind with peers.
+
+Assign entire days to specific work areas (sales, fulfillment, content), not time blocks.
+
+This is how Daniel [do things - no time blocks - whole work days](https://youtu.be/UlYO01s62JA?t=4162).
+
+### How do you operate?
+
+**Dylan** Treat life like outreach.
+
+Connect without trying to sell.
+
+A phone call with Andre [changed everything](https://youtu.be/UlYO01s62JA?t=4283).
+
+Follow up.
+
+You never know the ripple effect of one interaction.
+
+Shampoo? Scam.
+
+Community humor and openness builds bonds. Laughter matters.
+
+### What most agency owners aren’t doing?
+
+Building a real team. Hire A-players. Develop leaders. 
+
+Let go of “I’m the only one who can do this.”
+
+Focus on:
+
+* Prioritize connections
+* Division of labor
+* Know your numbers
+
+Differentiate your offer.
+
+Don’t sound like everyone else. Learn why clients buy—and why they’d pay more.
+
+When you are prospecting, [understand the pain points](https://youtu.be/UlYO01s62JA?t=4613).
+
+Talk to your customers. Ask them why they bought.
+
+What made the product irresistible? What would make them pay more?
+
+### Most Common Pitfalls in Business
+
+A common false belief: fear of fulfillment leads to [self-sabotage in sales](https://youtu.be/UlYO01s62JA?t=4751).
+
+**Solution:** Know what makes clients succeed and build your offer around it.
+
+[Keep it real](https://youtu.be/UlYO01s62JA?t=4826) with your prospects, in sales conversations.
+
+If you're scared of getting clients, you're probably scared of delivering results.
+
+> The reason [you don't have what you think you want](https://youtu.be/UlYO01s62JA?t=4879) is because you are scared of it.
+
+If you are scared, it effects everything you do.
+
+Build belief through repetition and interactions.
+
+"Nobody can do it as good as me" – [not true](https://youtu.be/UlYO01s62JA?t=5005).
+
+Maybe not the same, but they *can* be as good.
+
+If they aren’t, you're likely the problem as a manager.
+
+Give without expecting a sale.
+
+Relationships > transactions.
+
+Goodwill pays back with compound interest.
+
+### Raising Prices on Clients
+
+Moving to a rev share model:
+
+- Attribution is tricky
+- Consider owning the platform (e.g., Instagram)
+- Use tracking tools like Hyros
+- Performance-based bonuses per platform, milestone, or month
+
+If quality drops with too many clients, raise retainers or shift model to fewer, higher-value partnerships.
+
+Clients have a price. If they want top-tier service, they should pay for it.
+
+State your new model with confidence.
+
+Don't beg clients to stay.
+
+Stand firm in your value and boundaries.
+
+[20-year frame: Think bigger](https://youtu.be/UlYO01s62JA?t=5750).
+
+Develop others to match your quality.
+
+Play the long game. Outlast everyone.
+
+**This is the game. Show up. Give value. Build real connections. Think long.**
+
+**On long-term thinking:**
+
+**Closing Thoughts:**
+
+- Show up every day.
+
+- Do the boring work.
+
+- Keep improving the product.
+
+- Document proof.
+
+- Build goodwill.
+
+- Focus on people.
+
+- Iterate endlessly.
+
+- Stop forcing it. Let it compound.
