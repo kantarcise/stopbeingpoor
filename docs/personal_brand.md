@@ -3397,3 +3397,213 @@ Play the long game. Outlast everyone.
 - Iterate endlessly.
 
 - Stop forcing it. Let it compound.
+
+## Business Simplified
+
+!!! tip
+
+    This is Video #38 on [Daniel's channel](https://www.youtube.com/@danielfazio).
+
+[How to Stop Overcomplicating Business & Staying Stuck (How to Get Clients, Close Deals, and Scale)](https://www.youtube.com/watch?v=ZX4AODxZpDA) - 8 May 2023
+
+### Overthinking and Following Instructions
+
+Many people entering Client Ascension tend to overcomplicate basic instructions.
+
+Instead of executing simple steps, they ask a flood of follow-up questions that anticipate problems which don't exist.
+
+Daniel points out that the advice given inside the program is not hypothetical—it’s based on what has already worked for the coaches themselves.
+
+Therefore, there's no need to overanalyze or hyper-understand each step.
+
+You learn why it works by doing it.
+
+Some members are paralyzed by possible negative outcomes and never take action.
+
+Risk reversals are a key example: people fear adding one because they anticipate refunds.
+
+Yet, by implementing a [risk reversal with proper client responsibilities](https://youtu.be/ZX4AODxZpDA?t=203), the chance of refunds is low—and the added demand from the offer far outweighs the rare refund.
+
+### Brute Force vs. Documented Action
+
+The program isn't about [brute-forcing success](https://youtu.be/ZX4AODxZpDA?t=305). Documentation.
+
+Every instruction is the result of trial, error, and successful results by the coaches.
+
+When you ask, "Why should I do this?"—the answer is simple: because it works.
+
+> [Your headline is your offer.](https://youtu.be/ZX4AODxZpDA?t=424)
+
+You’re buying access to proven methods, not theories.
+
+### Scaling Service-Based Businesses
+
+A common topic is how far a service-based business can scale.
+
+> As you get more clients it will get logistically more difficult.
+
+While many people argue it's not scalable, Daniel explains that scale is possible—it just requires stacking competent, autonomous agents.
+
+> You have to [stack people](https://youtu.be/ZX4AODxZpDA?t=547). Same thing in fulfillment too.
+
+In Client Ascension, multiple team members make decisions independently, essentially running a company within a company.
+
+Done-for-you services eventually lead to hybrid or done-with-you offers because high-level entrepreneurs often want to retain some control.
+
+> [Sell things to people in the form they want it](https://youtu.be/ZX4AODxZpDA?t=612).
+
+Selling people what they actually want in the format they prefer is more important than forcing them into a predefined offer structure.
+
+Banger:
+
+***["If someone gets on a call with you they want to buy something."](https://youtu.be/ZX4AODxZpDA?t=683)***
+
+> Every single person in the world running a business, [wants to put a dollar in](https://youtu.be/ZX4AODxZpDA?t=691) and get more dollars out.
+
+This depends on position of the offer.
+
+For high level business owners as clients - done for you morphs into a [hybrid done with you and done for you](https://youtu.be/ZX4AODxZpDA?t=735).
+
+People don't like the ideas of courses [never think about collage](https://youtu.be/ZX4AODxZpDA?t=778).
+
+[College = Government Ascension](https://youtu.be/ZX4AODxZpDA?t=798) 😅
+
+People make [no money has these imaginary questions](https://youtu.be/ZX4AODxZpDA?t=833) about scale.
+
+You are [poor](https://youtu.be/ZX4AODxZpDA?t=859). You need groceries.
+
+People just do this: "[I am not going to do that because this problem will arise](https://youtu.be/ZX4AODxZpDA?t=876)"
+
+Delusion.
+
+Ayman example - [just follow instructions](https://youtu.be/ZX4AODxZpDA?t=955).
+
+> The value of Ayman's service from a client perspective, no one is worried about the thing they buy.
+
+Why should I do that? [It works](https://youtu.be/ZX4AODxZpDA?t=1080). No other reason.
+
+### Understanding Market Sophistication
+
+Sophistication levels vary. For newer markets, a simple offer can work.
+
+But for highly saturated markets like short-form content, a more sophisticated pitch with clear claims and risk reversals is required.
+
+People no longer respond to basic offers; they expect specificity and differentiation.
+
+### Coaches Inside Client Ascension
+
+**Andre** – The integrator. He helps you build client management systems, streamline operations, and make the entire backend of your business function smoothly.
+
+**David and Connor** – Sales infrastructure. They help you create processes for handling leads, objections, follow-ups, and converting conversations into deals. Based on the objections, you make marketing assets.
+
+**Nick** – Advanced lead generation using cold email. He dives deep into scraping, personalization, and building scalable outbound systems that actually work.
+
+**Christian Bondier** – Writes cold email scripts for members. He crafts personalized scripts based on your offer and audience, backed by data and testing.
+
+**Stephen Trister** – VSL coach (Originally voice acting coach). He helps you script, record, and optimize your video sales letter. You send your script and recording, and he provides detailed feedback.
+
+**Mario Lanzarotti** – Mindset coach. Former Google executive coach with a TEDx talk. His sessions help unlock mental roadblocks and build resilience.
+
+> Mindset is a huge portion. Daniel finds [this funny](https://youtu.be/ZX4AODxZpDA?t=1707).
+
+**Dakota** – Twitter growth. He simplifies Twitter to help members grow their personal brands and build authority. One member went from 400 to 5,000 followers following his playbook.
+
+**Nick Rogers & Logan** – Launch social team. They focus on ideating and structuring content as sales assets, teaching members how every post is a direct response tool.
+
+### Direct Response vs. Branding
+
+**Direct response** is designed to get immediate action.
+
+**Branding** is more about long-term recognition without a clear call-to-action.
+
+Members are taught to treat every asset—emails, videos, tweets—as a sales letter aiming for direct response.
+
+Incredible story here:
+
+> Do you want [to go the bar?](https://youtu.be/ZX4AODxZpDA?t=1972)
+
+### High-Quality Outreach
+
+Cold outreach must be **relevant**, **thoughtful**, and **valuable**.
+
+- Are you solving a problem of theirs?
+
+- Are you actually researched the person?
+
+- Can you give them a free sample?
+
+> Here is what I think we could do. Strategy. Copy writing is a visual story.
+
+[Certainty](https://youtu.be/ZX4AODxZpDA?t=2478)
+
+If you did just take the concerted effort of outreaching, thoughtfully and with a relevant message to 100 people, you are going to close 1 of them.
+
+Don't insult or oversell. Instead, provide strategic insights or a sample of your work.
+
+Personalized, helpful outreach—even if it doesn't lead to a sale—builds goodwill and can prompt constructive feedback.
+
+### Referral-Based Growth
+
+Most revenue in high-quality agencies stems from referrals.
+
+Getting one client with excellent service and strong relationships leads to others.
+
+> They don't have to like you to work with you, [they do have to like you to refer you to their friends](https://youtu.be/ZX4AODxZpDA?t=2605).
+
+If you can get to your client a really good experience, you will get referrals. You will.
+
+Word-of-mouth compounds—both good and bad.
+
+Therefore, client experience matters just as much as results.
+
+### Building Sticky Relationships
+
+Clients stay when they like you and see consistent effort.
+
+Narrate your actions, give weekly updates, and be transparent.
+
+If you're silent—even while getting results—the client may leave for someone who simply promises more.
+
+But when clients feel connected, they remain loyal.
+
+> They are not going to churn, just because they like you.
+
+> Every friday, [here is what happened this week, based on that here is what we are going to the next week](https://youtu.be/ZX4AODxZpDA?t=2955).
+
+This is a good experience.
+
+> If someone hits me up with a thoughtful, relevant and valuable message. [I will help that person](https://youtu.be/ZX4AODxZpDA?t=3081).
+
+> [I will actually help that person](https://youtu.be/ZX4AODxZpDA?t=3085). I can tell you put time into it and you are helping yourself. I will help someone that's helping themselves.
+
+> [Really curious, if I can just have a moment of your time, What would make this offer a slam dunk for you?](https://youtu.be/ZX4AODxZpDA?t=3111)
+
+> [Okay, fair enough. Just as a future reference, I'm trying to grow this business, what would make people like you interested? What would I have to change?](https://youtu.be/ZX4AODxZpDA?t=3135)
+
+> I make omni presence for you on all platforms so you [never leave your ideal customer](https://youtu.be/ZX4AODxZpDA?t=3333).
+
+### Be Coachable and Take Action
+
+One of the most critical qualities for success is **coachability**.
+
+Follow what the coaches say, even if you don't fully understand it.
+
+The results validate the method.
+
+Focus more on the "how" than the "why."
+
+Do the work, ask good questions, and iterate.
+
+### Summary
+
+1. Stop overthinking—follow proven instructions.
+2. Scaling services is hard, but it’s possible with the right team.
+3. Understand your market sophistication and tailor your offer accordingly.
+4. Craft relevant, thoughtful, valuable outreach.
+5. Focus on client experience, not just deliverables.
+6. Be coachable—do what works.
+7. Every coach in CA serves a critical function—utilize all of them.
+
+Client Ascension offers more than 13 coaching calls per week across all essential business functions.
+
+If you're ready to go from zero to one, and then scale, it's built to guide you at each step.

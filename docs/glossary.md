@@ -213,6 +213,10 @@ You can use cold email to make a demand capture offer to a demand generation off
 
 - Cold emailing with relevant indicators. (They are hiring specific type of person - they are using a specific type of technology on their website. You scrape lists like that)
 
+Daniel gives [the sauce here](https://youtu.be/ZX4AODxZpDA?t=2451):
+
+- How can you make some kind of relevant thoughtful message and extrapolate it to 2000 of people or more.
+
 ### Cold Traffic
 
 Cold traffic is someone that is not familiar with you, your brand, your solution, or product/service.
@@ -224,6 +228,16 @@ It is a critical part of your marketing system because it involved reaching out 
 ### Cold Outreach
 
 Bigger term including Cold Emails.
+
+[Banger definition](https://youtu.be/ZX4AODxZpDA?t=2328) from Nick.
+
+Cold outreach must be **relevant**, **thoughtful**, and **valuable**.
+
+- Are you solving a problem of theirs?
+
+- Are you actually researched the person?
+
+- Can you give them a free sample?
 
 ### Compounding
 
@@ -389,6 +403,22 @@ Daniel talks [about this](https://youtu.be/NJhjg9QLvcI?t=1126):
 
 > Exactly. People assume “business” = money. But local businesses often make nothing. Go meet the owner—it’s not what you expect.
 
+### Dysfunctional Approach - Do NOT do this
+
+Someone reached Daniel for youtube stuff.
+
+[Really fun story.](https://youtu.be/ZX4AODxZpDA?t=3150)
+
+> [Help me help you](https://youtu.be/ZX4AODxZpDA?t=3284).
+
+### Dream 100
+
+[Certainty](https://youtu.be/ZX4AODxZpDA?t=2478)
+
+If you did just take the concerted effort of outreaching, thoughtfully and with a relevant message to 100 people, you are going to close 1 of them.
+
+Follow up with them without being annoying.
+
 ### EBIDTA
 
 EBITDA stands for Earnings Before Interest, Taxes, Depreciation, and Amortization.
@@ -468,6 +498,14 @@ This is [a encouraging fact](https://youtu.be/aCAjbRb1ZNk?t=6121).
 > Every single client that we've worked for free in attempt to sign them we have signed.
 
 Daniel says this is 10-15 percent at scale.
+
+Here is a Free Work [example for Youtube](https://youtu.be/ZX4AODxZpDA?t=3409).
+
+Hey, you are on my Dream 100 list.
+
+Here is a document of all the videos we could do make and here is the scripting for the first video and here is a step by step of what you need to do.
+
+Structure for the video and the specific points to hit on.
 
 ### Follow Up
 
@@ -890,6 +928,12 @@ Potential client.
 
 Quarter over quarter (Q/Q) is a measure of an investment or a company's growth from one quarter to the next.
 
+### Rejection
+
+> [Really curious, if I can just have a moment of your time, What would make this offer a slam dunk for you?](https://youtu.be/ZX4AODxZpDA?t=3111)
+
+> [Okay, fair enough. Just as a future reference, I'm trying to grow this business, what would make people like you interested? What would I have to change?](https://youtu.be/ZX4AODxZpDA?t=3135)
+
 ### Response from Cold Email
 
 If someone is going to reply to your cold email, they will %100 Google you.
@@ -911,6 +955,30 @@ Quantifiable case studies and testimonials is by an order of magnitude stronger 
 They might not need my cold calling service.
 
 But they definitely know someone who does.
+
+Another [banger](https://youtu.be/ZX4AODxZpDA?t=2684).
+
+From one high value client from another:
+
+> Who do you do for that? You are getting good results. Oh, this guy, I can connect you with him.
+
+That's all it takes.
+
+### Relationships with Clients
+
+Clients stay when they like you and see consistent effort.
+
+Narrate your actions, give weekly updates, and be transparent.
+
+> Every friday, [here is what happened this week, based on that here is what we are going to the next week](https://youtu.be/ZX4AODxZpDA?t=2955).
+
+This is a good experience.
+
+If you're silent—even while getting results—the client may leave for someone who simply promises more.
+
+But when clients feel connected, they remain loyal.
+
+They are not going to churn, just because they like you.
 
 ### Retention
 
@@ -957,6 +1025,26 @@ A Rolodex is an old-fashioned desktop organizational system, a contact list stor
 Daniel gave [an example of an asset](https://youtu.be/deAzlMzvhRU?t=549):
 
 > You now have a Roledex of people you can purchase ads from.
+
+### Sales
+
+[Banger.](https://youtu.be/ZX4AODxZpDA?t=1540)
+
+- There is a problem.
+
+- There is a solution the person wants.
+
+- There is a gap.
+
+- Your product is supposed to bridge the gap.
+
+### Sales Letter
+
+[Incredible](https://youtu.be/ZX4AODxZpDA?t=1834)
+
+Everything you put on the internet is a sales asset.
+
+How you make content that invokes direct action. Reverse Engineer.
 
 ### Sales Process
 
