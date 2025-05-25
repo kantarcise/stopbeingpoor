@@ -1606,3 +1606,232 @@ Build a system around it.
 Want help doing that? Go to clientascension.com.
 
 And subscribe to the channel if you found this useful. More breakdowns coming next.
+
+## 3 Steps to Get to $10-50k
+
+!!! tip
+
+    This is Video #41 on [Daniel's channel](https://www.youtube.com/@danielfazio).
+
+[How to Make $10,000 - $50,000/mo with Your Marketing Agency/SMMA/B2B Business (3 Steps)](https://www.youtube.com/watch?v=UShKMQPVN-8) - 22 May 2023
+
+Here is the [document on this video](https://gamma.app/docs/How-to-Make-10000-50000mo-with-Your-Marketing-AgencySMMAB2B-Bus-2k6btuut24nf1pl?mode=doc).
+
+### How to Make $10K–$50K/Month with a Marketing Agency
+
+If you're watching this, you're likely in one of these eight categories:
+
+* Feaster-famine months
+* Inconsistent client acquisition
+* Low-paying clients
+* High churn rate
+* Undefined niche and offer
+* Overwhelmed by sales, fulfillment, and lead gen
+* No systems or processes
+
+I've built multiple businesses across services, consulting, SaaS, and digital products that have done over $6M collectively.
+
+If you've made less than that, this video is worth your time.
+
+You can make systems to:
+
+- Achieve a High Level of Success & Stability
+
+- Differentiate Yourself
+
+- Charge More Money
+
+- Attract a Steady Flow of Leads
+
+- Build a Team & Process around Fulfillment Without Needing Tens of Thousands of Dollars
+
+- Have a Diverse Range of Clients
+
+- Keep Your Clients Longer
+
+- Not Sacrifice Your Life to Run a Successful Business
+
+Let’s walk through how to build a scalable, profitable marketing agency in three steps.
+
+### Step 1: Build an Irresistible Offer
+
+Too many people are trying to sell a shack for $100K when they should be offering a hillside mansion for the same price.
+
+Your offer should be a **no-brainer**.
+
+#### Key Components of an Irresistible Offer:
+
+1. **The Claim** – What specific **transformation** will you deliver?
+
+Current State → You → End State
+
+Sell the end state. Sell the Vacation.
+
+2. **Risk Reversal** – Remove as much risk as possible with:
+
+   * A guarantee
+   * A performance-based structure
+
+   This is tough as a beginner.
+
+    Questions to imply that people think you are risky to work with:
+
+    - What if you lose our money?
+
+    - What if you don't get the results you are promising?
+
+    - Who else you've worked with?
+
+    If you are getting these questions, what they see on the internet was not enough to make them confident.
+
+3. **Proof and Evidence** – Provide case studies, testimonials, outcomes.
+
+If you're early in business and don’t have case studies, your business is in the "pre-case study" phase.
+
+Your #1 job is to **produce evidence** that you can get results.
+
+[This is how you get people to give you money, by providing evidence that you can in fact get a return for them](https://youtu.be/UShKMQPVN-8?t=503)
+
+Your entire business should operate like a case study flywheel.
+
+#### The Case Study Flywheel:
+
+* Case study → gets client → gets results → becomes case study → gets more clients
+
+This dramatically reduces friction with every new prospect.
+
+### Step 2: Lead Generation Engine
+
+#### The 3 Types of Lead Generation:
+
+1. **Cold Outreach (Linear):**
+
+   * Direct correlation between volume and results
+   * Very cheap ($300/mo or less)
+   * Slightly time expensive
+   * Quick to see traction
+   * Limited scale
+
+2. **Inbound Content (Compounding):**
+
+   * Create content on Twitter, LinkedIn, YouTube, etc.
+   * This compounds to infinity
+   * Cheap and infinitely scalable
+   * Time intensive and slow at first, but exponential
+
+3. **Paid Ads (Linear):**
+
+   * Expensive, only worth doing after $50K/mo
+   * Requires cash and creative skill
+   * Scales infinitely if done right
+
+If you’re under $50K/month, **cold outreach and inbound** should be your entire focus.
+
+Ads will likely cost you more than they return until you’ve built a strong foundation.
+
+This is the primary focus at Client Ascension, and why we:
+
+1. Set up 10 domains for you & the backend tech 
+
+2. Give you the sending software
+
+3. Write your cold email scripts
+
+4. Build your lead lists
+
+5. Get you sending 3,000+ (good) cold emails per month
+
+6. Monitor campaigns with you
+
+7. Give you swipe files of best content
+
+8. Show you how to create your own & ideate infinite content
+
+9. Show you how to get leads & sales that come to you
+
+#### Proof Cold Outreach Works:
+
+* Clients have closed 5K, 30K, even 250K+ deals from cold emails
+
+* Multiple people getting 15–70 leads or 30 sales calls in a week
+
+We help set this up inside Client Ascension: from domain infrastructure, lead lists, sending tools, campaign scripts, and swipe files.
+
+### Step 3: Scalable Fulfillment
+
+The purpose of niching down is to **standardize fulfillment**.
+
+Each new client should follow a consistent SOP-driven path.
+
+As an example here is the CA process:
+
+<figure markdown="span">
+  ![CA Process](https://raw.githubusercontent.com/kantarcise/stopbeingpoor/refs/heads/main/docs/images/offers/ca_process.png)
+  <figcaption>CA Process</figcaption>
+</figure>
+
+#### Fulfillment as a System:
+
+Think of each client touchpoint as:
+
+* Onboarding
+* Offer crafting
+* Case study extraction
+* Lead gen setup
+* Cold email activation
+* Sales coaching
+* Content creation
+* Hiring & ops
+
+Each step should have its own SOP and deliverable. Your business becomes:
+
+* A course your team follows to deliver outcomes
+* A factory line of predictable client success
+
+You are basically building a course.
+
+Typically you will have: 
+
+- Lead Gen and Marketing
+
+- Sales
+
+- Fulfillment
+
+Each of these will have their SOP's.
+
+#### Example: Ad Agency SOP Chain
+
+* Step 1: Customer research
+* Step 2: Pain point extraction → script writing
+* Step 3: Script → UGC creator outreach
+* Step 4: Product delivery → ad filming
+* Step 5: Ad editing + ad manager upload
+* Step 6: Monitor & scale ad account
+
+Record Looms. Build SOPs. Train VAs. Replicate yourself.
+
+### Final Thoughts
+
+You win with systems and evidence.
+
+If you’re under $50K/month, your focus should be:
+
+* Irresistible offers
+* Cold + inbound lead gen
+* SOP-driven fulfillment
+
+If you want help implementing all of this, join **Client Ascension**.
+
+We’ll:
+
+* Help you craft your offer
+* Build your case study library
+* Write and launch your cold email systems
+* Review your sales calls
+* Build scalable content systems
+* Help you hire and manage your team
+
+There are dozens of client case studies—$30K, $50K, $100K months—from people who followed these exact steps.
+
+Hope to see you inside.

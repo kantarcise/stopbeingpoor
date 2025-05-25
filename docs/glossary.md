@@ -419,6 +419,14 @@ If you did just take the concerted effort of outreaching, thoughtfully and with 
 
 Follow up with them without being annoying.
 
+### Easy
+
+[Banger](https://youtu.be/--Wmg12tJi8?t=370)
+
+If you have never done it before it seems hard but.
+
+Getting any service business to 10K/month is the easiest thing ever.
+
 ### EBIDTA
 
 EBITDA stands for Earnings Before Interest, Taxes, Depreciation, and Amortization.
@@ -1084,6 +1092,26 @@ Here is how Nick elaborates:
 
 > Have valuable things to say and give away the sauce. Simply, have the sauce.
 
+### Screwdriver story
+
+[You need to buy a screwdriver](https://youtu.be/UShKMQPVN-8?t=541).
+
+Let's say there are 2 screwdrivers:
+
+- One for 12 dollars with 5000 reviews.
+
+- Other for 6 dollars with 4 reviews.
+
+99% of people are buying the 12 dollar one.
+
+No one even knows what could go wrong with a screwdriver.
+
+LOL.
+
+Just because 5000 people wrote reviews on the expensive screwdriver:
+
+You will still pay double to prevent the uncertainty that you don't even know exists.
+
 ### SDR
 
 A sales development representative (SDR) is a sales professional who manages all top-of-the-funnel activities in the sales cycle. 
@@ -1133,6 +1161,12 @@ This is what people care about in offers.
 Alex Hormozi said this.
 
 If you are running a sales team you have to show your testimonials to your sales teams, so they KNOW this works.
+
+### Time Horizons
+
+Success:
+
+> [People get success in direct proportion to the time horizons in which they operate.](https://youtu.be/jLO1ppb9e6U?t=450)
 
 ### Tonality
 

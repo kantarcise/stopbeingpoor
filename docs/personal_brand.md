@@ -906,7 +906,7 @@ You have to really precise on what the person has to do, basically train them as
 ### Signature Drinks Menu
 
 1. **Milky Moscow Mule**
-2. **Based Bourbon** → Old Fashioned (\$\$ = S)
+2. **Based Bourbon** → Old Fashioned ($\$ = S)
 3. **Stop Being Poor** → Macallan 12 on a cube
 4. **God’s Favorite** → Vodka soda
 5. **Paid in Full** → Tequila drink
@@ -3607,3 +3607,279 @@ Do the work, ask good questions, and iterate.
 Client Ascension offers more than 13 coaching calls per week across all essential business functions.
 
 If you're ready to go from zero to one, and then scale, it's built to guide you at each step.
+
+## Alex Tenorio Interview
+
+!!! tip
+
+    This is Video #39 on [Daniel's channel](https://www.youtube.com/@danielfazio).
+
+[From $0 to $20k/mo in 3 Months inside Client Ascension (How Alex Scaled his B2B Accounting Company)](https://www.youtube.com/watch?v=jLO1ppb9e6U) - 15 May 2023
+
+### Zero to $20K per Month with Fractional CFO Services
+
+**Daniel:** Yo what's up everybody, I got Alex Tenorio here—he's a member inside Client Ascension. What’s up brother, thanks for coming on. Could you share what you joined Client Ascension at, what revenue level, and where you're at now—and how long it took you?
+
+**Alex:**  I actually started at zero. I really needed help building and crafting a new offer. I’m a CPA and I do fractional CFO services for agencies and e-commerce owners. You, Daniel, helped me a lot just crafting the offer and actually changing it—that really springboarded everything.
+
+**Daniel:** Sweet. So where are you at now?
+
+**Alex:** Right now I’m doing about $20K a month. It’s the middle of May, and my goal is to hit $30K by the end of the month. I’ve got two or three deals that could close. So it’s been a bit of a whirlwind—but really cool. From $0 to $20K and trying to get to $50K by end of year.
+
+### The Latency Effect: When Results Take Time
+
+**Daniel:** We were just talking about this before recording. You said the things you did 2-3 months ago are just now bearing fruit. That’s huge—people often miss this. When you’re selling low-ticket stuff, results are immediate. But when you’re selling high-ticket to sophisticated business owners, it takes longer. So how do you not get discouraged during those 60 days of “nothing”?
+
+**Alex:** 100%. One of the most helpful things I picked up from your call was this idea of a “**latency effect.**” You’re pushing outbound messages consistently—but you won’t see results immediately. For me, it took about two months of cold email and automated Twitter DMs.
+
+I made it a point to reach out to 50–100 business owners daily. And around that two-month mark, things started to land. One client took 3–4 weeks to even respond—and ended up becoming one of my biggest clients.
+
+When you're getting started, the effort is super front-loaded. It reminds me of dropshipping, where I started.
+
+You do a lot of work upfront, and results come later. You either want it, or you don’t.
+
+### What’s Been Most Valuable Inside Client Ascension?
+
+**Daniel:** From your experience—what's been the most useful part of Client Ascension?
+
+**Alex:** Having dedicated experts for every part of the business. Sales, hiring, offer structure, copywriting, systems, operations—there’s someone for each piece.
+
+You're wearing a million hats when you start, and my team is now 7 people.
+
+Just having a centralized place to go for solutions has been a huge shortcut.
+
+### Long-Term Thinking and Scaling Smart
+
+**Daniel:** People get success in proportion to the time horizon they operate on. Some think they’ll send 8 emails and get an $8K/month client. But that’s not how it works. There’s lead time, you have to float costs, hire people, and build actual systems.
+
+**Alex:** Yeah. You talked about this in one of your calls—people think investing $2K in help reduces their margin by $2K. But that’s short-term thinking. Over time, that $2K allows you to scale, free up time, and move faster. It’s a force multiplier.
+
+People hit early success, but then realize how much work fulfillment is. You want long-term sustainability, not just quick wins.
+
+### Building a Real Business, Not Just Getting Clients
+
+**Daniel:** Some people say “I’ll send emails, get clients, done.” But it’s not like that. You’re building systems. Cold email becomes a system. Fulfillment becomes a system. You need ops behind it. Past $20–30K/month, you can’t do it solo.
+
+**Alex:** Exactly. You’re building an asset.
+
+A brand that people trust—not just a hustle.
+
+You eventually want to remove yourself from day-to-day ops. It’s chess, not checkers.
+
+You want things to break—that’s how you know you need to hire or fix systems. That’s when you’re growing.
+
+You’re building something real, not just doing everything yourself forever.
+
+### Leveraging the Right Community and Resources
+
+**Alex:** You want to surround yourself with people who’ve been through it.
+
+I’d rather get from $20K to $50K in 6 months than 18. Client Ascension helped shortcut that for me. Without it, I might’ve done it—but it would’ve taken much longer.
+
+### What Alex Does: Helping Founders With Financial Clarity
+
+**Daniel:** Anything you want to share before we wrap? I’ll drop your links in the description.
+
+**Alex:** Yeah—my company is called Stacks. We help agencies and e-com owners automate and streamline their financials.
+
+Most agency owners are running on one spreadsheet, with no clarity on profit per client, or cash flow. That’s where we come in.
+
+I also post a ton of free resources on my Twitter. And I just want to say—Client Ascension has been incredibly helpful.
+
+It’s been awesome to hang out with you, and meet everyone in the community.
+
+**Daniel:** Appreciate it, brother.
+
+## Calvin Interview
+
+!!! tip
+
+    This is Video #40 on [Daniel's channel](https://www.youtube.com/@danielfazio).
+
+[How Calvin went from $4k/mo to $33,000/mo in 6 Months inside Client Ascension (Video Agency smma)](https://www.youtube.com/watch?v=--Wmg12tJi8) - 17 May 2023
+
+### From 4K/Month to 33K/Month: Calvin’s Journey in Client Ascension
+
+**Daniel:** Calvin, my guy—thank you for coming on. You’ve been inside Client Ascension for about six months now. Could you share what revenue level you were at when you joined and where you’re at today?
+
+**Calvin:** Yo Daniel, thanks for having me. When I joined, I was doing $4K/month. My agency was basically going nowhere. Now I’m at around $30K–$33K/month, and hopefully I’ll hit $35K this month. It’s been a great journey—super happy with it.
+
+### Scaling a Post-Production Agency by Dropping Bad Clients
+
+**Daniel:** For context, your agency is focused on video content, right?
+
+**Calvin:** Yeah, it’s a **post-production** agency. We do video editing and graphic design. Companies outsource their creative production to us instead of hiring in-house or dealing with unreliable freelancers.
+
+**Daniel:** What would you say is the core difference between running a $4K/month business and a $33K/month business?
+
+**Calvin:** Number one lesson: **don’t work with poor clients.** I was doing $4K/month with **25 clients**—it was awful. Mostly local clients in Indonesia paying dirt cheap rates. I dropped 90% of them.
+
+Then I shifted mindset. I had already taken Cold Email Mastery from you, and now with Client Ascension, I had the framework to start going after high-ticket clients abroad—in the U.S., Europe, everywhere.
+
+Lead generation and sales were the two biggest transformations for me.
+
+Before, I was letting the prospect run the sales call.
+
+Now I control the process, and I’m closing significantly higher-ticket deals with way fewer clients.
+
+### Rebuilding the Business Around Systems and Volume
+
+**Daniel:** So now you're making 10x the money with a tenth of the clients. That’s a completely different operational model.
+
+**Calvin:** Exactly. I get it now. It’s all systems. I hired an SDR and taught her the exact same process I used. Now it’s just **volume**.
+
+I remember being stuck at $19–$20K, and I messaged you. You said, *“Bro, you just need to do more.”* That’s what I did—and broke the plateau.
+
+**Daniel:** And it’s not just “do more”—it’s how you do more. For example, instead of doing every loom yourself, you systematize it. You train an SDR, they handle it.
+
+Now you have a **mechanized process** for lead generation, labor supporting it, and systematized client fulfillment. Does it feel like a real business now?
+
+**Calvin:** Yeah, 100%. Probably not applicable to everyone, but I’m in a third-world country—so I now have 23 people on staff.
+
+I don’t do fulfillment anymore. I’ll check in with clients occasionally for relationship-building, but it’s all mechanized.
+
+I still take sales calls to keep a pulse on lead quality, but everything else? It runs.
+
+### Hitting the 30K Barrier and the Next Scaling Challenge
+
+**Daniel:** Getting from $10K to $30K/month forces you into "big boy" moves—like hiring.
+
+Going from $0 to $10K is mostly just grind and an offer.
+
+But $10K to $30K means you need **team** and **systems**.
+
+Every time you double, you have to rework how you think and operate.
+
+**Calvin:** Totally. Now I’m thinking more about **back-end operations**—team management, goal-setting, accountability.
+
+I’ve got all these people now, and you can’t micromanage. You have to lead. That’s my new challenge.
+
+But yeah, it's all moving toward building something that can scale to $100K/month.
+
+### What Advice Would You Give a 2K–5K/Month Agency Owner?
+
+**Daniel:** If someone’s doing $2K–$5K/month right now, what’s the one piece of advice you’d give them to break through?
+
+**Calvin:** If you’re on Money Twitter or already learning the right stuff, and you’re still not at $10K/month—either you **haven’t done the work**, or **you’ve done it but time hasn’t caught up yet**.
+
+You’re not stupid. You just haven’t gone hard enough or long enough. It’s really that simple.
+
+For me, the number one thing is **volume**.
+
+If I’m stuck, it’s always because I didn’t do enough.
+
+When you focus on inputs—outreach, effort, quality—the results come. They always do.
+
+### The Truth About the Work Required to Scale
+
+**Daniel:** Let’s make this clear: a lot of people are sold a dream that you can make $20K/month doing nothing. That’s not true.
+
+What I see from you is that you show up every single day and work hard. You’re doing the **real work**—the kind that’s hard, boring, persistent, and often invisible.
+
+**Calvin:** Yeah, it’s a constant effort. And it feels like **nothing is happening** for a while. Then boom—you win all at once.
+
+Also, people only talk about **client acquisition**.
+
+But what about **retention**? If you go from $20K to $5K the next month, you didn’t really win.
+
+You need systems in place to keep clients. Especially when you’re hiring.
+
+If the clients leave and you’ve got people on payroll? Nightmare. Retention matters.
+
+## Stephen Interview
+
+!!! tip
+
+    This is Video #42 on [Daniel's channel](https://www.youtube.com/@danielfazio).
+
+[How Stephen Got to $25k/mo With his Video Marketing Agency in 4 Months inside Client Ascension](https://www.youtube.com/watch?v=AWVBiGRDRVw) - 24 May 2023
+
+### Interview with Stephen - Client Ascension Member
+
+**Daniel:** Stephen, what's up brother? Thank you for coming on. You've been in Client Ascension for about four months now. Could you share with everyone what revenue level you joined at and where you are now?
+
+**Stephen:** Sure. When I joined Client Ascension in December, the last two months before that I'd done nothing—literally zero. Then last month, I hit 25K.
+
+**Daniel:** So you were doing sporadic deals before, right? Mostly video editing but inconsistent?
+
+**Stephen:** 100%. I was relying on luck for lead gen. I couldn’t consistently book meetings or close deals.
+
+I’d hop on maybe 1-3 calls a week. I was desperate to close, and that desperation just tanked everything.
+
+It was all very sporadic.
+
+### The Shift to Consistency and Systems
+
+**Daniel:** What was the biggest change since joining?
+
+**Stephen:** Consistency. Nailing lead gen changed everything.
+
+Booking 15-20 calls a week changes your entire sales game. It gives you confidence, and you don't feel desperate.
+
+**Daniel:** If you could give a piece of advice to the version of yourself from four months ago, what would you say?
+
+**Stephen:** Consistency and volume.
+
+I used to jump between cold email, Twitter DMs, LinkedIn—abandoning anything that didn’t work in a week.
+
+Now, I understand momentum. You need scale and to stick with it.
+
+**Daniel:** What stopped you from being consistent before?
+
+**Stephen:** I didn’t know what success looked like.
+
+When you're alone, if something doesn’t work in a week, you think it’s your fault.
+
+In Client Ascension, you're learning from people who have done it. That lets you trust the process and stick with it.
+
+### Booking 30+ Calls a Week
+
+**Daniel:** You've posted wins in the group. One week, you booked 30 calls, right?
+
+**Stephen:** Yeah, 32 calls that week. Most weeks now it's between 12 and 20 consistently.
+
+**Daniel:** Mostly from cold email?
+
+**Stephen:** About 80% cold email, rest from Twitter.
+
+**Daniel:** Did Christian help with scripts?
+
+**Stephen:** Yeah, Christian’s been amazing. He helped write initial scripts and niche-targeted campaigns.
+
+### Leveraging Events for Targeted Campaigns
+
+**Daniel:** You got a great list from Mickey, right?
+
+**Stephen:** Yes! He was attending an event in my niche. That inspired me to reach out to others who went.
+
+Created a super-targeted campaign, and it crushed. Now I replicate the strategy for similar events.
+
+### From Freelancer to Business Owner
+
+**Daniel:** How does your business look now vs. before in terms of fulfillment and operations?
+
+**Stephen:** Night and day. Before, it was all ad hoc.
+
+I’d put all my energy into signing the client, then neglect fulfillment.
+
+Now, I’ve built a back end, deliver consistently, and created case studies.
+
+### The Power of Social Proof
+
+**Daniel:** Once you had social proof, everything changed, right?
+
+**Stephen:** 100%. Even just saying I worked with big names in my niche helped.
+
+Prospects recognize those names and get curious. That alone boosts conversions.
+
+**Daniel:** It’s so true. More social proof = easier client acquisition. People follow the herd.
+
+**Stephen:** Yep. Even adding more client names to my cold emails increased responses. The more I list, the better it works.
+
+### Final Advice
+
+**Daniel:** If you had one piece of advice for someone stuck in your old situation, what would it be?
+
+**Stephen:** Focus on consistent inputs. Even if no one responds, keep showing up and doing the work daily. The compound effect will kick in.
+
+**Daniel:** Appreciate you, brother. I’ll put all your links in the description. Anyone who wants videos—go hit up Stephen.
