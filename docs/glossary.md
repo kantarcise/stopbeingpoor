@@ -403,6 +403,10 @@ Daniel talks [about this](https://youtu.be/NJhjg9QLvcI?t=1126):
 
 > Exactly. People assume “business” = money. But local businesses often make nothing. Go meet the owner—it’s not what you expect.
 
+### Die Trying
+
+[This has to work or I’ll die trying](https://youtu.be/nYfdgxeNJ9I?t=611).
+
 ### Dysfunctional Approach - Do NOT do this
 
 Someone reached Daniel for youtube stuff.
@@ -640,6 +644,14 @@ Problems:
 - Not hiring anyone.
 - Hiring the wrong people.
 
+### Human Mental Bandwidth
+
+[You need to send more cold emails.](https://youtu.be/Upv4LH3z1BI?t=785)
+
+You need to produce content on the internet and occupying more human mental bandwidth by producing content out on to the ether.
+
+And getting people to watch it.
+
 ### Internal VSL
 
 [Banger video](https://youtu.be/NJhjg9QLvcI?t=440).
@@ -699,6 +711,12 @@ Just look at the socio-economics distribution of the population.
 Middle class is very small. You cannot charge middle class.
 
 A lot of people don't have any money. A really small amount of people have all the money.
+
+### Marketing
+
+You don't just close the fire hydrant.
+
+[Banger story.](https://youtu.be/Upv4LH3z1BI?t=587)
 
 ### Market Cycle
 

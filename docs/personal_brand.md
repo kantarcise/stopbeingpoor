@@ -495,14 +495,14 @@ Find the big idea and reword it.
 Daniel told you can pause the video and take screenshots of it.
 
 <figure markdown="span">
-  ![Engagement Tweets 1](https://raw.githubusercontent.com/kantarcise/stopbeingpoor/refs/heads/main/docs/images/offers/engagement_tweets_one.png)
+  ![Engagement Tweets 1](https://raw.githubusercontent.com/kantarcise/stopbeingpoor/refs/heads/main/docs/images/personal_brand/engagement_tweets_one.png)
   <figcaption>Engagement Tweets 1</figcaption>
 </figure>
 
 You just find the **big idea** of the tweet, and reword it.
 
 <figure markdown="span">
-  ![Engagement Tweets 2](https://raw.githubusercontent.com/kantarcise/stopbeingpoor/refs/heads/main/docs/images/offers/engagement_tweets_two.png)
+  ![Engagement Tweets 2](https://raw.githubusercontent.com/kantarcise/stopbeingpoor/refs/heads/main/docs/images/personal_brand/engagement_tweets_two.png)
   <figcaption>Engagement Tweets 2</figcaption>
 </figure>
 
@@ -511,7 +511,7 @@ You just find the **big idea** of the tweet, and reword it.
 Don't ever copy people. Think foy 
 
 <figure markdown="span">
-  ![Engagement Tweets 3](https://raw.githubusercontent.com/kantarcise/stopbeingpoor/refs/heads/main/docs/images/offers/engagement_tweets_three.png)
+  ![Engagement Tweets 3](https://raw.githubusercontent.com/kantarcise/stopbeingpoor/refs/heads/main/docs/images/personal_brand/engagement_tweets_three.png)
   <figcaption>Engagement Tweets 3 </figcaption>
 </figure>
 
@@ -530,28 +530,28 @@ Can run these tweets as ads to your own followers.
 Here are some screenshots to get the ideas.
 
 <figure markdown="span">
-  ![Sales Tweet 1](https://raw.githubusercontent.com/kantarcise/stopbeingpoor/refs/heads/main/docs/images/offers/engagement_tweets_three.png)
+  ![Sales Tweet 1](https://raw.githubusercontent.com/kantarcise/stopbeingpoor/refs/heads/main/docs/images/personal_brand/engagement_tweets_three.png)
   <figcaption>Sales Tweet 1 </figcaption>
 </figure>
 
 Straight up selling.
 
 <figure markdown="span">
-  ![Sales Tweet 2](https://raw.githubusercontent.com/kantarcise/stopbeingpoor/refs/heads/main/docs/images/offers/engagement_tweets_three.png)
+  ![Sales Tweet 2](https://raw.githubusercontent.com/kantarcise/stopbeingpoor/refs/heads/main/docs/images/personal_brand/engagement_tweets_three.png)
   <figcaption>Sales Tweet 2 </figcaption>
 </figure>
 
 With claim, as expected.
 
 <figure markdown="span">
-  ![Sales Tweet 3](https://raw.githubusercontent.com/kantarcise/stopbeingpoor/refs/heads/main/docs/images/offers/engagement_tweets_three.png)
+  ![Sales Tweet 3](https://raw.githubusercontent.com/kantarcise/stopbeingpoor/refs/heads/main/docs/images/personal_brand/engagement_tweets_three.png)
   <figcaption>Sales Tweet 3 </figcaption>
 </figure>
 
 Claim wording is critical.
 
 <figure markdown="span">
-  ![Sales Tweet 4](https://raw.githubusercontent.com/kantarcise/stopbeingpoor/refs/heads/main/docs/images/offers/engagement_tweets_three.png)
+  ![Sales Tweet 4](https://raw.githubusercontent.com/kantarcise/stopbeingpoor/refs/heads/main/docs/images/personal_brand/engagement_tweets_three.png)
   <figcaption>Sales Tweet 4 </figcaption>
 </figure>
 
@@ -571,7 +571,7 @@ You NEED to learn how headlines are written, and Daniel recommends the book by [
 See an example:
 
 <figure markdown="span">
-  ![Thread Tweet 1](https://raw.githubusercontent.com/kantarcise/stopbeingpoor/refs/heads/main/docs/images/offers/thread_tweet_one.png)
+  ![Thread Tweet 1](https://raw.githubusercontent.com/kantarcise/stopbeingpoor/refs/heads/main/docs/images/personal_brand/thread_tweet_one.png)
   <figcaption>Thread Tweet 1 </figcaption>
 </figure>
 
@@ -906,7 +906,7 @@ You have to really precise on what the person has to do, basically train them as
 ### Signature Drinks Menu
 
 1. **Milky Moscow Mule**
-2. **Based Bourbon** → Old Fashioned ($\$ = S)
+2. **Based Bourbon** → Old Fashioned ($$ = S)
 3. **Stop Being Poor** → Macallan 12 on a cube
 4. **God’s Favorite** → Vodka soda
 5. **Paid in Full** → Tequila drink
@@ -960,7 +960,7 @@ The comradery.
 
 [These 3 Things Took Our Business to $220k/mo](https://www.youtube.com/watch?v=8KDXT_shpwc) - 2 November 2022
 
-### Keynote Theme: Scale to \$200K/Month
+### Keynote Theme: Scale to $200K/Month
 
 **Main Concept:**
 
@@ -979,7 +979,7 @@ The comradery.
 * Example: changing button color or landing page style
 
 <figure markdown="span">
-  ![Force Multipliers](https://raw.githubusercontent.com/kantarcise/stopbeingpoor/refs/heads/main/docs/images/offers/force_multipliers.png)
+  ![Force Multipliers](https://raw.githubusercontent.com/kantarcise/stopbeingpoor/refs/heads/main/docs/images/personal_brand/force_multipliers.png)
   <figcaption>Force Multipliers</figcaption>
 </figure>
 
@@ -987,7 +987,7 @@ The big arrows are force multipliers, the small ones are minor improvements.
 
 You cannot grow your business without using force multipliers.
 
-### The Three Force Multipliers That Took Us From \$68K to \$220K in 3 Months
+### The Three Force Multipliers That Took Us From $68K to $220K in 3 Months
 
 #### 1. **Content: More of It**
 
@@ -1803,7 +1803,7 @@ Our system is called NUIC: New, Unique, Interesting, Controversial. Content that
 
 **Colin:**
 
-* Stuck around \$30K/month through most of 2021
+* Stuck around $30K/month through most of 2021
 * Left my Google Ads job at Solutions 8
 * Went all in → *stayed consistent*
 * Now hitting $100K/month
@@ -2155,7 +2155,7 @@ This was one of the best videos.
 
 Here’s your clean, structured version of the transcript — properly formatted using `###` headings, **no timestamps**, and with **Daniel as the host**:
 
-### From Zero to \$20K/Month in Six Months – Meet Connor
+### From Zero to $20K/Month in Six Months – Meet Connor
 
 **Daniel:** What's up everybody — I’ve got Connor here. Connor, how you doing?
 
@@ -2173,7 +2173,7 @@ Here’s your clean, structured version of the transcript — properly formatted
 
 We don’t do lead-facing work like content or outbound outreach — we build the systems, templates, and automations that help teams execute more effectively.
 
-### From \$0 to Multi-Six-Figures in Half a Year
+### From $0 to Multi-Six-Figures in Half a Year
 
 **Daniel:** So you signed a $7K client, and now you’re doing $20K/month. That’s all from working with high-quality clients. Over six months, you’ve probably done somewhere around a quarter of a million dollars?
 
@@ -2990,7 +2990,7 @@ We birthed some of the greatest content from this: 60 pieces of short-form conte
 
 This is a more intimate event, way different from what we did last October. It’s inspired by what Gabe and Joey did in Nashville—smaller group, deeper discussions. You can look each of us in the eye, ask what’s working, what’s not. We want a real town hall.
 
-We’ll start with 15–30 minutes of riffing—probably get a Daniel rant in there—and then we’ll go into Q\&A. Some of your questions, plus ones submitted via Slack. Let’s rip, and then we’ll go smoke cigars at Grand Cathedral.
+We’ll start with 15–30 minutes of riffing—probably get a Daniel rant in there—and then we’ll go into Q&A. Some of your questions, plus ones submitted via Slack. Let’s rip, and then we’ll go smoke cigars at Grand Cathedral.
 
 ### Anchoring Offers
 
@@ -3883,3 +3883,294 @@ Prospects recognize those names and get curious. That alone boosts conversions.
 **Stephen:** Focus on consistent inputs. Even if no one responds, keep showing up and doing the work daily. The compound effect will kick in.
 
 **Daniel:** Appreciate you, brother. I’ll put all your links in the description. Anyone who wants videos—go hit up Stephen.
+
+## Jeff Park Interview
+
+!!! tip
+
+    This is Video #43 on [Daniel's channel](https://www.youtube.com/@danielfazio).
+
+[CRO Agency Hits $28k/mo in 4 Months inside Client Ascension using Twitter & Cold Email (Jeff Park)](https://www.youtube.com/watch?v=nYfdgxeNJ9I) - 25 May 2023
+
+### Interview with Jeff Park – From $3K to $29K/Month in Four Weeks
+
+**Host:** What's up everybody, got Jeff Park here in Client Ascension. Brother, how we doing?
+
+**Jeff:** What's going on bro, thank you for having me. I'm super grateful.
+
+**Host:** Could you share with everyone what revenue level you were at when you joined, and where you are now?
+
+**Jeff:** Yeah sure, so I joined CA back in mid-January. That was actually my lowest month — I was at around $3K. In the last four weeks, I've hit about $28K to $29K.
+
+**Host:** Nice. So before you joined, was it one-off projects here and there — not really a predictable system behind it?
+
+**Jeff:** Absolutely. Before it was a mess, not gonna lie. I was testing a bunch of offers that didn’t work. Just scattered motion. The number one thing I got from CA was direction. Being able to ask super personalized questions to different coaches, getting direct answers, implementing it, and cycling through that. That’s been huge.
+
+### Lead gen stuff
+
+**Host:** You're selling conversion rate optimization and landing pages — what are you doing for lead gen?
+
+**Jeff:** Right now what's been working is Twitter.
+
+A lot of inbounds, referrals from people in CA, and cold email.
+
+I network with people who offer complementary services like email marketing or Facebook ads, and pitch to their clients.
+
+**Host:** I remember when you joined, we went through your Twitter content. I said, "Post content like this."
+
+You disappeared for a bit, then came back consistent — and clearly, it worked.
+
+**Jeff:** Yeah, 100%. It took time for me to actually design and plan content, but once I scheduled things out and stayed consistent, things skyrocketed.
+
+### Offer Angle
+
+**Host:** And we worked on the way you presented your offer, right?
+
+**Jeff:** Yeah, even before CA and a month in, I didn’t have a dialed-in offer. After refining that, selling became much easier.
+
+### Sales Process
+
+**Host:** How’s your sales process now? CRM, VSL, all that?
+
+**Jeff:** Before, I had nothing. No CRM, no call recordings, nothing. Now I’ve built it all.
+
+Having coaches and even just being in the weekly calls helped immensely. My close rate went from 5% to 30–40%.
+
+**Host:** I think a lot of people underestimate the importance of a CRM.
+
+If you’re not tracking conversations, you’ll forget they existed.
+
+**Jeff:** Exactly. That was one thing that discouraged me — I thought you had to close strangers in one call.
+
+But it’s a cycle. Most sales don’t close on one call. Now I see that and I structure accordingly.
+
+### Advice to Old Version
+
+**Host:** If you had advice for the version of you from six months ago, what would it be?
+
+**Jeff:** Couple things:
+
+1. Sell something you're actually good at — don’t follow trends. I was trying to sell email marketing and Facebook ads without knowing anything about them. I’m good at designing pages — I leaned into that.
+
+2. Be obsessed. I used to feel discouraged and didn’t work as hard. Once I [shifted to a mindset](https://youtu.be/nYfdgxeNJ9I?t=603) of, "**This has to work or I’ll die trying**" everything started picking up.
+
+**Host:** That mindset shift is everything.
+
+My buddy Grant tweeted something recently — unsuccessful people want to be spoon-fed, but successful people hunt.
+
+**Jeff:** Yes, 100%. Once you adopt the mentality of "I have to find food or I’ll starve," your actions change.
+
+You’re not counting DMs anymore, you’re just in a frenzy trying to make it work.
+
+**Host:** Thank you so much for coming on, brother. I’ll leave links to all your stuff in the description.
+
+Anyone watching — if you want conversion rate optimization or landing pages done, Jeff is your guy.
+
+**Jeff:** Thank you, man.
+
+## 8 Things Daniel Learned From Agency Owners
+
+!!! tip
+
+    This is Video #44 on [Daniel's channel](https://www.youtube.com/@danielfazio).
+
+[8 Things I Learned from 7 Figure Agency Owners](https://www.youtube.com/watch?v=Upv4LH3z1BI) - 29 May 2023
+
+This is the [documentation used in this video](https://gamma.app/docs/8-Things-I-Learned-from-7-Figure-Agency-Owners-p9oat1sm0a16x15?mode=doc).
+
+### Intro
+
+Supple Ads today we're going to talk about eight things I learned from seven-figure agency owners. These are all my clients inside Client Ascension.
+
+If you want to get to this level at some point, pay attention and consider joining.
+
+We’ll cover:
+
+* Time it took them to reach 7 figures
+* What they’re selling
+* Who their clients are
+* How they convert
+* Their offers
+* How they market
+* How they sell
+
+### It Took 1.5 Years to Hit $83K/Month
+
+On average, it took 1.5 years to hit $83K/month (or $1M/year) **in the current business**.
+
+Most had been in business or selling things for about 3 years total before that.
+
+Many ran 2–4 failed businesses before the one that worked.
+
+### They Sell Revenue-Generating Services
+
+All of them are marketing agencies, consulting firms, or service-based businesses.
+
+Even if their service isn’t directly revenue-generating (like video editing), they **position it** as if it is.
+
+Example:
+
+> A video editor doesn’t sell videos—they sell more customer acquisition through better videos.
+
+If it saves time, it saves money. Always positioned as ROI-positive.
+
+### Their Clients Make ~$1M/Year
+
+They **only work with winning businesses**.
+
+Client revenue typically ranges from $50K to $500K/month.
+
+If you’re working with failing or unstable businesses, you can’t get them results.
+
+> [You can’t save people](https://youtu.be/Upv4LH3z1BI?t=192). You can only help winners win more.
+
+### They All Have 10+ Case Studies
+
+Your business **grows in direct proportion to your social proof**.
+
+Every single new case study:
+
+* Increases your perceived competence
+* Makes signing the next client easier
+
+There’s a compounding flywheel: More case studies → More clients → More case studies.
+
+> “Nothing happens for so long, and then you win all at once.”
+
+Every human on the planet [wants to put $1 in and get $2 out](https://youtu.be/Upv4LH3z1BI?t=301) - and if you can't get clients, it's because the prospect doesn't believe you are capable of doing that.
+
+### Their Offer Evolved 5–10x
+
+What they **thought** they were selling (and to whom) morphed **5 to 10 times**.
+
+It’s not that they switched services—rather:
+
+* Their **positioning**
+* Their **pricing**
+* Their **ideal client**
+
+...all evolved based on real client feedback and bad-fit experiences.
+
+> Their main value proposition, pricing structure, and person they were selling to morphed over time as they worked with more and more people.
+
+Most common changes:
+
+* Raising prices
+* Niching tighter
+* Making the offer outcome-based
+
+#### Two Paths After $50K/Month
+
+<figure markdown="span">
+  ![2 Paths](https://raw.githubusercontent.com/kantarcise/stopbeingpoor/refs/heads/main/docs/images/personal_brand/two_paths_after_50.png)
+  <figcaption>2 Paths</figcaption>
+</figure>
+
+Once they hit around $50K/month, most went one of two directions:
+
+**1. Revenue Share / Partnering**
+
+* Very selective with clients
+* Make most of their money via % performance
+* Scale by deepening existing client results
+
+**2. Productized Service**
+
+* Same deliverable every time
+* Scale through volume
+* Add peripheral services (e.g., email + ads + landing pages)
+
+These two can **stack**—you can down-sell or up-sell either way.
+
+### 90% of Their Early Clients Came from Outbound Marketing
+
+Early on, these founders had:
+
+* No money for ads
+* No network
+* No audience
+
+So they got clients through **cold outreach** (Outbound Marketing == cold email, DMs, calls).
+
+> That’s why outbound is **step one** inside Client Ascension.
+> It works. It’s cheap. And you control it.
+
+### Their Client Acquisition Mix at Scale
+
+At around $50K/month, here’s how client acquisition typically looks:
+
+* **10% Ads**
+* **45% Outbound** (cold email, DMs)
+* **45% Inbound** (content + referrals)
+
+This mix is why Ascension focuses on outbound + inbound. You don’t need big ad budgets, you just need:
+
+* A lead engine (outbound)
+* A brand engine (content)
+
+### They Never Turn Off Marketing
+
+Marketing is like a fire hydrant. When it’s finally flowing, **don’t shut it off**.
+
+What happens if you do:
+
+* You lose momentum
+* You stop getting clients
+* It takes months to rebuild
+
+Instead of turning it off, build a **pool** to hold it:
+
+* Hire people
+* Build systems
+* Create infrastructure
+
+Never stop client acquisition. Ever.
+
+### Their Clients Were in Funnel for 4–6 Months +
+
+This is where almost every single person below the $50k/mo mark screws up.
+
+They have absolutely no sales systems in place and lose out on 80% of the deals they could otherwise have because their lack thereof.
+
+**Conversion Cycles:**
+
+* From first exposure to buying: **30 to 180 days**
+
+**Sales Cycles:**
+
+* From first call to signing: **30 to 60 days**
+
+Most of you mess up here:
+
+* You expect instant results from cold outreach
+* You don’t follow up
+* You have no system to nurture leads
+
+> You quit before the compounding kicks in.
+
+Follow-up and consistency are everything. Send more cold emails. More content. Stay in front of people until they buy.
+
+> You cold email someone maybe they say "Yeah I'm interested in the call" You send them a calendly link they don't get to it because they forgot.
+
+>  You just like write it off ***"they weren't interested"*** - ***"they're lying"***
+
+> No. You need to follow up you need to have a system in place.
+
+> All of you never get to this 50k a month mark because you don't facilitate the pushing of people down your funnel through content and follow-up.
+
+> %90 of you are just not doing this. It's insane.
+
+### Final Advice
+
+If you’re serious:
+
+* Focus on lead generation and content
+* Build proof (case studies)
+* Don’t turn off your system
+* Give prospects time to convert
+* Evolve your offer based on feedback
+* Help winners win more
+
+And if you want help with all of this, you already know where to go. Join **Client Ascension**.
+
+I love you. Bye.
