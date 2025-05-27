@@ -81,6 +81,12 @@ And the tool automatically sends a DM to people who actually does that thing, wh
 
 If you are smart, this could be an opt in, you get your email list going.
 
+### Brand
+
+A brand is [unspoken authority](https://youtu.be/UHt4J5Rzlm4?t=494).
+
+It's so much powerful when you have a brand.
+
 ### Branding
 
 - Are you positioning yourself as the expert on the X topic?
@@ -113,7 +119,7 @@ David [explains here.](https://youtu.be/BRS-qlwoCQI?t=1138)
 
 Another banger from [this long form](https://youtu.be/G5bpHxz5QIQ?t=1263):
 
-> You did not any results unless they are clearly and vividly displayed on the internet.
+> You did not get any results unless they are clearly and vividly displayed on the internet.
 
 > Your landing page should reflect what you’ve done. If it’s not on the internet, it didn’t happen.
 
@@ -170,8 +176,6 @@ Someone makes a 1M-5M$/year, he pays you 10k he is really cool with getting 20.
 He is shocked if you make him 5x.
 
 Because the previous guys he hired did not do what they said they are going to do.
-
-He 
 
 ### Cold Calls
 
@@ -652,6 +656,10 @@ You need to produce content on the internet and occupying more human mental band
 
 And getting people to watch it.
 
+### ICP - Ideal Customer Profile
+
+An ideal customer profile (ICP) describes an ideal customer for a business based on common attributes like demographics, behavior patterns, needs, and pain points.
+
 ### Internal VSL
 
 [Banger video](https://youtu.be/NJhjg9QLvcI?t=440).
@@ -845,6 +853,14 @@ There are ways to do this. You do not have to be the expert and simply say, "I d
 Offer crafting, just change the wording LOL.
 
 [Tapioca in Portuguese - Cassava Pearls](https://youtu.be/Joz4BiCstzw?t=969)
+
+Another banger, Daniel explaining [offers calls](https://youtu.be/UHt4J5Rzlm4?t=540):
+
+3 components:
+
+- Claim - 10%
+- Risk Reversal - 10%
+- Social Proof - 80% (Twitter, Youtube, Linkedin)
 
 ### Operations
 
@@ -1064,6 +1080,26 @@ Daniel gave [an example of an asset](https://youtu.be/deAzlMzvhRU?t=549):
 
 - Your product is supposed to bridge the gap.
 
+### Sales Assets
+
+[Banger video.](https://youtu.be/VP47i9kdyR0?t=363)
+
+> Outreach works when you exist on the internet.
+
+- You don't have sales assets
+
+- You don't have a VSL
+
+- You don't have a good value proposition on your page
+
+- All the evidence that you do have is not properly presented on there
+
+- You don't have a risk reversal
+
+- You don't understand the market sophistication level your offer is at.
+
+- You don't know the claims that the competitors are making.
+
 ### Sales Letter
 
 [Incredible](https://youtu.be/ZX4AODxZpDA?t=1834)
@@ -1203,6 +1239,14 @@ You want referrals, you need to be top of mind.
 To be top of mind, you post content on the internet.
 
 It's that simple.
+
+### Twitter
+
+[Banger video](https://youtu.be/UHt4J5Rzlm4?t=883).
+
+Twitter is the easiest social media to grow and sell on.
+
+All you do is narrate what you’re doing and publish sales assets.
 
 ### UGC
 

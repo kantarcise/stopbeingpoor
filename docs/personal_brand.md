@@ -4174,3 +4174,462 @@ If you’re serious:
 And if you want help with all of this, you already know where to go. Join **Client Ascension**.
 
 I love you. Bye.
+
+## Nick Interview
+
+!!! tip
+
+    This is Video #45 on [Daniel's channel](https://www.youtube.com/@danielfazio).
+
+[How Nick Launched a New Offer & Hit $100k in 4 Months inside Client Ascension](https://www.youtube.com/watch?v=UHt4J5Rzlm4) - 30 May 2023
+
+### Nick Verge on Making $100K+ in Client Ascension
+
+What's up everybody, I got [Nick Verge](https://x.com/NicholasVerge) here.
+
+He's inside Client Ascension, and we're diving into how much he's made and what changes made the difference.
+
+### Shifting Offers and Finding Leverage
+
+The two main things I got the most value from in Client Ascension were:
+
+1. **Changing how I work with B2B clients**
+2. **Realizing I can offer a “done-with-you” service using my personal brand**
+
+I used to only do “done-for-you” services, but once I saw how powerful my brand was, I shifted. It took time to build out the offer and system, but it was worth it.
+
+### Revenue Breakdown: $100K+ So Far
+
+Since joining Client Ascension about 4–5 months ago:
+
+* **B2B (Agency work):** Around $40K–$50K
+* **B2C (Coaching offer):** Around $65K–$70K
+* **Total:** ~$100K+
+
+It's not life-changing money yet, but it's great progress. And it's early in the year—plenty of room to grow.
+
+### Business Growth Is Non-Linear
+
+Growth isn’t linear. One month you might do $50K, the next month $10K.
+
+That’s just how it works.
+
+You hang around certain revenue brackets for a while—0–10K, [10K–50K](https://youtu.be/UHt4J5Rzlm4?t=143)—and then you break through due to compounding from outreach and branding.
+
+You have to think in **quarters**, not weeks.
+
+### Systems = Speed
+
+The biggest hidden benefit of Client Ascension is **speed**.
+
+I built out systems for both the B2B agency and B2C coaching sides.
+
+The difference now is:
+
+* No friction onboarding coaching students
+* Systems that automate attraction, delivery, and experience
+
+> “Systems are highways—without roads, everything takes longer.”
+
+Now, I have a full coaching program with a workshop, delivery system, and live coaching.
+
+It’s clean, efficient, and scalable.
+
+### Lead Gen: Cold Email → Personal Brand
+
+I used to rely on referrals and cold email. It worked, but wasn’t scalable.
+
+Once I started building my **personal brand**, especially on Twitter:
+
+* I booked more calls
+* Leads came to me
+* I had inbound traffic—free traffic
+
+The difference between me now and before is that I show up consistently on the right calls (Twitter, branding, offer strategy), and that’s exactly [where my results are](https://youtu.be/UHt4J5Rzlm4?t=367) coming from.
+
+### Who Gets Results in Client Ascension?
+
+Everyone *can* get results. But not everyone *will*.
+
+Here's what separates the two:
+
+* People who **take action**
+* People who **aren’t afraid to show their face or speak online**
+* People who **commit to learning and building proof**
+
+Too many are scared of showing up on camera or putting themselves out there.
+
+That fear holds them back from building one of the most valuable assets—**a brand**.
+
+### Why Personal Branding Wins
+
+A personal brand:
+
+* Gives you unspoken authority
+* Makes people value what you say more
+* Makes sales easier
+
+Even if two people offer the exact same thing, the one with social proof—followers, engagement, case studies—**wins 100% of the time**.
+
+### Everyone Starts With Outbound
+
+Every seven-figure person in Client Ascension started the same:
+
+* **Cold email**
+* **Cold DMs**
+* **Referrals**
+
+Eventually, outbound plateaus. That’s when **inbound content** takes over.
+
+Content has **infinite scale**. Outbound doesn’t.
+
+> “If you're not building toward inbound, you're capping yourself.”
+
+### Ascension from Cold to Warm Leads
+
+Learning Sales:
+
+Cold outbound → Inbound leads → Warmer sales calls
+
+Outbound is hard, but it teaches **sales**.
+
+And once you plant the seeds with content, warm leads start flowing in.
+
+When someone books a call with you, they already trust you.
+
+> “You become the mob boss. You decide if you want to work with them.”
+
+[A better frame](https://youtu.be/UHt4J5Rzlm4?t=688).
+
+### Sales Assets Make This Easy
+
+Client Ascension showed me:
+
+* How to make content
+* How to use **ChatGPT** to write sales assets
+* How to **scale my brand** on Twitter
+
+In 28 days I got over **1 million Twitter impressions**.
+
+And now I’m preparing to scale that same model to LinkedIn, YouTube, and Instagram.
+
+### Not Everyone Should Build a Brand… but You Probably Should
+
+If you're not:
+
+* Interesting
+* Story-driven
+* Funny
+* Expressive
+
+...then maybe stick to cold outreach or ads.
+
+But if you have something to say, **Twitter is the easiest place to win**.
+
+All you do is narrate what you’re doing and publish sales assets.
+
+### The Offer Ecosystem: Cold Email, VSLs, Funnels
+
+Once I built a system for coaching, I saw how important it was to:
+
+* Build the *entire highway* from lead → payment → delivery
+* Make it easy for people to go from learning about me to giving me money
+
+> “If someone lands on your profile, they should either book a call or buy something.”
+
+Now I get random $500–$1000 payments from people who liked my content and bought something. Passive revenue.
+
+### The Value of Live Support and Community
+
+I'm not a “watch every video” course guy.
+I show up on the **calls**, talk to the coaches (Daniel, Dakota, Logan, Rogers), and ask what to do.
+
+Everyone has a strength:
+
+* Daniel = Offers, marketing
+* Dakota = Twitter
+* Logan + Nick = Branding
+* Andre = Ops (though I outsource this part)
+
+I partnered with someone who handles **ops and delivery**.
+
+Life is so much easier.
+
+### Skip the Potholes, Follow the Map
+
+Client Ascension lets you skip mistakes:
+
+* They already know what roadblocks you’ll hit
+* They’ve already solved them
+* They tell you what to do to avoid wasting time
+
+Whether you’re:
+
+* A freelancer looking to scale
+* A beginner with a skill
+* A current agency owner
+* Running a coaching program
+
+You’ll get value.
+
+### Final Thoughts: ROI Is Guaranteed If You Do the Work
+
+You will not come into Client Ascension, do the work, and see no results. 
+
+Everything I’ve built recently—brand, revenue, inbound, systems—came from this program.
+
+> “Don’t be the person who joins and doesn’t execute. That’s the only way this doesn’t work.”
+
+### Even Now… The Leverage Is Still There
+
+I’ve built out B2C. Now I’m thinking:
+
+> “Let’s fire up some cold emails in the background too.”
+
+And we already have the systems to do that. That’s the beauty of it—it’s all modular.
+
+## Eddie & Brady Interview
+
+!!! tip
+
+    This is Video #46 on [Daniel's channel](https://www.youtube.com/@danielfazio).
+
+[Scaling a Tik Tok Agency to $29.5k/mo in 45 Days (Short Form Content Marketing Agency)](https://www.youtube.com/watch?v=VP47i9kdyR0) - 12 June 2023
+
+### From $5K to $29K/month in 40 Days: Eddie & Brady's Story
+
+I got the boys Eddie and Brady here.
+
+They're in Client Ascension, and in just a short time, they scaled their business from $5K–$7K/month to $29.5K/month.
+
+Here's how they did it.
+
+### Fixing the Sales Side
+
+Eddie: One of the biggest things for us was **sales**.
+
+We had a ton of leads, mainly from my TikTok, but we weren’t closing.
+
+After joining CA:
+
+* We stopped talking to broke leads
+* I worked with David 1-on-1
+* We learned proper B2B sales from the training
+
+That changed everything.
+
+### Defining Roles Based on Strengths
+
+Brady: It wasn't just sales. You guys looked into our business and said:
+
+* One of you needs to own sales
+* One of you needs to own product
+* You can both work on marketing
+
+We did a personality test—Eddie’s extroverted, I’m introverted. Now:
+
+* Eddie handles sales
+* I handle product
+* We both do marketing
+
+That clarity skyrocketed everything.
+
+### Morphing the Offer
+
+Brady: We originally came from selling info products and jumped into the agency space, working with eCom. But we weren’t great at eCom.
+
+Daniel helped us **refocus our ICP to coaches and info product creators**, which we understood well. That instantly clicked.
+
+We restructured the offer:
+
+* Made bold claims
+* Guaranteed results
+* Increased prices
+
+At first, I didn’t think people would pay that much. Daniel told me:
+
+> “This is not a lot of money to someone making $50K a month.”
+
+Three weeks later, we closed two retainers at max contract size.
+
+### Charging High-Ticket Without Flinching
+
+If you’ve only sold to broke people, it’s hard to imagine people paying $5K–$8K/month.
+
+But once you're positioned properly:
+
+* Risk is reversed
+* You have proof
+* You’re targeting the right audience
+
+It becomes completely normal.
+
+### Cold DMs and Sales Assets
+
+Eddie: Cold DMs worked great once I:
+
+* Optimized my Twitter
+* Posted sales assets
+* Engaged consistently
+
+We even hired a **low-cost VA** who sent 5,000 DMs using Flowchat.
+
+That was a game changer.
+
+Daniel: That’s the difference between **doing cold outreach** and **doing it successfully**:
+
+* Your internet presence matters
+* Sales assets matter
+* A VSL, value proposition, risk reversal—all of it has to be dialed in
+
+Most people doing cold outreach are just invisible on the internet.
+
+### Knowing the Market and Competitors
+
+Brady: Once we understood:
+
+* What our competitors were saying
+* What pitches our prospects were getting
+* What our ICP actually wanted
+
+...everything changed.
+
+It was just about learning to **present our value properly**.
+
+Eddie: We become the ICP before the customers. So it was just like selling to ourselves.
+
+### Selling to the Wrong Person = Bad Fit
+
+Daniel: Sometimes it's not that you're bad at what you do.
+
+You're just selling to the wrong person.
+
+You guys were good at TikTok ads—but were selling to people who didn’t run good businesses.
+
+We flipped it:
+
+* Sell to legit businesses
+* Target higher end of the market
+* Structure the offer accordingly
+
+### Selling to High-End Clients Is Different
+
+Brady: It’s a different lens.
+
+* Broke clients are easy to close but hard to keep
+
+* High-end clients **won’t even get on a call** unless you have:
+
+  * Social proof
+  * Case studies
+  * Sales assets
+  * A compelling VSL
+
+You have to be **calculated** and **deliberate** to move them through the funnel.
+
+### Moving Toward Info Products
+
+Eddie: Now, because we’ve gotten so many good results, we’re building an **info product** around it.
+
+Brady: This is what’s fun for us—building something long-term, not just another short-term cash cow.
+
+Something we can run for 5–10 years.
+
+### Why Client Ascension Works
+
+Daniel: We focus on:
+
+1. **Cold Outreach** – to get initial traction
+2. **Sales Assets** – to boost cold outreach and build an audience
+3. **Long-Term Positioning** – so you can evolve the business over time
+
+You now have:
+
+* A working cold DM funnel
+* A personal brand
+* Multiple offers for different parts of the market
+
+### Dominating Your Market
+
+Daniel: Most people think if there are 100 competitors and 1,000 clients, everyone gets 10.
+
+That’s false.
+
+> Two people get **almost all** the clients.
+
+How? Social proof.
+
+Brady: We saw Presley do that in the Miami short-form content space.
+
+He literally took over the entire local market.
+
+Daniel: It’s always whoever has the most **proof and visibility**—they win.
+
+### Social Proof Is the Kingmaker
+
+Daniel: Everything in business reflects this:
+
+* Google shows businesses with the most reviews first
+* Amazon ranks products based on reviews
+* The most trusted = the most visible = the most money
+
+Client Ascension is built to give you that **momentum trajectory**.
+
+### Not Just "Get Clients Fast" Hype
+
+Brady: Most programs just help you get your **first few clients** with hype claims like:
+
+> “Get a client in 48 hours or don’t pay.”
+
+Client Ascension actually:
+
+* Helps with fulfillment
+* Helps with ops (Zapier, systems, delivery)
+* Positions your business for long-term growth
+
+You guys actually care.
+
+### Content Compounds. Do It Now.
+
+Brady: You told us to post on **YouTube**.
+
+Most people don’t want to do that because it doesn’t pay back immediately.
+
+But that’s the point—**it compounds** over 1–3 years. You’re setting us up for long-term success, not short-term dopamine.
+
+### Why CA Is Different
+
+Daniel: Take two people with the same:
+
+* Offer
+* VSL
+* Email script
+* Tools
+* List
+
+The one with content wins **all** the clients.
+
+You're always in an auction when sending a cold email. There’s only **one slot**.
+
+> You need to be the **undeniable best option**.
+
+We help people become that—at every layer.
+
+### Final Thoughts
+
+Brady: You guys go **far beyond** what other programs do.
+
+You teach us the compounding stuff—content, systems, branding.
+
+And now we’re set up for:
+
+* A thriving agency
+* A powerful personal brand
+* A future info product business
+
+### Thanks for Coming On
+
+Daniel: Gentlemen, thank you for sharing.
+
+I’ll leave links to your stuff in the description for anyone who wants to connect. Appreciate you both.
+
